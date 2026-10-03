@@ -232,3 +232,31 @@
   "delayMinutes": 22,
   "delaySeconds": 50
 }
+2026-10-03 16:20:01.528Z, Success vote with index: 6 
+  User: {
+  "login": "vzaytsevskiy",
+  "password": "545thunder",
+  "email": "vladimir.zaytsevskiy@bk.ru",
+  "name": "Владимир",
+  "lastname": "Зайцевский",
+  "phone": "+79369974989",
+  "day": 12,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 34
+}
+2026-10-03 16:22:46.131Z, Success vote with index: 8 
+  User: {
+  "login": "gorbachevabram",
+  "password": "candy52060",
+  "email": "gorbachev_abram@outlook.com",
+  "name": "Абрам",
+  "lastname": "Горбачёв",
+  "phone": "+79153936036",
+  "day": 13,
+  "month": 1,
+  "year": 1983,
+  "delayMinutes": 26,
+  "delaySeconds": 8
+}

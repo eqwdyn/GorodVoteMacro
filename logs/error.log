@@ -322,3 +322,17 @@
   "delayMinutes": 27,
   "delaySeconds": 13
 }
+2026-10-03 16:22:15.365Z, ERROR: Error while vote with index: 7 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "g.filatov",
+  "password": "Candy18!",
+  "email": "g_filatov@yahoo.com",
+  "name": "Гурий",
+  "lastname": "Филатов",
+  "phone": "+79178551246",
+  "day": 14,
+  "month": 3,
+  "year": 1992,
+  "delayMinutes": 14,
+  "delaySeconds": 16
+}

@@ -32,12 +32,20 @@ async function main() {
   let successVotes = 0;
   let errorVotes = 0;
 
+  const now = new Date();
+  const currentHour = now.getHours();
+
+  // Флаг: сейчас «ночной» период (23:00–05:00)
+  const isNight = currentHour >= 23 || currentHour < 5;
+
+  const maxDelayMinutes = isNight ? 10 : 30;
+
   const users = initUsers.map((user) => {
     const day = generateNumbers(1, 28);
     const month = generateNumbers(1, 12);
     const year = generateNumbers(1982, 2004);
 
-    const delayMinutes = generateNumbers(5, 30);
+    const delayMinutes = generateNumbers(5, maxDelayMinutes);
     const delaySeconds = generateNumbers(1, 60);
 
     return { ...user, day, month, year, delayMinutes, delaySeconds };
@@ -70,6 +78,7 @@ async function main() {
 
     try {
       await register(user);
+      await new Promise((r) => setTimeout(r, 5000));
       await proccessChromium(user);
 
       SuccessLogger.log(
