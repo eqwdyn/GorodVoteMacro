@@ -1,0 +1,802 @@
+[
+  {
+    "login": "bogdan_gusev246143",
+    "password": "coffee78730",
+    "email": "bogdangusev262666@outlook.com",
+    "name": "Богдан",
+    "lastname": "Гусев",
+    "phone": "+79864427334"
+  },
+  {
+    "login": "iosif_ilin",
+    "password": "sunshine18146",
+    "email": "iosif.ilin970152@list.ru",
+    "name": "Иосиф",
+    "lastname": "Ильин",
+    "phone": "+79253749542"
+  },
+  {
+    "login": "modest.martynov605295",
+    "password": "Sun2869",
+    "email": "modest.martynov408146@gmail.com",
+    "name": "Модест",
+    "lastname": "Мартынов",
+    "phone": "+79813663567"
+  },
+  {
+    "login": "emelyankozlov28540",
+    "password": "freedom78!",
+    "email": "emelyankozlov18937@live.com",
+    "name": "Емельян",
+    "lastname": "Козлов",
+    "phone": "+79424844178"
+  },
+  {
+    "login": "ippolit_averin",
+    "password": "iloveyou28@",
+    "email": "ippolit.averin@list.ru",
+    "name": "Ипполит",
+    "lastname": "Аверин",
+    "phone": "+79961006524"
+  },
+  {
+    "login": "kudryavtsevgrigoriy",
+    "password": "55guitar",
+    "email": "kudryavtsev_grigoriy@outlook.com",
+    "name": "Григорий",
+    "lastname": "Кудрявцев",
+    "phone": "+79963695154"
+  },
+  {
+    "login": "vzaytsevskiy",
+    "password": "545thunder",
+    "email": "vladimir.zaytsevskiy@bk.ru",
+    "name": "Владимир",
+    "lastname": "Зайцевский",
+    "phone": "+79369974989"
+  },
+  {
+    "login": "g.filatov",
+    "password": "Candy18!",
+    "email": "g_filatov@yahoo.com",
+    "name": "Гурий",
+    "lastname": "Филатов",
+    "phone": "+79178551246"
+  },
+  {
+    "login": "gorbachevabram",
+    "password": "candy52060",
+    "email": "gorbachev_abram@outlook.com",
+    "name": "Абрам",
+    "lastname": "Горбачёв",
+    "phone": "+79153936036"
+  },
+  {
+    "login": "pankrat.bogdanov619740",
+    "password": "44honey",
+    "email": "pankrat_bogdanov@yahoo.com",
+    "name": "Панкрат",
+    "lastname": "Богданов",
+    "phone": "+79861859126"
+  },
+  {
+    "login": "t_titov",
+    "password": "password1989",
+    "email": "terentiy.titov@zoho.com",
+    "name": "Терентий",
+    "lastname": "Титов",
+    "phone": "+79025404633"
+  },
+  {
+    "login": "lukinanatalya",
+    "password": "eagle91$",
+    "email": "n_lukina@yandex.ru",
+    "name": "Наталья",
+    "lastname": "Лукина",
+    "phone": "+79577462219"
+  },
+  {
+    "login": "timur.ryabov994679",
+    "password": "phoenix97#",
+    "email": "timur.ryabov@proton.me",
+    "name": "Тимур",
+    "lastname": "Рябов",
+    "phone": "+79345846026"
+  },
+  {
+    "login": "n.krylov",
+    "password": "Rainbow314!",
+    "email": "natan.krylov264538@live.com",
+    "name": "Натан",
+    "lastname": "Крылов",
+    "phone": "+79952886846"
+  },
+  {
+    "login": "sfursov",
+    "password": "Secret236!",
+    "email": "shamil.fursov@yahoo.com",
+    "name": "Шамиль",
+    "lastname": "Фурсов",
+    "phone": "+79316696528"
+  },
+  {
+    "login": "kalininkapiton",
+    "password": "Blues813!",
+    "email": "k.kalinin@mail.ru",
+    "name": "Капитон",
+    "lastname": "Калинин",
+    "phone": "+79151851034"
+  },
+  {
+    "login": "miroslav_lebedinskiy911593",
+    "password": "Lion1877",
+    "email": "miroslav.lebedinskiy270339@gmail.com",
+    "name": "Мирослав",
+    "lastname": "Лебединский",
+    "phone": "+79249468196"
+  },
+  {
+    "login": "prohorov_nikolay",
+    "password": "Admin1411",
+    "email": "nikolayprohorov424168@live.com",
+    "name": "Николай",
+    "lastname": "Прохоров",
+    "phone": "+79781436693"
+  },
+  {
+    "login": "goncharov_faddey",
+    "password": "Knight5704",
+    "email": "goncharov_faddey@gmail.com",
+    "name": "Фаддей",
+    "lastname": "Гончаров",
+    "phone": "+79319713690"
+  },
+  {
+    "login": "romanovadarya",
+    "password": "green78#",
+    "email": "romanova_darya@outlook.com",
+    "name": "Дарья",
+    "lastname": "Романова",
+    "phone": "+79411211287"
+  },
+  {
+    "login": "veniaminabramov",
+    "password": "cookie1120",
+    "email": "veniamin.abramov706334@outlook.com",
+    "name": "Вениамин",
+    "lastname": "Абрамов",
+    "phone": "+79542778052"
+  },
+  {
+    "login": "eduard.strelkov",
+    "password": "falcon5623",
+    "email": "eduard_strelkov@rambler.ru",
+    "name": "Эдуард",
+    "lastname": "Стрелков",
+    "phone": "+79247432170"
+  },
+  {
+    "login": "zsokolova",
+    "password": "Piano7182",
+    "email": "zoyasokolova213679@inbox.ru",
+    "name": "Зоя",
+    "lastname": "Соколова",
+    "phone": "+79191644397"
+  },
+  {
+    "login": "fedorderbin4705",
+    "password": "Rock4881",
+    "email": "fedor.derbin633776@yahoo.com",
+    "name": "Фёдор",
+    "lastname": "Дербин",
+    "phone": "+79375172627"
+  },
+  {
+    "login": "germanboldin",
+    "password": "eagle8981",
+    "email": "german_boldin561034@outlook.com",
+    "name": "Герман",
+    "lastname": "Болдин",
+    "phone": "+79606368026"
+  },
+  {
+    "login": "nikolaevyuriy",
+    "password": "5663rock",
+    "email": "y.nikolaev@mail.ru",
+    "name": "Юрий",
+    "lastname": "Николаев",
+    "phone": "+79971677348"
+  },
+  {
+    "login": "anastasiya_fursova",
+    "password": "9secret",
+    "email": "anastasiyafursova674205@list.ru",
+    "name": "Анастасия",
+    "lastname": "Фурсова",
+    "phone": "+79821411811"
+  },
+  {
+    "login": "kabanovfeliks",
+    "password": "26123456",
+    "email": "f.kabanov@icloud.com",
+    "name": "Феликс",
+    "lastname": "Кабанов",
+    "phone": "+79958351037"
+  },
+  {
+    "login": "nikita_korolev763575",
+    "password": "summer34176",
+    "email": "korolev_nikita@gmail.com",
+    "name": "Никита",
+    "lastname": "Королёв",
+    "phone": "+79663958712"
+  },
+  {
+    "login": "ruslan_chernyshev",
+    "password": "lion534",
+    "email": "ruslanchernyshev412566@icloud.com",
+    "name": "Руслан",
+    "lastname": "Чернышёв",
+    "phone": "+79778822746"
+  },
+  {
+    "login": "zoryannosov",
+    "password": "Sunshine7109",
+    "email": "z_nosov@outlook.com",
+    "name": "Зорян",
+    "lastname": "Носов",
+    "phone": "+79352817542"
+  },
+  {
+    "login": "a_plyuschev",
+    "password": "soul5969",
+    "email": "avdey_plyuschev@hotmail.com",
+    "name": "Авдей",
+    "lastname": "Плющев",
+    "phone": "+79343373296"
+  },
+  {
+    "login": "svetlana_halturina",
+    "password": "Winter883!",
+    "email": "s_halturina@bk.ru",
+    "name": "Светлана",
+    "lastname": "Халтурина",
+    "phone": "+79535103043"
+  },
+  {
+    "login": "viktor_popov",
+    "password": "Summer475!",
+    "email": "v.popov@hotmail.com",
+    "name": "Виктор",
+    "lastname": "Попов",
+    "phone": "+79944269032"
+  },
+  {
+    "login": "varlamovmoisey",
+    "password": "Football409!",
+    "email": "m.varlamov@outlook.com",
+    "name": "Моисей",
+    "lastname": "Варламов",
+    "phone": "+79296122598"
+  },
+  {
+    "login": "u_turgenev",
+    "password": "Ninja4531",
+    "email": "ustin_turgenev67507@proton.me",
+    "name": "Устин",
+    "lastname": "Тургенев",
+    "phone": "+79572604162"
+  },
+  {
+    "login": "vissarionsharapov",
+    "password": "monkey1412",
+    "email": "vissarion.sharapov398205@icloud.com",
+    "name": "Виссарион",
+    "lastname": "Шарапов",
+    "phone": "+79644477410"
+  },
+  {
+    "login": "galkin.kazimir",
+    "password": "Chocolate894#",
+    "email": "kazimirgalkin@rambler.ru",
+    "name": "Казимир",
+    "lastname": "Галкин",
+    "phone": "+79932467182"
+  },
+  {
+    "login": "olgaorlova",
+    "password": "60red",
+    "email": "o.orlova@gmail.com",
+    "name": "Ольга",
+    "lastname": "Орлова",
+    "phone": "+79907104878"
+  },
+  {
+    "login": "samson.drozdov",
+    "password": "red7447",
+    "email": "samson_drozdov@bk.ru",
+    "name": "Самсон",
+    "lastname": "Дроздов",
+    "phone": "+79565465017"
+  },
+  {
+    "login": "yuliya.razumovskaya",
+    "password": "Chocolate953!",
+    "email": "yuliyarazumovskaya@zoho.com",
+    "name": "Юлия",
+    "lastname": "Разумовская",
+    "phone": "+79898623427"
+  },
+  {
+    "login": "logvin.belyakov808870",
+    "password": "Password1985",
+    "email": "logvin_belyakov804256@mail.ru",
+    "name": "Логвин",
+    "lastname": "Беляков",
+    "phone": "+79307173637"
+  },
+  {
+    "login": "zinoviymedvedev",
+    "password": "blue8803",
+    "email": "zinoviymedvedev363615@list.ru",
+    "name": "Зиновий",
+    "lastname": "Медведев",
+    "phone": "+79333991292"
+  },
+  {
+    "login": "kolesnikov_frol",
+    "password": "Princess6553",
+    "email": "frolkolesnikov854534@zoho.com",
+    "name": "Фрол",
+    "lastname": "Колесников",
+    "phone": "+79512909670"
+  },
+  {
+    "login": "alekseev.gavriil",
+    "password": "2red",
+    "email": "gavriil.alekseev@hotmail.com",
+    "name": "Гавриил",
+    "lastname": "Алексеев",
+    "phone": "+79502101364"
+  },
+  {
+    "login": "paveltyanin968523",
+    "password": "qwerty48#",
+    "email": "pavel.tyanin355563@list.ru",
+    "name": "Павел",
+    "lastname": "Тянин",
+    "phone": "+79428614359"
+  },
+  {
+    "login": "nadezhda_kozlova175445",
+    "password": "Cool81!",
+    "email": "nadezhda.kozlova@yandex.ru",
+    "name": "Надежда",
+    "lastname": "Козлова",
+    "phone": "+79272145459"
+  },
+  {
+    "login": "mitrofan_norin903942",
+    "password": "football71#",
+    "email": "mitrofan_norin@zoho.com",
+    "name": "Митрофан",
+    "lastname": "Норин",
+    "phone": "+79514213458"
+  },
+  {
+    "login": "yanuariykuznetsov",
+    "password": "Spring803#",
+    "email": "yanuariy_kuznetsov@mail.ru",
+    "name": "Януарий",
+    "lastname": "Кузнецов",
+    "phone": "+79414627028"
+  },
+  {
+    "login": "sazonov.leontiy",
+    "password": "Warrior266!",
+    "email": "leontiy_sazonov970753@list.ru",
+    "name": "Леонтий",
+    "lastname": "Сазонов",
+    "phone": "+79345412486"
+  },
+  {
+    "login": "alekseyrumyantsev",
+    "password": "Qwerty703!",
+    "email": "alekseyrumyantsev@list.ru",
+    "name": "Алексей",
+    "lastname": "Румянцев",
+    "phone": "+79929583937"
+  },
+  {
+    "login": "oushakov",
+    "password": "honey7821",
+    "email": "oleg_ushakov920803@live.com",
+    "name": "Олег",
+    "lastname": "Ушаков",
+    "phone": "+79386311437"
+  },
+  {
+    "login": "voroninartem",
+    "password": "9072flower",
+    "email": "artem_voronin@proton.me",
+    "name": "Артём",
+    "lastname": "Воронин",
+    "phone": "+79273786511"
+  },
+  {
+    "login": "tihon_obolenskiy",
+    "password": "2021thunder",
+    "email": "tihon.obolenskiy82808@yandex.ru",
+    "name": "Тихон",
+    "lastname": "Оболенский",
+    "phone": "+79558975732"
+  },
+  {
+    "login": "radislav_zhukov",
+    "password": "chocolate61@",
+    "email": "radislav.zhukov@outlook.com",
+    "name": "Радислав",
+    "lastname": "Жуков",
+    "phone": "+79532789849"
+  },
+  {
+    "login": "anisimov_harlamp",
+    "password": "Princess3286",
+    "email": "harlamp_anisimov540254@mail.ru",
+    "name": "Харламп",
+    "lastname": "Анисимов",
+    "phone": "+79925782444"
+  },
+  {
+    "login": "romanovapollinariy",
+    "password": "553rainbow",
+    "email": "apollinariyromanov@gmail.com",
+    "name": "Аполлинарий",
+    "lastname": "Романов",
+    "phone": "+79272333190"
+  },
+  {
+    "login": "gavrilov_zotik",
+    "password": "3968tiger",
+    "email": "gavrilov_zotik@bk.ru",
+    "name": "Зотик",
+    "lastname": "Гаврилов",
+    "phone": "+79037938866"
+  },
+  {
+    "login": "vorobev_orest",
+    "password": "Wolf996@",
+    "email": "o.vorobev@outlook.com",
+    "name": "Орест",
+    "lastname": "Воробьёв",
+    "phone": "+79824527141"
+  },
+  {
+    "login": "polina.frolova",
+    "password": "1141love",
+    "email": "frolova_polina@gmail.com",
+    "name": "Полина",
+    "lastname": "Фролова",
+    "phone": "+79186368463"
+  },
+  {
+    "login": "sergey_sorokin",
+    "password": "eagle34351",
+    "email": "sergey_sorokin@icloud.com",
+    "name": "Сергей",
+    "lastname": "Сорокин",
+    "phone": "+79117143575"
+  },
+  {
+    "login": "leoniddanilov",
+    "password": "45summer",
+    "email": "leoniddanilov176528@yahoo.com",
+    "name": "Леонид",
+    "lastname": "Данилов",
+    "phone": "+79557894136"
+  },
+  {
+    "login": "boris_kulikov700508",
+    "password": "Crystal105#",
+    "email": "boriskulikov@zoho.com",
+    "name": "Борис",
+    "lastname": "Куликов",
+    "phone": "+79683849242"
+  },
+  {
+    "login": "galinarumyantseva",
+    "password": "Rainbow312!",
+    "email": "galinarumyantseva18459@outlook.com",
+    "name": "Галина",
+    "lastname": "Румянцева",
+    "phone": "+79028895826"
+  },
+  {
+    "login": "hpolyakov",
+    "password": "welcome50*",
+    "email": "haritonpolyakov@outlook.com",
+    "name": "Харитон",
+    "lastname": "Поляков",
+    "phone": "+79824803429"
+  },
+  {
+    "login": "pshestakov",
+    "password": "14trustno1",
+    "email": "shestakov_prohor@yahoo.com",
+    "name": "Прохор",
+    "lastname": "Шестаков",
+    "phone": "+79598958476"
+  },
+  {
+    "login": "mihaylov_luka",
+    "password": "75hello",
+    "email": "luka_mihaylov616363@live.com",
+    "name": "Лука",
+    "lastname": "Михайлов",
+    "phone": "+79524312398"
+  },
+  {
+    "login": "porfiriy.zuev",
+    "password": "Winter4661",
+    "email": "p.zuev@yahoo.com",
+    "name": "Порфирий",
+    "lastname": "Зуев",
+    "phone": "+79064163758"
+  },
+  {
+    "login": "dementiy.vasilev701580",
+    "password": "monkey27%",
+    "email": "vasilev_dementiy@yandex.ru",
+    "name": "Дементий",
+    "lastname": "Васильев",
+    "phone": "+79638058928"
+  },
+  {
+    "login": "daniil.novikov596694",
+    "password": "1123trustno1",
+    "email": "daniilnovikov@live.com",
+    "name": "Даниил",
+    "lastname": "Новиков",
+    "phone": "+79319477419"
+  },
+  {
+    "login": "aturgeneva",
+    "password": "26falcon",
+    "email": "annaturgeneva767141@live.com",
+    "name": "Анна",
+    "lastname": "Тургенева",
+    "phone": "+79895428587"
+  },
+  {
+    "login": "v.naumov",
+    "password": "Love2323",
+    "email": "vadimnaumov264906@rambler.ru",
+    "name": "Вадим",
+    "lastname": "Наумов",
+    "phone": "+79564591989"
+  },
+  {
+    "login": "t.arhipov",
+    "password": "87password",
+    "email": "trifon_arhipov557289@rambler.ru",
+    "name": "Трифон",
+    "lastname": "Архипов",
+    "phone": "+79135528590"
+  },
+  {
+    "login": "andrey_scherbakov430288",
+    "password": "4066happy",
+    "email": "andreyscherbakov@outlook.com",
+    "name": "Андрей",
+    "lastname": "Щербаков",
+    "phone": "+79973295059"
+  },
+  {
+    "login": "vinogradovakarina",
+    "password": "9583warrior",
+    "email": "karina_vinogradova@zoho.com",
+    "name": "Карина",
+    "lastname": "Виноградова",
+    "phone": "+79275228161"
+  },
+  {
+    "login": "latyshevalyubov",
+    "password": "love5166",
+    "email": "lyubovlatysheva282661@outlook.com",
+    "name": "Любовь",
+    "lastname": "Латышева",
+    "phone": "+79173527047"
+  },
+  {
+    "login": "a_malinina",
+    "password": "winter1209",
+    "email": "malinina_aleksandra@live.com",
+    "name": "Александра",
+    "lastname": "Малинина",
+    "phone": "+79426124769"
+  },
+  {
+    "login": "kuznetsovavaleriya",
+    "password": "24princess",
+    "email": "v_kuznetsova@gmail.com",
+    "name": "Валерия",
+    "lastname": "Кузнецова",
+    "phone": "+79501373495"
+  },
+  {
+    "login": "averyanova_ekaterina",
+    "password": "jazz3305",
+    "email": "averyanova_ekaterina@yahoo.com",
+    "name": "Екатерина",
+    "lastname": "Аверьянова",
+    "phone": "+79213213070"
+  },
+  {
+    "login": "itarasov",
+    "password": "92admin",
+    "email": "ilariontarasov@yahoo.com",
+    "name": "Иларион",
+    "lastname": "Тарасов",
+    "phone": "+79098697729"
+  },
+  {
+    "login": "kirill_melnikov411498",
+    "password": "phoenix82@",
+    "email": "k.melnikov@mail.ru",
+    "name": "Кирилл",
+    "lastname": "Мельников",
+    "phone": "+79274916682"
+  },
+  {
+    "login": "trofim.bykov",
+    "password": "golden6063",
+    "email": "trofimbykov134164@bk.ru",
+    "name": "Трофим",
+    "lastname": "Быков",
+    "phone": "+79021009826"
+  },
+  {
+    "login": "tatyanakotova8834",
+    "password": "cookie58649",
+    "email": "tatyana.kotova@live.com",
+    "name": "Татьяна",
+    "lastname": "Котова",
+    "phone": "+79526913188"
+  },
+  {
+    "login": "anton.solovev",
+    "password": "Sunshine361!",
+    "email": "anton.solovev342875@rambler.ru",
+    "name": "Антон",
+    "lastname": "Соловьёв",
+    "phone": "+79342511941"
+  },
+  {
+    "login": "taras.pavlov",
+    "password": "Hello886@",
+    "email": "taras.pavlov@outlook.com",
+    "name": "Тарас",
+    "lastname": "Павлов",
+    "phone": "+79673282927"
+  },
+  {
+    "login": "irina.zaytseva",
+    "password": "Samurai266!",
+    "email": "i.zaytseva@live.com",
+    "name": "Ирина",
+    "lastname": "Зайцева",
+    "phone": "+79254529279"
+  },
+  {
+    "login": "c.tretyakov",
+    "password": "Super15!",
+    "email": "cheslav_tretyakov41720@yahoo.com",
+    "name": "Чеслав",
+    "lastname": "Третьяков",
+    "phone": "+79526236777"
+  },
+  {
+    "login": "orlov.zahar",
+    "password": "23rock",
+    "email": "zahar.orlov633421@bk.ru",
+    "name": "Захар",
+    "lastname": "Орлов",
+    "phone": "+79659882510"
+  },
+  {
+    "login": "yuliangordeev49882",
+    "password": "jazz4933",
+    "email": "yuliangordeev@inbox.ru",
+    "name": "Юлиан",
+    "lastname": "Гордеев",
+    "phone": "+79881521951"
+  },
+  {
+    "login": "ilyanekrasov599174",
+    "password": "moon30&",
+    "email": "ilya_nekrasov@rambler.ru",
+    "name": "Илья",
+    "lastname": "Некрасов",
+    "phone": "+79881471051"
+  },
+  {
+    "login": "uar.chuvilev451954",
+    "password": "Guitar8789",
+    "email": "uar.chuvilev440682@bk.ru",
+    "name": "Уар",
+    "lastname": "Чувилев",
+    "phone": "+79993392353"
+  },
+  {
+    "login": "aleksandrovavera",
+    "password": "9978hello",
+    "email": "v_aleksandrova@icloud.com",
+    "name": "Вера",
+    "lastname": "Александрова",
+    "phone": "+79253297982"
+  },
+  {
+    "login": "agafonovivan",
+    "password": "Thunder8234",
+    "email": "i_agafonov@yahoo.com",
+    "name": "Иван",
+    "lastname": "Агафонов",
+    "phone": "+79275584959"
+  },
+  {
+    "login": "kasyan.averyanov810407",
+    "password": "78knight",
+    "email": "k.averyanov@yahoo.com",
+    "name": "Касьян",
+    "lastname": "Аверьянов",
+    "phone": "+79956642757"
+  },
+  {
+    "login": "bkonovalov",
+    "password": "coffee8201",
+    "email": "bazhen.konovalov315124@outlook.com",
+    "name": "Бажен",
+    "lastname": "Коновалов",
+    "phone": "+79533074332"
+  },
+  {
+    "login": "maksim_vlasov",
+    "password": "falcon98229",
+    "email": "maksim.vlasov@yahoo.com",
+    "name": "Максим",
+    "lastname": "Власов",
+    "phone": "+79592806022"
+  },
+  {
+    "login": "velimir_maksimov484082",
+    "password": "football9212",
+    "email": "velimir_maksimov612045@hotmail.com",
+    "name": "Велимир",
+    "lastname": "Максимов",
+    "phone": "+79052091750"
+  },
+  {
+    "login": "ezhov_osip",
+    "password": "Cool4246",
+    "email": "o_ezhov@proton.me",
+    "name": "Осип",
+    "lastname": "Ежов",
+    "phone": "+79171992568"
+  },
+  {
+    "login": "larisa_nikolaeva180782",
+    "password": "moon2386",
+    "email": "nikolaeva_larisa@outlook.com",
+    "name": "Лариса",
+    "lastname": "Николаева",
+    "phone": "+79298295429"
+  },
+  {
+    "login": "gordey_yakovlev",
+    "password": "Music5347",
+    "email": "gordeyyakovlev556728@yandex.ru",
+    "name": "Гордей",
+    "lastname": "Яковлев",
+    "phone": "+79954006190"
+  }
+]

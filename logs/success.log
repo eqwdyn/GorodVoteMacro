@@ -1,0 +1,234 @@
+2026-09-30 12:36:34.292Z, Success vote with index: 46
+2026-09-30 12:37:58.385Z, Success vote with index: 48
+2026-09-30 12:38:28.522Z, Success vote with index: 49
+2026-10-01 20:38:05.864Z, Success vote with index: 51
+2026-10-01 20:41:13.157Z, Success vote with index: 52
+2026-10-01 20:58:36.976Z, Success vote with index: 55 
+  User: {
+  "login": "miroslava_timofeeva80",
+  "password": "artem_nikolaev92",
+  "email": "miroslava_medvedeva_2000@yandex.ru",
+  "name": "Мирослава",
+  "lastname": "Тимофеева",
+  "day": 1,
+  "month": 2,
+  "year": 1994
+}
+2026-10-01 21:12:17.093Z, Success vote with index: 57 
+  User: {
+  "login": "yana_kudryavtseva49",
+  "password": "svetlana_zaharova91",
+  "email": "yana_volkova_2002@bk.ru",
+  "name": "Яна",
+  "lastname": "Кудрявцева",
+  "day": 14,
+  "month": 7,
+  "year": 1991
+}
+2026-10-01 21:46:24.846Z, Success vote with index: 60 
+  User: {
+  "login": "georgiy_lebedev73",
+  "password": "yulia_timofeeva92",
+  "email": "georgiy_belyaev_2001@outlook.com",
+  "name": "Георгий",
+  "lastname": "Лебедев",
+  "day": 1,
+  "month": 11,
+  "year": 1993
+}
+2026-10-01 21:53:51.268Z, Success vote with index: 62 
+  User: {
+  "login": "petr_ustinov43",
+  "password": "mochi_sweet",
+  "email": "petr_morozov_1995@gmail.com",
+  "name": "Пётр",
+  "lastname": "Устинов",
+  "day": 8,
+  "month": 6,
+  "year": 1988
+}
+2026-10-01 22:02:40.344Z, Success vote with index: 63 
+  User: {
+  "login": "emiliya_kharitonova87",
+  "password": "pavel_egorov93",
+  "email": "emiliya_loseva_2002@bk.ru",
+  "name": "Эмилия",
+  "lastname": "Харитонова",
+  "day": 12,
+  "month": 9,
+  "year": 1983
+}
+2026-10-01 22:15:58.882Z, Success vote with index: 64 
+  User: {
+  "login": "nikolay_zhuravlev25",
+  "password": "GameOfThrones",
+  "email": "nikolay_losev_1992@gmail.com",
+  "name": "Николай",
+  "lastname": "Журавлёв",
+  "day": 24,
+  "month": 10,
+  "year": 1999
+}
+2026-10-01 22:35:41.872Z, Success vote with index: 65 
+  User: {
+  "login": "raisa_ilina58",
+  "password": "anastasia_kudryavtseva96",
+  "email": "raisa_morozova_2005@gmail.com",
+  "name": "Раиса",
+  "lastname": "Ильина",
+  "day": 23,
+  "month": 9,
+  "year": 1999
+}
+2026-10-01 22:38:11.650Z, Success vote with index: 67 
+  User: {
+  "login": "kamilla_sokolova14",
+  "password": "rocket_man_77",
+  "email": "kamilla_zaitseva_1987@bk.ru",
+  "name": "Камилла",
+  "lastname": "Соколова",
+  "day": 25,
+  "month": 8,
+  "year": 2002
+}
+2026-10-01 22:45:34.948Z, Success vote with index: 68 
+  User: {
+  "login": "timur_vasiliev36",
+  "password": "egor_shchukin96",
+  "email": "timur_kozlov_2000@bk.ru",
+  "name": "Тимур",
+  "lastname": "Васильев",
+  "day": 13,
+  "month": 3,
+  "year": 2000
+}
+2026-10-01 23:00:52.019Z, Success vote with index: 70 
+  User: {
+  "login": "filipp_pavlov48",
+  "password": "rainy_day_today",
+  "email": "filipp_smirnov_2000@hotmail.com",
+  "name": "Филипп",
+  "lastname": "Павлов",
+  "day": 6,
+  "month": 3,
+  "year": 2000
+}
+2026-10-01 23:04:55.006Z, Success vote with index: 71 
+  User: {
+  "login": "olesya_stepanova75",
+  "password": "ksenia_romanova93",
+  "email": "olesya_kuznetsova_1988@mail.ru",
+  "name": "Олеся",
+  "lastname": "Степанова",
+  "day": 15,
+  "month": 5,
+  "year": 2003
+}
+2026-10-01 23:15:02.275Z, Success vote with index: 72 
+  User: {
+  "login": "eduard_semenov29",
+  "password": "cactus_jack_00",
+  "email": "eduard_bykov_1998@list.ru",
+  "name": "Эдуард",
+  "lastname": "Семёнов",
+  "day": 14,
+  "month": 11,
+  "year": 1984
+}
+2026-10-01 23:32:37.875Z, Success vote with index: 73 
+  User: {
+  "login": "inga_zaharova53",
+  "password": "timofey_lebedev05",
+  "email": "inga_vlasova_1998@outlook.com",
+  "name": "Инга",
+  "lastname": "Захарова",
+  "day": 24,
+  "month": 10,
+  "year": 1985
+}
+2026-10-01 23:36:09.687Z, Success vote with index: 75 
+  User: {
+  "login": "snezhana_timofeeva38",
+  "password": "alina_borisova92",
+  "email": "snezhana_lebedeva_1997@list.ru",
+  "name": "Снежана",
+  "lastname": "Тимофеева",
+  "day": 19,
+  "month": 7,
+  "year": 1987
+}
+2026-10-01 23:40:26.452Z, Success vote with index: 76 
+  User: {
+  "login": "zakhar_egorov61",
+  "password": "MoonWalker99",
+  "email": "zahar_tikhomirov_1992@bk.ru",
+  "name": "Захар",
+  "lastname": "Егоров",
+  "day": 5,
+  "month": 8,
+  "year": 1990
+}
+2026-10-01 23:58:14.060Z, Success vote with index: 77 
+  User: {
+  "login": "maryana_kudryavtseva72",
+  "password": "lev_ustinov97",
+  "email": "maryana_kuznetsova_2002@outlook.com",
+  "name": "Марьяна",
+  "lastname": "Кудрявцева",
+  "day": 4,
+  "month": 3,
+  "year": 1994
+}
+2026-10-02 00:05:35.724Z, Success vote with index: 79 
+  User: {
+  "login": "renata_romanova57",
+  "password": "milana_kharitonova02",
+  "email": "renata_kozlova_1999@bk.ru",
+  "name": "Рената",
+  "lastname": "Романова",
+  "day": 28,
+  "month": 8,
+  "year": 1997
+}
+2026-10-03 15:39:26.847Z, Success vote with index: 1 
+  User: {
+  "login": "iosif_ilin",
+  "password": "sunshine18146",
+  "email": "iosif.ilin970152@list.ru",
+  "name": "Иосиф",
+  "lastname": "Ильин",
+  "phone": "+79253749542",
+  "day": 9,
+  "month": 3,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 21
+}
+2026-10-03 15:43:29.689Z, Success vote with index: 2 
+  User: {
+  "login": "modest.martynov605295",
+  "password": "Sun2869",
+  "email": "modest.martynov408146@gmail.com",
+  "name": "Модест",
+  "lastname": "Мартынов",
+  "phone": "+79813663567",
+  "day": 9,
+  "month": 11,
+  "year": 1984,
+  "delayMinutes": 19,
+  "delaySeconds": 7
+}
+2026-10-03 15:54:39.548Z, Success vote with index: 5 
+  User: {
+  "login": "kudryavtsevgrigoriy",
+  "password": "55guitar",
+  "email": "kudryavtsev_grigoriy@outlook.com",
+  "name": "Григорий",
+  "lastname": "Кудрявцев",
+  "phone": "+79963695154",
+  "day": 5,
+  "month": 8,
+  "year": 1999,
+  "delayMinutes": 22,
+  "delaySeconds": 50
+}
