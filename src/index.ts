@@ -37,8 +37,8 @@ async function main() {
 
   // Флаг: сейчас «ночной» период (23:00–05:00)
   const isNight = currentHour >= 23 || currentHour < 5;
-
   const maxDelayMinutes = isNight ? 10 : 30;
+  console.log("Time mode: ", isNight ? "Night" : "Day");
 
   const users = initUsers.map((user) => {
     const day = generateNumbers(1, 28);

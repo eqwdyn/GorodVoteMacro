@@ -260,3 +260,17 @@
   "delayMinutes": 26,
   "delaySeconds": 8
 }
+2026-10-03 16:26:41.601Z, Success vote with index: 9 
+  User: {
+  "login": "pankrat.bogdanov619740",
+  "password": "44honey",
+  "email": "pankrat_bogdanov@yahoo.com",
+  "name": "Панкрат",
+  "lastname": "Богданов",
+  "phone": "+79861859126",
+  "day": 6,
+  "month": 2,
+  "year": 1988,
+  "delayMinutes": 7,
+  "delaySeconds": 54
+}
