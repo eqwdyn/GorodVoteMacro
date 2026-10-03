@@ -27,7 +27,7 @@ const rawUsers = await readFile("./src/stores/users.json", "utf-8");
 const initUsers = JSON.parse(rawUsers) as User[];
 
 async function main() {
-  let i = lastIndex;
+  let i = lastIndex + 1;
   let votesCount = initUsers.length;
   let errorVotes = 0;
 
