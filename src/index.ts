@@ -29,6 +29,7 @@ const initUsers = JSON.parse(rawUsers) as User[];
 async function main() {
   let i = lastIndex + 1;
   let votesCount = initUsers.length;
+  let successVotes = 0;
   let errorVotes = 0;
 
   const users = initUsers.map((user) => {
@@ -75,6 +76,7 @@ async function main() {
         `Success vote with index: ${i} \n  User: ${JSON.stringify(user, null, 2)}`,
       );
       votesCount--;
+      successVotes++;
 
       const paddedSeconds = user.delaySeconds.toString().padStart(2, "0");
       console.log(`TIME DELAY: ${user.delayMinutes}:${paddedSeconds}`);
@@ -93,7 +95,7 @@ async function main() {
   }
 
   console.log(
-    `Macros have done! \nTotal votes: ${votesCount + errorVotes} \nSuccess votes: ${votesCount} \nError votes: ${errorVotes}`,
+    `Macros have done! \nTotal votes: ${successVotes + errorVotes} \nSuccess votes: ${successVotes} \nError votes: ${errorVotes}`,
   );
 }
 
