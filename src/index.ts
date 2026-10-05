@@ -5,6 +5,10 @@ import { Logger } from "./utils/logger.js";
 import { generateNumbers } from "./utils/generateNumbers.js";
 import { readFile } from "fs/promises";
 import { getLastIndexFromLog } from "./utils/getLastIndexFromLog.js";
+import { isNightTime } from "./utils/isNightTime.js";
+import { macrosWorkTime } from "./utils/macrosWorkTime.js";
+import { User } from "./types/user.interface.js";
+import { parseArgs } from "./utils/parseArgs.js";
 
 const SuccessLogger = new Logger("success.log");
 const ErrorLogger = new Logger("error.log");
@@ -14,33 +18,37 @@ const lastErrorIndex = getLastIndexFromLog("error.log");
 const lastIndex = Math.max(lastErrorIndex, lastSuccessIndex);
 console.log("Last index: ", lastIndex);
 
-interface User {
-  login: string;
-  password: string;
-  email: string;
-  name: string;
-  lastname: string;
-  phone: string;
-}
-
-const rawUsers = await readFile("./src/stores/users.json", "utf-8");
+const rawUsers = await readFile("./src/stores/users_2.json", "utf-8");
 const initUsers = JSON.parse(rawUsers) as User[];
 
+const { start: startArg, end: endArg } = parseArgs();
+
+const startIndex = startArg !== -1 ? startArg : lastIndex + 1;
+const endIndex = endArg !== -1 ? endArg : initUsers.length;
+
+console.log(`Start index: ${startIndex}, End index: ${endIndex}`);
+if (startIndex >= endIndex) {
+  console.log("Нет пользователей для обработки (start >= end). Завершение.");
+  exit(1);
+}
+
+if (startIndex < 1 || startIndex > initUsers.length) {
+  console.log(
+    `Некорректный start index. Допустимый диапазон: 1..${initUsers.length}`,
+  );
+  exit(1);
+}
+
 async function main() {
-  let i = lastIndex + 1;
-  let votesCount = initUsers.length;
+  let i = startIndex;
   let successVotes = 0;
   let errorVotes = 0;
 
-  const now = new Date();
-  const currentHour = now.getHours();
-
-  // Флаг: сейчас «ночной» период (23:00–05:00)
-  const isNight = currentHour >= 23 || currentHour < 5;
+  let isNight = isNightTime();
   const maxDelayMinutes = isNight ? 10 : 30;
   console.log("Time mode: ", isNight ? "Night" : "Day");
 
-  const users = initUsers.map((user) => {
+  const users = initUsers.slice(startIndex, endIndex).map((user) => {
     const day = generateNumbers(1, 28);
     const month = generateNumbers(1, 12);
     const year = generateNumbers(1982, 2004);
@@ -55,26 +63,21 @@ async function main() {
     (prev, cur) => prev + (cur.delayMinutes * 60 + cur.delaySeconds),
     0,
   );
-
-  const totalDelayHours = Math.floor(totalDelay / 3600);
-  const totalDelayMinutes = Math.floor((totalDelay % 3600) / 60);
-  const totalDelaySeconds = totalDelay % 60;
-
-  const paddedMinutes = totalDelayMinutes.toString().padStart(2, "0");
-  const paddedSeconds = totalDelaySeconds.toString().padStart(2, "0");
-  let timeString;
-  if (totalDelayHours > 0) {
-    const paddedH = totalDelayHours.toString().padStart(2, "0");
-    timeString = `${paddedH}H:${paddedMinutes}M:${paddedSeconds}S`;
-  } else {
-    timeString = `${paddedMinutes}M:${paddedSeconds}S`;
-  }
-
+  const timeString = macrosWorkTime(totalDelay);
   console.log(`Macrose work time will be: F(n) + ${timeString}`);
 
-  while (votesCount !== 0) {
-    const user = users[i];
+  while (i < endIndex) {
+    const userIndexInSlice = i - startIndex;
+    const user = users[userIndexInSlice];
+
+    if (!user) break;
+
     console.log("User: ", JSON.stringify(user, null, 2));
+
+    if (isNightTime() !== isNight) {
+      isNight = !isNight;
+      user.delayMinutes = generateNumbers(5, maxDelayMinutes);
+    }
 
     try {
       await register(user);
@@ -84,7 +87,6 @@ async function main() {
       SuccessLogger.log(
         `Success vote with index: ${i} \n  User: ${JSON.stringify(user, null, 2)}`,
       );
-      votesCount--;
       successVotes++;
 
       const paddedSeconds = user.delaySeconds.toString().padStart(2, "0");

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx tsx src/index.ts"
+    "start": "npx tsx src/index.ts",
+    "votes-count": "npx tsx src/scenaries/countSuccessfulVotes.ts"
   },
   "keywords": [],
   "author": "",
