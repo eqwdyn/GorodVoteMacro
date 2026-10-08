@@ -18,7 +18,7 @@ const lastErrorIndex = getLastIndexFromLog("error.log");
 const lastIndex = Math.max(lastErrorIndex, lastSuccessIndex);
 console.log("Last index: ", lastIndex);
 
-const rawUsers = await readFile("./src/stores/users_2.json", "utf-8");
+const rawUsers = await readFile("./src/stores/users_3.json", "utf-8");
 const initUsers = JSON.parse(rawUsers) as User[];
 
 const { start: startArg, end: endArg } = parseArgs();
