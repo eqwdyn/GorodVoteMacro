@@ -1,6 +1,6 @@
 import { exit } from "process";
-import { proccessChromium } from "./chromiumVariation.js";
-import { register } from "./apiVariation.js";
+import { proccessChromium } from "./core/chromiumScript.js";
+import { register } from "./core/register.js";
 import { Logger } from "./utils/logger.js";
 import { generateNumbers } from "./utils/generateNumbers.js";
 import { readFile } from "fs/promises";
@@ -18,10 +18,10 @@ const lastErrorIndex = getLastIndexFromLog("error.log");
 const lastIndex = Math.max(lastErrorIndex, lastSuccessIndex);
 console.log("Last index: ", lastIndex);
 
-const rawUsers = await readFile("./src/stores/users_3.json", "utf-8");
+const rawUsers = await readFile("./src/stores/users.json", "utf-8");
 const initUsers = JSON.parse(rawUsers) as User[];
 
-const { start: startArg, end: endArg } = parseArgs();
+const { start: startArg, end: endArg, debug: debugArg } = parseArgs();
 
 const startIndex = startArg !== -1 ? startArg : lastIndex + 1;
 const endIndex = endArg !== -1 ? endArg : initUsers.length;
@@ -32,11 +32,26 @@ if (startIndex >= endIndex) {
   exit(1);
 }
 
-if (startIndex < 1 || startIndex > initUsers.length) {
+if (startIndex < 0 || startIndex > initUsers.length) {
   console.log(
     `Некорректный start index. Допустимый диапазон: 1..${initUsers.length}`,
   );
   exit(1);
+}
+async function proccessResult(user: any, successVotes: number, i: number) {
+  SuccessLogger.log(
+    `Success vote with index: ${i} \n  User: ${JSON.stringify(user, null, 2)}`,
+  );
+  successVotes++;
+
+  const paddedSeconds = user.delaySeconds.toString().padStart(2, "0");
+  console.log(`TIME DELAY: ${user.delayMinutes}:${paddedSeconds}`);
+
+  if (!debugArg) {
+    await new Promise((r) =>
+      setTimeout(r, user.delayMinutes * 60 * 1000 + user.delaySeconds * 1000),
+    );
+  }
 }
 
 async function main() {
@@ -45,7 +60,7 @@ async function main() {
   let errorVotes = 0;
 
   let isNight = isNightTime();
-  const maxDelayMinutes = isNight ? 10 : 30;
+  const maxDelayMinutes = isNight ? 5 : 15;
   console.log("Time mode: ", isNight ? "Night" : "Day");
 
   const users = initUsers.slice(startIndex, endIndex).map((user) => {
@@ -81,25 +96,40 @@ async function main() {
 
     try {
       await register(user);
-      await new Promise((r) => setTimeout(r, 5000));
-      await proccessChromium(user);
-
-      SuccessLogger.log(
-        `Success vote with index: ${i} \n  User: ${JSON.stringify(user, null, 2)}`,
-      );
-      successVotes++;
-
-      const paddedSeconds = user.delaySeconds.toString().padStart(2, "0");
-      console.log(`TIME DELAY: ${user.delayMinutes}:${paddedSeconds}`);
-
-      await new Promise((r) =>
-        setTimeout(r, user.delayMinutes * 60 * 1000 + user.delaySeconds * 1000),
-      );
     } catch (e) {
-      ErrorLogger.error(
-        `Error while vote with index: ${i} error: ${e} \n  User: ${JSON.stringify(user, null, 2)}`,
+      console.log(
+        "Will retry. Error to register user: ",
+        JSON.stringify(user, null, 2),
       );
-      errorVotes++;
+      try {
+        await register(user);
+      } catch (e) {
+        ErrorLogger.error(
+          `Error to register user: ${JSON.stringify(user, null, 2)}`,
+        );
+        continue; // Пропускаем
+      }
+    }
+
+    try {
+      await new Promise((r) => setTimeout(r, 5000));
+      await proccessChromium({ ...user, debugMode: debugArg });
+      await proccessResult(user, successVotes, i);
+    } catch (e: any) {
+      try {
+        console.log(
+          `Error while vote with index: ${i} error: ${e.message} \n  User: ${JSON.stringify(user, null, 2)}`,
+        );
+
+        await new Promise((r) => setTimeout(r, 5000));
+        await proccessChromium({ ...user, debugMode: debugArg });
+        await proccessResult(user, successVotes, i);
+      } catch (e: any) {
+        ErrorLogger.error(
+          `Error while vote with index: ${i} error: ${e.message} \n  User: ${JSON.stringify(user, null, 2)}`,
+        );
+        errorVotes++;
+      }
     }
 
     i++;

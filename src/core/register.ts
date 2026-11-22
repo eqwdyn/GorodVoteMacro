@@ -1,17 +1,10 @@
 import axios from "axios";
-import { RegisterProps } from "./types/registerProps.js";
-import { readFileAsync } from "./utils/readFileAsync.js";
+import { RegisterProps } from "../types/registerProps.js";
 
 const registerUrl = "https://gorod24.online/feodosiya/profile/register/1";
 const registerApi = axios.create({
   baseURL: registerUrl,
 });
-
-const loginWithEmailUrl =
-  "https://gorod24.online/feodosiya/narodniy-brand/anketa-login/2";
-const loginWithEmailMethod = "POST";
-
-const stepsApi = axios.create();
 
 interface IRegisterSubmit {
   login: string;
@@ -46,12 +39,13 @@ export async function register(props: RegisterProps) {
   );
 
   try {
-    const resp = await registerApi.post("", formData);
+    await registerApi.post("", formData);
     // console.log("Response from register: ", resp);
   } catch (e) {
     console.warn(
       "WARN: Error while register user: ",
       JSON.stringify(props, null, 2),
     );
+    throw e;
   }
 }

@@ -1,0 +1,4910 @@
+2026-09-30 12:36:34.292Z, Success vote with index: 46
+2026-09-30 12:37:58.385Z, Success vote with index: 48
+2026-09-30 12:38:28.522Z, Success vote with index: 49
+2026-10-01 20:38:05.864Z, Success vote with index: 51
+2026-10-01 20:41:13.157Z, Success vote with index: 52
+2026-10-01 20:58:36.976Z, Success vote with index: 55 
+  User: {
+  "login": "miroslava_timofeeva80",
+  "password": "artem_nikolaev92",
+  "email": "miroslava_medvedeva_2000@yandex.ru",
+  "name": "Мирослава",
+  "lastname": "Тимофеева",
+  "day": 1,
+  "month": 2,
+  "year": 1994
+}
+2026-10-01 21:12:17.093Z, Success vote with index: 57 
+  User: {
+  "login": "yana_kudryavtseva49",
+  "password": "svetlana_zaharova91",
+  "email": "yana_volkova_2002@bk.ru",
+  "name": "Яна",
+  "lastname": "Кудрявцева",
+  "day": 14,
+  "month": 7,
+  "year": 1991
+}
+2026-10-01 21:46:24.846Z, Success vote with index: 60 
+  User: {
+  "login": "georgiy_lebedev73",
+  "password": "yulia_timofeeva92",
+  "email": "georgiy_belyaev_2001@outlook.com",
+  "name": "Георгий",
+  "lastname": "Лебедев",
+  "day": 1,
+  "month": 11,
+  "year": 1993
+}
+2026-10-01 21:53:51.268Z, Success vote with index: 62 
+  User: {
+  "login": "petr_ustinov43",
+  "password": "mochi_sweet",
+  "email": "petr_morozov_1995@gmail.com",
+  "name": "Пётр",
+  "lastname": "Устинов",
+  "day": 8,
+  "month": 6,
+  "year": 1988
+}
+2026-10-01 22:02:40.344Z, Success vote with index: 63 
+  User: {
+  "login": "emiliya_kharitonova87",
+  "password": "pavel_egorov93",
+  "email": "emiliya_loseva_2002@bk.ru",
+  "name": "Эмилия",
+  "lastname": "Харитонова",
+  "day": 12,
+  "month": 9,
+  "year": 1983
+}
+2026-10-01 22:15:58.882Z, Success vote with index: 64 
+  User: {
+  "login": "nikolay_zhuravlev25",
+  "password": "GameOfThrones",
+  "email": "nikolay_losev_1992@gmail.com",
+  "name": "Николай",
+  "lastname": "Журавлёв",
+  "day": 24,
+  "month": 10,
+  "year": 1999
+}
+2026-10-01 22:35:41.872Z, Success vote with index: 65 
+  User: {
+  "login": "raisa_ilina58",
+  "password": "anastasia_kudryavtseva96",
+  "email": "raisa_morozova_2005@gmail.com",
+  "name": "Раиса",
+  "lastname": "Ильина",
+  "day": 23,
+  "month": 9,
+  "year": 1999
+}
+2026-10-01 22:38:11.650Z, Success vote with index: 67 
+  User: {
+  "login": "kamilla_sokolova14",
+  "password": "rocket_man_77",
+  "email": "kamilla_zaitseva_1987@bk.ru",
+  "name": "Камилла",
+  "lastname": "Соколова",
+  "day": 25,
+  "month": 8,
+  "year": 2002
+}
+2026-10-01 22:45:34.948Z, Success vote with index: 68 
+  User: {
+  "login": "timur_vasiliev36",
+  "password": "egor_shchukin96",
+  "email": "timur_kozlov_2000@bk.ru",
+  "name": "Тимур",
+  "lastname": "Васильев",
+  "day": 13,
+  "month": 3,
+  "year": 2000
+}
+2026-10-01 23:00:52.019Z, Success vote with index: 70 
+  User: {
+  "login": "filipp_pavlov48",
+  "password": "rainy_day_today",
+  "email": "filipp_smirnov_2000@hotmail.com",
+  "name": "Филипп",
+  "lastname": "Павлов",
+  "day": 6,
+  "month": 3,
+  "year": 2000
+}
+2026-10-01 23:04:55.006Z, Success vote with index: 71 
+  User: {
+  "login": "olesya_stepanova75",
+  "password": "ksenia_romanova93",
+  "email": "olesya_kuznetsova_1988@mail.ru",
+  "name": "Олеся",
+  "lastname": "Степанова",
+  "day": 15,
+  "month": 5,
+  "year": 2003
+}
+2026-10-01 23:15:02.275Z, Success vote with index: 72 
+  User: {
+  "login": "eduard_semenov29",
+  "password": "cactus_jack_00",
+  "email": "eduard_bykov_1998@list.ru",
+  "name": "Эдуард",
+  "lastname": "Семёнов",
+  "day": 14,
+  "month": 11,
+  "year": 1984
+}
+2026-10-01 23:32:37.875Z, Success vote with index: 73 
+  User: {
+  "login": "inga_zaharova53",
+  "password": "timofey_lebedev05",
+  "email": "inga_vlasova_1998@outlook.com",
+  "name": "Инга",
+  "lastname": "Захарова",
+  "day": 24,
+  "month": 10,
+  "year": 1985
+}
+2026-10-01 23:36:09.687Z, Success vote with index: 75 
+  User: {
+  "login": "snezhana_timofeeva38",
+  "password": "alina_borisova92",
+  "email": "snezhana_lebedeva_1997@list.ru",
+  "name": "Снежана",
+  "lastname": "Тимофеева",
+  "day": 19,
+  "month": 7,
+  "year": 1987
+}
+2026-10-01 23:40:26.452Z, Success vote with index: 76 
+  User: {
+  "login": "zakhar_egorov61",
+  "password": "MoonWalker99",
+  "email": "zahar_tikhomirov_1992@bk.ru",
+  "name": "Захар",
+  "lastname": "Егоров",
+  "day": 5,
+  "month": 8,
+  "year": 1990
+}
+2026-10-01 23:58:14.060Z, Success vote with index: 77 
+  User: {
+  "login": "maryana_kudryavtseva72",
+  "password": "lev_ustinov97",
+  "email": "maryana_kuznetsova_2002@outlook.com",
+  "name": "Марьяна",
+  "lastname": "Кудрявцева",
+  "day": 4,
+  "month": 3,
+  "year": 1994
+}
+2026-10-02 00:05:35.724Z, Success vote with index: 79 
+  User: {
+  "login": "renata_romanova57",
+  "password": "milana_kharitonova02",
+  "email": "renata_kozlova_1999@bk.ru",
+  "name": "Рената",
+  "lastname": "Романова",
+  "day": 28,
+  "month": 8,
+  "year": 1997
+}
+2026-10-03 15:39:26.847Z, Success vote with index: 1 
+  User: {
+  "login": "iosif_ilin",
+  "password": "sunshine18146",
+  "email": "iosif.ilin970152@list.ru",
+  "name": "Иосиф",
+  "lastname": "Ильин",
+  "phone": "+79253749542",
+  "day": 9,
+  "month": 3,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 21
+}
+2026-10-03 15:43:29.689Z, Success vote with index: 2 
+  User: {
+  "login": "modest.martynov605295",
+  "password": "Sun2869",
+  "email": "modest.martynov408146@gmail.com",
+  "name": "Модест",
+  "lastname": "Мартынов",
+  "phone": "+79813663567",
+  "day": 9,
+  "month": 11,
+  "year": 1984,
+  "delayMinutes": 19,
+  "delaySeconds": 7
+}
+2026-10-03 15:54:39.548Z, Success vote with index: 5 
+  User: {
+  "login": "kudryavtsevgrigoriy",
+  "password": "55guitar",
+  "email": "kudryavtsev_grigoriy@outlook.com",
+  "name": "Григорий",
+  "lastname": "Кудрявцев",
+  "phone": "+79963695154",
+  "day": 5,
+  "month": 8,
+  "year": 1999,
+  "delayMinutes": 22,
+  "delaySeconds": 50
+}
+2026-10-03 16:20:01.528Z, Success vote with index: 6 
+  User: {
+  "login": "vzaytsevskiy",
+  "password": "545thunder",
+  "email": "vladimir.zaytsevskiy@bk.ru",
+  "name": "Владимир",
+  "lastname": "Зайцевский",
+  "phone": "+79369974989",
+  "day": 12,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 34
+}
+2026-10-03 16:22:46.131Z, Success vote with index: 8 
+  User: {
+  "login": "gorbachevabram",
+  "password": "candy52060",
+  "email": "gorbachev_abram@outlook.com",
+  "name": "Абрам",
+  "lastname": "Горбачёв",
+  "phone": "+79153936036",
+  "day": 13,
+  "month": 1,
+  "year": 1983,
+  "delayMinutes": 26,
+  "delaySeconds": 8
+}
+2026-10-03 16:26:41.601Z, Success vote with index: 9 
+  User: {
+  "login": "pankrat.bogdanov619740",
+  "password": "44honey",
+  "email": "pankrat_bogdanov@yahoo.com",
+  "name": "Панкрат",
+  "lastname": "Богданов",
+  "phone": "+79861859126",
+  "day": 6,
+  "month": 2,
+  "year": 1988,
+  "delayMinutes": 7,
+  "delaySeconds": 54
+}
+2026-10-03 16:27:57.376Z, Success vote with index: 10 
+  User: {
+  "login": "t_titov",
+  "password": "password1989",
+  "email": "terentiy.titov@zoho.com",
+  "name": "Терентий",
+  "lastname": "Титов",
+  "phone": "+79025404633",
+  "day": 16,
+  "month": 4,
+  "year": 1990,
+  "delayMinutes": 21,
+  "delaySeconds": 11
+}
+2026-10-03 16:54:34.508Z, Success vote with index: 16 
+  User: {
+  "login": "miroslav_lebedinskiy911593",
+  "password": "Lion1877",
+  "email": "miroslav.lebedinskiy270339@gmail.com",
+  "name": "Мирослав",
+  "lastname": "Лебединский",
+  "phone": "+79249468196",
+  "day": 13,
+  "month": 12,
+  "year": 2002,
+  "delayMinutes": 8,
+  "delaySeconds": 47
+}
+2026-10-03 17:03:48.041Z, Success vote with index: 17 
+  User: {
+  "login": "prohorov_nikolay",
+  "password": "Admin1411",
+  "email": "nikolayprohorov424168@live.com",
+  "name": "Николай",
+  "lastname": "Прохоров",
+  "phone": "+79781436693",
+  "day": 7,
+  "month": 12,
+  "year": 1983,
+  "delayMinutes": 19,
+  "delaySeconds": 18
+}
+2026-10-03 17:23:32.190Z, Success vote with index: 18 
+  User: {
+  "login": "goncharov_faddey",
+  "password": "Knight5704",
+  "email": "goncharov_faddey@gmail.com",
+  "name": "Фаддей",
+  "lastname": "Гончаров",
+  "phone": "+79319713690",
+  "day": 16,
+  "month": 8,
+  "year": 2002,
+  "delayMinutes": 21,
+  "delaySeconds": 38
+}
+2026-10-03 17:46:26.419Z, Success vote with index: 20 
+  User: {
+  "login": "veniaminabramov",
+  "password": "cookie1120",
+  "email": "veniamin.abramov706334@outlook.com",
+  "name": "Вениамин",
+  "lastname": "Абрамов",
+  "phone": "+79542778052",
+  "day": 9,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 10,
+  "delaySeconds": 6
+}
+2026-10-03 17:56:57.995Z, Success vote with index: 21 
+  User: {
+  "login": "eduard.strelkov",
+  "password": "falcon5623",
+  "email": "eduard_strelkov@rambler.ru",
+  "name": "Эдуард",
+  "lastname": "Стрелков",
+  "phone": "+79247432170",
+  "day": 18,
+  "month": 12,
+  "year": 1986,
+  "delayMinutes": 7,
+  "delaySeconds": 10
+}
+2026-10-03 18:04:33.970Z, Success vote with index: 22 
+  User: {
+  "login": "zsokolova",
+  "password": "Piano7182",
+  "email": "zoyasokolova213679@inbox.ru",
+  "name": "Зоя",
+  "lastname": "Соколова",
+  "phone": "+79191644397",
+  "day": 1,
+  "month": 6,
+  "year": 2001,
+  "delayMinutes": 19,
+  "delaySeconds": 11
+}
+2026-10-03 18:24:10.550Z, Success vote with index: 23 
+  User: {
+  "login": "fedorderbin4705",
+  "password": "Rock4881",
+  "email": "fedor.derbin633776@yahoo.com",
+  "name": "Фёдор",
+  "lastname": "Дербин",
+  "phone": "+79375172627",
+  "day": 7,
+  "month": 8,
+  "year": 2003,
+  "delayMinutes": 23,
+  "delaySeconds": 43
+}
+2026-10-03 18:48:20.242Z, Success vote with index: 24 
+  User: {
+  "login": "germanboldin",
+  "password": "eagle8981",
+  "email": "german_boldin561034@outlook.com",
+  "name": "Герман",
+  "lastname": "Болдин",
+  "phone": "+79606368026",
+  "day": 15,
+  "month": 9,
+  "year": 2002,
+  "delayMinutes": 25,
+  "delaySeconds": 56
+}
+2026-10-03 19:14:40.567Z, Success vote with index: 25 
+  User: {
+  "login": "nikolaevyuriy",
+  "password": "5663rock",
+  "email": "y.nikolaev@mail.ru",
+  "name": "Юрий",
+  "lastname": "Николаев",
+  "phone": "+79971677348",
+  "day": 5,
+  "month": 10,
+  "year": 2000,
+  "delayMinutes": 18,
+  "delaySeconds": 19
+}
+2026-10-03 19:33:27.917Z, Success vote with index: 26 
+  User: {
+  "login": "anastasiya_fursova",
+  "password": "9secret",
+  "email": "anastasiyafursova674205@list.ru",
+  "name": "Анастасия",
+  "lastname": "Фурсова",
+  "phone": "+79821411811",
+  "day": 16,
+  "month": 5,
+  "year": 1993,
+  "delayMinutes": 17,
+  "delaySeconds": 16
+}
+2026-10-03 19:51:36.118Z, Success vote with index: 28 
+  User: {
+  "login": "nikita_korolev763575",
+  "password": "summer34176",
+  "email": "korolev_nikita@gmail.com",
+  "name": "Никита",
+  "lastname": "Королёв",
+  "phone": "+79663958712",
+  "day": 2,
+  "month": 6,
+  "year": 1985,
+  "delayMinutes": 20,
+  "delaySeconds": 46
+}
+2026-10-03 20:12:50.678Z, Success vote with index: 29 
+  User: {
+  "login": "ruslan_chernyshev",
+  "password": "lion534",
+  "email": "ruslanchernyshev412566@icloud.com",
+  "name": "Руслан",
+  "lastname": "Чернышёв",
+  "phone": "+79778822746",
+  "day": 9,
+  "month": 1,
+  "year": 1987,
+  "delayMinutes": 12,
+  "delaySeconds": 20
+}
+2026-10-03 20:26:09.527Z, Success vote with index: 31 
+  User: {
+  "login": "a_plyuschev",
+  "password": "soul5969",
+  "email": "avdey_plyuschev@hotmail.com",
+  "name": "Авдей",
+  "lastname": "Плющев",
+  "phone": "+79343373296",
+  "day": 20,
+  "month": 6,
+  "year": 1988,
+  "delayMinutes": 12,
+  "delaySeconds": 51
+}
+2026-10-03 20:41:56.473Z, Success vote with index: 35 
+  User: {
+  "login": "u_turgenev",
+  "password": "Ninja4531",
+  "email": "ustin_turgenev67507@proton.me",
+  "name": "Устин",
+  "lastname": "Тургенев",
+  "phone": "+79572604162",
+  "day": 13,
+  "month": 10,
+  "year": 2000,
+  "delayMinutes": 26,
+  "delaySeconds": 42
+}
+2026-10-03 21:11:07.260Z, Success vote with index: 39 
+  User: {
+  "login": "samson.drozdov",
+  "password": "red7447",
+  "email": "samson_drozdov@bk.ru",
+  "name": "Самсон",
+  "lastname": "Дроздов",
+  "phone": "+79565465017",
+  "day": 25,
+  "month": 8,
+  "year": 2002,
+  "delayMinutes": 18,
+  "delaySeconds": 5
+}
+2026-10-03 21:30:29.703Z, Success vote with index: 41 
+  User: {
+  "login": "logvin.belyakov808870",
+  "password": "Password1985",
+  "email": "logvin_belyakov804256@mail.ru",
+  "name": "Логвин",
+  "lastname": "Беляков",
+  "phone": "+79307173637",
+  "day": 1,
+  "month": 9,
+  "year": 1988,
+  "delayMinutes": 12,
+  "delaySeconds": 28
+}
+2026-10-03 21:43:25.154Z, Success vote with index: 42 
+  User: {
+  "login": "zinoviymedvedev",
+  "password": "blue8803",
+  "email": "zinoviymedvedev363615@list.ru",
+  "name": "Зиновий",
+  "lastname": "Медведев",
+  "phone": "+79333991292",
+  "day": 27,
+  "month": 11,
+  "year": 2001,
+  "delayMinutes": 23,
+  "delaySeconds": 49
+}
+2026-10-03 21:55:50.682Z, Success vote with index: 43 
+  User: {
+  "login": "kolesnikov_frol",
+  "password": "Princess6553",
+  "email": "frolkolesnikov854534@zoho.com",
+  "name": "Фрол",
+  "lastname": "Колесников",
+  "phone": "+79512909670",
+  "day": 14,
+  "month": 5,
+  "year": 1990,
+  "delayMinutes": 9,
+  "delaySeconds": 25
+}
+2026-10-03 22:06:42.233Z, Success vote with index: 51 
+  User: {
+  "login": "oushakov",
+  "password": "honey7821",
+  "email": "oleg_ushakov920803@live.com",
+  "name": "Олег",
+  "lastname": "Ушаков",
+  "phone": "+79386311437",
+  "day": 1,
+  "month": 4,
+  "year": 2004,
+  "delayMinutes": 8,
+  "delaySeconds": 14
+}
+2026-10-03 22:15:22.716Z, Success vote with index: 52 
+  User: {
+  "login": "voroninartem",
+  "password": "9072flower",
+  "email": "artem_voronin@proton.me",
+  "name": "Артём",
+  "lastname": "Воронин",
+  "phone": "+79273786511",
+  "day": 2,
+  "month": 2,
+  "year": 1999,
+  "delayMinutes": 6,
+  "delaySeconds": 47
+}
+2026-10-03 22:22:43.295Z, Success vote with index: 53 
+  User: {
+  "login": "tihon_obolenskiy",
+  "password": "2021thunder",
+  "email": "tihon.obolenskiy82808@yandex.ru",
+  "name": "Тихон",
+  "lastname": "Оболенский",
+  "phone": "+79558975732",
+  "day": 4,
+  "month": 6,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-03 22:29:57.572Z, Success vote with index: 55 
+  User: {
+  "login": "anisimov_harlamp",
+  "password": "Princess3286",
+  "email": "harlamp_anisimov540254@mail.ru",
+  "name": "Харламп",
+  "lastname": "Анисимов",
+  "phone": "+79925782444",
+  "day": 4,
+  "month": 6,
+  "year": 1991,
+  "delayMinutes": 7,
+  "delaySeconds": 4
+}
+2026-10-03 22:37:28.950Z, Success vote with index: 56 
+  User: {
+  "login": "romanovapollinariy",
+  "password": "553rainbow",
+  "email": "apollinariyromanov@gmail.com",
+  "name": "Аполлинарий",
+  "lastname": "Романов",
+  "phone": "+79272333190",
+  "day": 6,
+  "month": 11,
+  "year": 1985,
+  "delayMinutes": 7,
+  "delaySeconds": 17
+}
+2026-10-03 22:45:11.844Z, Success vote with index: 57 
+  User: {
+  "login": "gavrilov_zotik",
+  "password": "3968tiger",
+  "email": "gavrilov_zotik@bk.ru",
+  "name": "Зотик",
+  "lastname": "Гаврилов",
+  "phone": "+79037938866",
+  "day": 4,
+  "month": 8,
+  "year": 2003,
+  "delayMinutes": 7,
+  "delaySeconds": 26
+}
+2026-10-03 22:53:52.135Z, Success vote with index: 59 
+  User: {
+  "login": "polina.frolova",
+  "password": "1141love",
+  "email": "frolova_polina@gmail.com",
+  "name": "Полина",
+  "lastname": "Фролова",
+  "phone": "+79186368463",
+  "day": 4,
+  "month": 7,
+  "year": 1987,
+  "delayMinutes": 6,
+  "delaySeconds": 13
+}
+2026-10-03 23:01:26.214Z, Success vote with index: 61 
+  User: {
+  "login": "leoniddanilov",
+  "password": "45summer",
+  "email": "leoniddanilov176528@yahoo.com",
+  "name": "Леонид",
+  "lastname": "Данилов",
+  "phone": "+79557894136",
+  "day": 11,
+  "month": 6,
+  "year": 1986,
+  "delayMinutes": 10,
+  "delaySeconds": 29
+}
+2026-10-03 23:14:56.848Z, Success vote with index: 65 
+  User: {
+  "login": "pshestakov",
+  "password": "14trustno1",
+  "email": "shestakov_prohor@yahoo.com",
+  "name": "Прохор",
+  "lastname": "Шестаков",
+  "phone": "+79598958476",
+  "day": 10,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 47
+}
+2026-10-03 23:22:10.993Z, Success vote with index: 66 
+  User: {
+  "login": "mihaylov_luka",
+  "password": "75hello",
+  "email": "luka_mihaylov616363@live.com",
+  "name": "Лука",
+  "lastname": "Михайлов",
+  "phone": "+79524312398",
+  "day": 25,
+  "month": 12,
+  "year": 2003,
+  "delayMinutes": 8,
+  "delaySeconds": 27
+}
+2026-10-03 23:31:03.340Z, Success vote with index: 67 
+  User: {
+  "login": "porfiriy.zuev",
+  "password": "Winter4661",
+  "email": "p.zuev@yahoo.com",
+  "name": "Порфирий",
+  "lastname": "Зуев",
+  "phone": "+79064163758",
+  "day": 13,
+  "month": 3,
+  "year": 2000,
+  "delayMinutes": 9,
+  "delaySeconds": 54
+}
+2026-10-03 23:42:13.017Z, Success vote with index: 69 
+  User: {
+  "login": "daniil.novikov596694",
+  "password": "1123trustno1",
+  "email": "daniilnovikov@live.com",
+  "name": "Даниил",
+  "lastname": "Новиков",
+  "phone": "+79319477419",
+  "day": 10,
+  "month": 9,
+  "year": 1983,
+  "delayMinutes": 10,
+  "delaySeconds": 44
+}
+2026-10-03 23:53:24.196Z, Success vote with index: 70 
+  User: {
+  "login": "aturgeneva",
+  "password": "26falcon",
+  "email": "annaturgeneva767141@live.com",
+  "name": "Анна",
+  "lastname": "Тургенева",
+  "phone": "+79895428587",
+  "day": 8,
+  "month": 3,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 9
+}
+2026-10-03 23:59:00.305Z, Success vote with index: 71 
+  User: {
+  "login": "v.naumov",
+  "password": "Love2323",
+  "email": "vadimnaumov264906@rambler.ru",
+  "name": "Вадим",
+  "lastname": "Наумов",
+  "phone": "+79564591989",
+  "day": 28,
+  "month": 1,
+  "year": 1991,
+  "delayMinutes": 10,
+  "delaySeconds": 7
+}
+2026-10-04 00:09:35.070Z, Success vote with index: 72 
+  User: {
+  "login": "t.arhipov",
+  "password": "87password",
+  "email": "trifon_arhipov557289@rambler.ru",
+  "name": "Трифон",
+  "lastname": "Архипов",
+  "phone": "+79135528590",
+  "day": 26,
+  "month": 11,
+  "year": 1989,
+  "delayMinutes": 6,
+  "delaySeconds": 10
+}
+2026-10-04 00:16:14.258Z, Success vote with index: 73 
+  User: {
+  "login": "andrey_scherbakov430288",
+  "password": "4066happy",
+  "email": "andreyscherbakov@outlook.com",
+  "name": "Андрей",
+  "lastname": "Щербаков",
+  "phone": "+79973295059",
+  "day": 5,
+  "month": 9,
+  "year": 1995,
+  "delayMinutes": 7,
+  "delaySeconds": 9
+}
+2026-10-04 00:23:50.289Z, Success vote with index: 74 
+  User: {
+  "login": "vinogradovakarina",
+  "password": "9583warrior",
+  "email": "karina_vinogradova@zoho.com",
+  "name": "Карина",
+  "lastname": "Виноградова",
+  "phone": "+79275228161",
+  "day": 4,
+  "month": 4,
+  "year": 1986,
+  "delayMinutes": 9,
+  "delaySeconds": 46
+}
+2026-10-04 00:34:04.153Z, Success vote with index: 75 
+  User: {
+  "login": "latyshevalyubov",
+  "password": "love5166",
+  "email": "lyubovlatysheva282661@outlook.com",
+  "name": "Любовь",
+  "lastname": "Латышева",
+  "phone": "+79173527047",
+  "day": 6,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 9,
+  "delaySeconds": 46
+}
+2026-10-04 00:44:17.505Z, Success vote with index: 76 
+  User: {
+  "login": "a_malinina",
+  "password": "winter1209",
+  "email": "malinina_aleksandra@live.com",
+  "name": "Александра",
+  "lastname": "Малинина",
+  "phone": "+79426124769",
+  "day": 8,
+  "month": 9,
+  "year": 2003,
+  "delayMinutes": 7,
+  "delaySeconds": 54
+}
+2026-10-04 00:53:32.913Z, Success vote with index: 78 
+  User: {
+  "login": "averyanova_ekaterina",
+  "password": "jazz3305",
+  "email": "averyanova_ekaterina@yahoo.com",
+  "name": "Екатерина",
+  "lastname": "Аверьянова",
+  "phone": "+79213213070",
+  "day": 9,
+  "month": 11,
+  "year": 1993,
+  "delayMinutes": 9,
+  "delaySeconds": 1
+}
+2026-10-04 01:03:00.890Z, Success vote with index: 79 
+  User: {
+  "login": "itarasov",
+  "password": "92admin",
+  "email": "ilariontarasov@yahoo.com",
+  "name": "Иларион",
+  "lastname": "Тарасов",
+  "phone": "+79098697729",
+  "day": 6,
+  "month": 7,
+  "year": 1986,
+  "delayMinutes": 10,
+  "delaySeconds": 9
+}
+2026-10-04 01:14:24.205Z, Success vote with index: 81 
+  User: {
+  "login": "trofim.bykov",
+  "password": "golden6063",
+  "email": "trofimbykov134164@bk.ru",
+  "name": "Трофим",
+  "lastname": "Быков",
+  "phone": "+79021009826",
+  "day": 6,
+  "month": 6,
+  "year": 2002,
+  "delayMinutes": 9,
+  "delaySeconds": 60
+}
+2026-10-04 01:24:50.832Z, Success vote with index: 82 
+  User: {
+  "login": "tatyanakotova8834",
+  "password": "cookie58649",
+  "email": "tatyana.kotova@live.com",
+  "name": "Татьяна",
+  "lastname": "Котова",
+  "phone": "+79526913188",
+  "day": 22,
+  "month": 8,
+  "year": 1994,
+  "delayMinutes": 9,
+  "delaySeconds": 39
+}
+2026-10-04 01:38:23.158Z, Success vote with index: 87 
+  User: {
+  "login": "orlov.zahar",
+  "password": "23rock",
+  "email": "zahar.orlov633421@bk.ru",
+  "name": "Захар",
+  "lastname": "Орлов",
+  "phone": "+79659882510",
+  "day": 8,
+  "month": 10,
+  "year": 2004,
+  "delayMinutes": 8,
+  "delaySeconds": 8
+}
+2026-10-04 01:48:10.557Z, Success vote with index: 90 
+  User: {
+  "login": "uar.chuvilev451954",
+  "password": "Guitar8789",
+  "email": "uar.chuvilev440682@bk.ru",
+  "name": "Уар",
+  "lastname": "Чувилев",
+  "phone": "+79993392353",
+  "day": 4,
+  "month": 4,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 29
+}
+2026-10-04 01:54:06.404Z, Success vote with index: 91 
+  User: {
+  "login": "aleksandrovavera",
+  "password": "9978hello",
+  "email": "v_aleksandrova@icloud.com",
+  "name": "Вера",
+  "lastname": "Александрова",
+  "phone": "+79253297982",
+  "day": 12,
+  "month": 9,
+  "year": 1998,
+  "delayMinutes": 9,
+  "delaySeconds": 46
+}
+2026-10-04 02:04:18.823Z, Success vote with index: 92 
+  User: {
+  "login": "agafonovivan",
+  "password": "Thunder8234",
+  "email": "i_agafonov@yahoo.com",
+  "name": "Иван",
+  "lastname": "Агафонов",
+  "phone": "+79275584959",
+  "day": 9,
+  "month": 2,
+  "year": 1987,
+  "delayMinutes": 9,
+  "delaySeconds": 49
+}
+2026-10-04 02:14:32.440Z, Success vote with index: 93 
+  User: {
+  "login": "kasyan.averyanov810407",
+  "password": "78knight",
+  "email": "k.averyanov@yahoo.com",
+  "name": "Касьян",
+  "lastname": "Аверьянов",
+  "phone": "+79956642757",
+  "day": 2,
+  "month": 1,
+  "year": 2004,
+  "delayMinutes": 6,
+  "delaySeconds": 28
+}
+2026-10-04 02:21:28.980Z, Success vote with index: 94 
+  User: {
+  "login": "bkonovalov",
+  "password": "coffee8201",
+  "email": "bazhen.konovalov315124@outlook.com",
+  "name": "Бажен",
+  "lastname": "Коновалов",
+  "phone": "+79533074332",
+  "day": 17,
+  "month": 7,
+  "year": 1986,
+  "delayMinutes": 9,
+  "delaySeconds": 27
+}
+2026-10-04 02:31:30.505Z, Success vote with index: 95 
+  User: {
+  "login": "maksim_vlasov",
+  "password": "falcon98229",
+  "email": "maksim.vlasov@yahoo.com",
+  "name": "Максим",
+  "lastname": "Власов",
+  "phone": "+79592806022",
+  "day": 8,
+  "month": 7,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-04 02:36:59.655Z, Success vote with index: 96 
+  User: {
+  "login": "velimir_maksimov484082",
+  "password": "football9212",
+  "email": "velimir_maksimov612045@hotmail.com",
+  "name": "Велимир",
+  "lastname": "Максимов",
+  "phone": "+79052091750",
+  "day": 3,
+  "month": 10,
+  "year": 1988,
+  "delayMinutes": 8,
+  "delaySeconds": 30
+}
+2026-10-04 02:45:54.972Z, Success vote with index: 97 
+  User: {
+  "login": "ezhov_osip",
+  "password": "Cool4246",
+  "email": "o_ezhov@proton.me",
+  "name": "Осип",
+  "lastname": "Ежов",
+  "phone": "+79171992568",
+  "day": 1,
+  "month": 6,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 35
+}
+2026-10-04 02:51:56.846Z, Success vote with index: 98 
+  User: {
+  "login": "larisa_nikolaeva180782",
+  "password": "moon2386",
+  "email": "nikolaeva_larisa@outlook.com",
+  "name": "Лариса",
+  "lastname": "Николаева",
+  "phone": "+79298295429",
+  "day": 23,
+  "month": 5,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 15
+}
+2026-10-04 03:01:39.543Z, Success vote with index: 99 
+  User: {
+  "login": "gordey_yakovlev",
+  "password": "Music5347",
+  "email": "gordeyyakovlev556728@yandex.ru",
+  "name": "Гордей",
+  "lastname": "Яковлев",
+  "phone": "+79954006190",
+  "day": 8,
+  "month": 7,
+  "year": 1982,
+  "delayMinutes": 7,
+  "delaySeconds": 17
+}
+2026-10-05 14:18:11.106Z, Success vote with index: 2 
+  User: {
+  "login": "afzihw",
+  "password": "coffee9012",
+  "email": "maksimgusev@gmail.com",
+  "name": "Максим",
+  "lastname": "Гусев",
+  "phone": "+79782092238",
+  "day": 10,
+  "month": 6,
+  "year": 1986,
+  "delayMinutes": 11,
+  "delaySeconds": 47
+}
+2026-10-05 14:31:15.392Z, Success vote with index: 4 
+  User: {
+  "login": "frpvce",
+  "password": "pelageyabelyaeva",
+  "email": "pelageya.belyaeva796336@bk.ru",
+  "name": "Пелагея",
+  "lastname": "Беляева",
+  "phone": "+79784781083",
+  "day": 28,
+  "month": 11,
+  "year": 1985,
+  "delayMinutes": 15,
+  "delaySeconds": 4
+}
+2026-10-05 14:47:29.839Z, Success vote with index: 5 
+  User: {
+  "login": "vasilisa.makarova741034",
+  "password": "vasilisa_makarova",
+  "email": "vasilisa_makarova992177@yahoo.com",
+  "name": "Василиса",
+  "lastname": "Макарова",
+  "phone": "+79782563596",
+  "day": 11,
+  "month": 11,
+  "year": 1982,
+  "delayMinutes": 23,
+  "delaySeconds": 47
+}
+2026-10-05 15:12:32.712Z, Success vote with index: 7 
+  User: {
+  "login": "tqfvqauc",
+  "password": "love1322",
+  "email": "pelageya_frolova@live.com",
+  "name": "Пелагея",
+  "lastname": "Фролова",
+  "phone": "+79786013602",
+  "day": 2,
+  "month": 10,
+  "year": 2003,
+  "delayMinutes": 19,
+  "delaySeconds": 31
+}
+2026-10-05 15:32:30.526Z, Success vote with index: 8 
+  User: {
+  "login": "viktorkuznetsov875027",
+  "password": "fire10104",
+  "email": "viktorkuznetsov@zoho.com",
+  "name": "Виктор",
+  "lastname": "Кузнецов",
+  "phone": "+79782308213",
+  "day": 27,
+  "month": 3,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 1
+}
+2026-10-05 15:40:48.861Z, Success vote with index: 10 
+  User: {
+  "login": "yjsyq",
+  "password": "password4115",
+  "email": "ekaterina.kozlova288506@yandex.ru",
+  "name": "Екатерина",
+  "lastname": "Козлова",
+  "phone": "+79782758314",
+  "day": 16,
+  "month": 2,
+  "year": 1983,
+  "delayMinutes": 20,
+  "delaySeconds": 20
+}
+2026-10-05 16:02:28.286Z, Success vote with index: 12 
+  User: {
+  "login": "mikhaylovanton",
+  "password": "fox33684",
+  "email": "ztuklvv9436@yandex.ru",
+  "name": "Антон",
+  "lastname": "Михайлов",
+  "phone": "+79788241749",
+  "day": 9,
+  "month": 1,
+  "year": 2004,
+  "delayMinutes": 28,
+  "delaySeconds": 27
+}
+2026-10-05 16:20:35.040Z, Success vote with index: 13 
+  User: {
+  "login": "denissemenov446254",
+  "password": "qwxsqjc55055",
+  "email": "denissemenov@yandex.ru",
+  "name": "Денис",
+  "lastname": "Семёнов",
+  "phone": "+79786072782",
+  "day": 14,
+  "month": 11,
+  "year": 1999,
+  "delayMinutes": 9,
+  "delaySeconds": 50
+}
+2026-10-05 16:31:47.440Z, Success vote with index: 15 
+  User: {
+  "login": "andrey.titov981990",
+  "password": "andrey_titov85458",
+  "email": "atitov34210@mail.ru",
+  "name": "Андрей",
+  "lastname": "Титов",
+  "phone": "+79782956739",
+  "day": 18,
+  "month": 5,
+  "year": 1984,
+  "delayMinutes": 17,
+  "delaySeconds": 20
+}
+2026-10-05 16:49:36.798Z, Success vote with index: 16 
+  User: {
+  "login": "sokolovazoya",
+  "password": "zoya_sokolova",
+  "email": "zoya.sokolova126630@bk.ru",
+  "name": "Зоя",
+  "lastname": "Соколова",
+  "phone": "+79785614949",
+  "day": 1,
+  "month": 6,
+  "year": 1998,
+  "delayMinutes": 26,
+  "delaySeconds": 9
+}
+2026-10-05 17:16:12.086Z, Success vote with index: 17 
+  User: {
+  "login": "stepan_lazarev",
+  "password": "hcjdd67025",
+  "email": "wolf8804@icloud.com",
+  "name": "Степан",
+  "lastname": "Лазарев",
+  "phone": "+79788582170",
+  "day": 28,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 20,
+  "delaySeconds": 15
+}
+2026-10-05 17:36:54.824Z, Success vote with index: 18 
+  User: {
+  "login": "polyakovboris",
+  "password": "lbfkscos49025",
+  "email": "b_polyakov37472@hotmail.com",
+  "name": "Борис",
+  "lastname": "Поляков",
+  "phone": "+79783569179",
+  "day": 13,
+  "month": 1,
+  "year": 1998,
+  "delayMinutes": 21,
+  "delaySeconds": 50
+}
+2026-10-05 17:59:16.144Z, Success vote with index: 19 
+  User: {
+  "login": "grigorev_artem",
+  "password": "artemgrigorev",
+  "email": "wolf4625@mail.ru",
+  "name": "Артём",
+  "lastname": "Григорьев",
+  "phone": "+79782362981",
+  "day": 12,
+  "month": 11,
+  "year": 1996,
+  "delayMinutes": 16,
+  "delaySeconds": 57
+}
+2026-10-05 18:32:01.100Z, Success vote with index: 25 
+  User: {
+  "login": "nypsymzuz",
+  "password": "mthxxza94262",
+  "email": "bear188@outlook.com",
+  "name": "Егор",
+  "lastname": "Захаров",
+  "phone": "+79788298544",
+  "day": 2,
+  "month": 3,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 28
+}
+2026-10-05 18:37:57.328Z, Success vote with index: 26 
+  User: {
+  "login": "nnpgogpwy",
+  "password": "mpirpaxi64409",
+  "email": "matvey_semenov577818@list.ru",
+  "name": "Матвей",
+  "lastname": "Семёнов",
+  "phone": "+79784415716",
+  "day": 14,
+  "month": 7,
+  "year": 1988,
+  "delayMinutes": 15,
+  "delaySeconds": 26
+}
+2026-10-05 18:55:07.215Z, Success vote with index: 29 
+  User: {
+  "login": "komarova.kristina",
+  "password": "red79788",
+  "email": "bear6895@proton.me",
+  "name": "Кристина",
+  "lastname": "Комарова",
+  "phone": "+79787725928",
+  "day": 2,
+  "month": 10,
+  "year": 1995,
+  "delayMinutes": 6,
+  "delaySeconds": 51
+}
+2026-10-05 19:02:52.228Z, Success vote with index: 31 
+  User: {
+  "login": "thunder",
+  "password": "eva_stepanova864569",
+  "email": "e.stepanova9342@inbox.ru",
+  "name": "Ева",
+  "lastname": "Степанова",
+  "phone": "+79781503494",
+  "day": 14,
+  "month": 1,
+  "year": 1993,
+  "delayMinutes": 25,
+  "delaySeconds": 50
+}
+2026-10-05 19:29:09.981Z, Success vote with index: 32 
+  User: {
+  "login": "ilyakomarov",
+  "password": "water96057",
+  "email": "admin8707@yahoo.com",
+  "name": "Илья",
+  "lastname": "Комаров",
+  "phone": "+79787146648",
+  "day": 19,
+  "month": 2,
+  "year": 1990,
+  "delayMinutes": 20,
+  "delaySeconds": 41
+}
+2026-10-05 22:24:24.063Z, Success vote with index: 35 
+  User: {
+  "login": "oksana.maksimova119870",
+  "password": "oksanamaksimova",
+  "email": "oksana_maksimova@proton.me",
+  "name": "Оксана",
+  "lastname": "Максимова",
+  "phone": "+79789274753",
+  "day": 8,
+  "month": 6,
+  "year": 1988,
+  "delayMinutes": 6,
+  "delaySeconds": 9
+}
+2026-10-05 22:31:47.847Z, Success vote with index: 37 
+  User: {
+  "login": "tamaraandreeva210008",
+  "password": "super72205",
+  "email": "hhomsi9600@zoho.com",
+  "name": "Тамара",
+  "lastname": "Андреева",
+  "phone": "+79782137910",
+  "day": 20,
+  "month": 1,
+  "year": 1993,
+  "delayMinutes": 10,
+  "delaySeconds": 34
+}
+2026-10-05 22:44:33.493Z, Success vote with index: 40 
+  User: {
+  "login": "sesto",
+  "password": "earth77944",
+  "email": "guitar8589@hotmail.com",
+  "name": "Борис",
+  "lastname": "Степанов",
+  "phone": "+79786145470",
+  "day": 28,
+  "month": 5,
+  "year": 1983,
+  "delayMinutes": 7,
+  "delaySeconds": 34
+}
+2026-10-05 22:52:35.884Z, Success vote with index: 41 
+  User: {
+  "login": "orlova.valeriya",
+  "password": "valeriya_orlova682318",
+  "email": "v_orlova63993@hotmail.com",
+  "name": "Валерия",
+  "lastname": "Орлова",
+  "phone": "+79781438544",
+  "day": 25,
+  "month": 12,
+  "year": 2004,
+  "delayMinutes": 6,
+  "delaySeconds": 11
+}
+2026-10-05 23:00:03.119Z, Success vote with index: 43 
+  User: {
+  "login": "coffee",
+  "password": "gabjobim14622",
+  "email": "nadezhda_petrova@live.com",
+  "name": "Надежда",
+  "lastname": "Петрова",
+  "phone": "+79785890719",
+  "day": 24,
+  "month": 11,
+  "year": 1982,
+  "delayMinutes": 7,
+  "delaySeconds": 48
+}
+2026-10-05 23:08:17.698Z, Success vote with index: 44 
+  User: {
+  "login": "zakharova_oksana",
+  "password": "ctesgkdn19665",
+  "email": "rainbow496@hotmail.com",
+  "name": "Оксана",
+  "lastname": "Захарова",
+  "phone": "+79784244038",
+  "day": 23,
+  "month": 2,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 25
+}
+2026-10-05 23:16:59.311Z, Success vote with index: 46 
+  User: {
+  "login": "red",
+  "password": "ruslanzaytsev106891",
+  "email": "phoenix6449@icloud.com",
+  "name": "Руслан",
+  "lastname": "Зайцев",
+  "phone": "+79782791988",
+  "day": 3,
+  "month": 1,
+  "year": 2002,
+  "delayMinutes": 10,
+  "delaySeconds": 1
+}
+2026-10-05 23:27:28.857Z, Success vote with index: 47 
+  User: {
+  "login": "gfbdcogt",
+  "password": "kirillmikhaylov",
+  "email": "kirillmikhaylov262467@live.com",
+  "name": "Кирилл",
+  "lastname": "Михайлов",
+  "phone": "+79789338706",
+  "day": 20,
+  "month": 5,
+  "year": 1998,
+  "delayMinutes": 8,
+  "delaySeconds": 53
+}
+2026-10-05 23:36:47.941Z, Success vote with index: 48 
+  User: {
+  "login": "eltjucf",
+  "password": "love17953",
+  "email": "flazareva88330@inbox.ru",
+  "name": "Фёкла",
+  "lastname": "Лазарева",
+  "phone": "+79789199951",
+  "day": 27,
+  "month": 1,
+  "year": 1984,
+  "delayMinutes": 9,
+  "delaySeconds": 13
+}
+2026-10-05 23:46:29.243Z, Success vote with index: 49 
+  User: {
+  "login": "orlova.aleksandra",
+  "password": "aleksandra_orlova675604",
+  "email": "pqnnbe8798@icloud.com",
+  "name": "Александра",
+  "lastname": "Орлова",
+  "phone": "+79784901417",
+  "day": 19,
+  "month": 12,
+  "year": 1994,
+  "delayMinutes": 9,
+  "delaySeconds": 28
+}
+2026-10-05 23:56:23.925Z, Success vote with index: 50 
+  User: {
+  "login": "elenasokolova",
+  "password": "ugmpsnz47000",
+  "email": "princess9050@live.com",
+  "name": "Елена",
+  "lastname": "Соколова",
+  "phone": "+79784872499",
+  "day": 27,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 14
+}
+2026-10-06 00:07:40.613Z, Success vote with index: 53 
+  User: {
+  "login": "mikhail.zakharov148310",
+  "password": "music51561",
+  "email": "m_zakharov65469@bk.ru",
+  "name": "Михаил",
+  "lastname": "Захаров",
+  "phone": "+79783325497",
+  "day": 16,
+  "month": 2,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 13
+}
+2026-10-06 00:14:20.411Z, Success vote with index: 54 
+  User: {
+  "login": "makar_semenov61172",
+  "password": "makarsemenov98593",
+  "email": "makar.semenov@bk.ru",
+  "name": "Макар",
+  "lastname": "Семёнов",
+  "phone": "+79786634616",
+  "day": 6,
+  "month": 4,
+  "year": 2003,
+  "delayMinutes": 6,
+  "delaySeconds": 16
+}
+2026-10-06 00:21:02.543Z, Success vote with index: 55 
+  User: {
+  "login": "aleksandra.titova",
+  "password": "tuycvwhjs90466",
+  "email": "ntlrj2376@zoho.com",
+  "name": "Александра",
+  "lastname": "Титова",
+  "phone": "+79788604139",
+  "day": 27,
+  "month": 4,
+  "year": 2001,
+  "delayMinutes": 6,
+  "delaySeconds": 53
+}
+2026-10-06 00:28:21.688Z, Success vote with index: 56 
+  User: {
+  "login": "ulyana.stepanova522913",
+  "password": "ogvueaui47289",
+  "email": "wxrfl4270@list.ru",
+  "name": "Ульяна",
+  "lastname": "Степанова",
+  "phone": "+79789759900",
+  "day": 7,
+  "month": 9,
+  "year": 1997,
+  "delayMinutes": 7,
+  "delaySeconds": 56
+}
+2026-10-06 00:36:44.266Z, Success vote with index: 57 
+  User: {
+  "login": "efim.borisov",
+  "password": "efimborisov",
+  "email": "efimborisov@hotmail.com",
+  "name": "Ефим",
+  "lastname": "Борисов",
+  "phone": "+79783208947",
+  "day": 14,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 8,
+  "delaySeconds": 52
+}
+2026-10-06 00:46:02.955Z, Success vote with index: 58 
+  User: {
+  "login": "milanastepanova",
+  "password": "flash13672",
+  "email": "pehyizvx5821@rambler.ru",
+  "name": "Милана",
+  "lastname": "Степанова",
+  "phone": "+79789638152",
+  "day": 25,
+  "month": 3,
+  "year": 1985,
+  "delayMinutes": 9,
+  "delaySeconds": 37
+}
+2026-10-06 00:56:06.103Z, Success vote with index: 59 
+  User: {
+  "login": "warrior",
+  "password": "rqzkkf47847",
+  "email": "vera_nikitina@gmail.com",
+  "name": "Вера",
+  "lastname": "Никитина",
+  "phone": "+79782221648",
+  "day": 19,
+  "month": 7,
+  "year": 2000,
+  "delayMinutes": 7,
+  "delaySeconds": 18
+}
+2026-10-06 01:03:54.059Z, Success vote with index: 60 
+  User: {
+  "login": "pwquo",
+  "password": "vasilisa_petrova680531",
+  "email": "tlzulak9073@inbox.ru",
+  "name": "Василиса",
+  "lastname": "Петрова",
+  "phone": "+79787414113",
+  "day": 28,
+  "month": 8,
+  "year": 1997,
+  "delayMinutes": 9,
+  "delaySeconds": 35
+}
+2026-10-06 01:13:55.553Z, Success vote with index: 61 
+  User: {
+  "login": "aleksandr_andreev293085",
+  "password": "kmcwfnoa35346",
+  "email": "woiuzcnuc8115@inbox.ru",
+  "name": "Александр",
+  "lastname": "Андреев",
+  "phone": "+79786434746",
+  "day": 23,
+  "month": 1,
+  "year": 1997,
+  "delayMinutes": 10,
+  "delaySeconds": 23
+}
+2026-10-06 01:24:46.881Z, Success vote with index: 62 
+  User: {
+  "login": "bnkurw",
+  "password": "pelageyakuznetsova",
+  "email": "pelageyakuznetsova@proton.me",
+  "name": "Пелагея",
+  "lastname": "Кузнецова",
+  "phone": "+79787484792",
+  "day": 23,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 6,
+  "delaySeconds": 38
+}
+2026-10-06 01:31:51.691Z, Success vote with index: 63 
+  User: {
+  "login": "gordey.makarov823231",
+  "password": "thunder80042",
+  "email": "blue4344@rambler.ru",
+  "name": "Гордей",
+  "lastname": "Макаров",
+  "phone": "+79782754073",
+  "day": 16,
+  "month": 12,
+  "year": 1986,
+  "delayMinutes": 8,
+  "delaySeconds": 60
+}
+2026-10-06 01:41:43.372Z, Success vote with index: 65 
+  User: {
+  "login": "andrey.sergeev314995",
+  "password": "eagle53502",
+  "email": "a.sergeev46602@icloud.com",
+  "name": "Андрей",
+  "lastname": "Сергеев",
+  "phone": "+79782813663",
+  "day": 13,
+  "month": 3,
+  "year": 2003,
+  "delayMinutes": 7,
+  "delaySeconds": 54
+}
+2026-10-06 01:50:04.008Z, Success vote with index: 66 
+  User: {
+  "login": "ivan.kostin970197",
+  "password": "lenhzgex58546",
+  "email": "falcon2912@gmail.com",
+  "name": "Иван",
+  "lastname": "Костин",
+  "phone": "+79781754632",
+  "day": 22,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 10,
+  "delaySeconds": 12
+}
+2026-10-06 02:00:43.804Z, Success vote with index: 67 
+  User: {
+  "login": "lion",
+  "password": "cookie4230",
+  "email": "jvioxny9901@live.com",
+  "name": "Гавриил",
+  "lastname": "Тарасов",
+  "phone": "+79788364531",
+  "day": 5,
+  "month": 10,
+  "year": 1987,
+  "delayMinutes": 10,
+  "delaySeconds": 41
+}
+2026-10-06 02:11:52.932Z, Success vote with index: 68 
+  User: {
+  "login": "ilinalarisa",
+  "password": "larisailina788498",
+  "email": "larisailina461731@gmail.com",
+  "name": "Лариса",
+  "lastname": "Ильина",
+  "phone": "+79780833970",
+  "day": 12,
+  "month": 1,
+  "year": 1994,
+  "delayMinutes": 6,
+  "delaySeconds": 1
+}
+2026-10-06 02:18:21.276Z, Success vote with index: 69 
+  User: {
+  "login": "kuznetsov.kirill",
+  "password": "kirill_kuznetsov",
+  "email": "eayhfis5044@rambler.ru",
+  "name": "Кирилл",
+  "lastname": "Кузнецов",
+  "phone": "+79789816257",
+  "day": 5,
+  "month": 11,
+  "year": 1990,
+  "delayMinutes": 9,
+  "delaySeconds": 59
+}
+2026-10-06 02:28:49.457Z, Success vote with index: 70 
+  User: {
+  "login": "dlzqj",
+  "password": "leonidkuznetsov196547",
+  "email": "leonid.kuznetsov@yandex.ru",
+  "name": "Леонид",
+  "lastname": "Кузнецов",
+  "phone": "+79784333839",
+  "day": 5,
+  "month": 11,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-06 02:34:47.556Z, Success vote with index: 71 
+  User: {
+  "login": "zaytseva.agrafena",
+  "password": "falcon10816",
+  "email": "a.zaytseva85337@proton.me",
+  "name": "Аграфена",
+  "lastname": "Зайцева",
+  "phone": "+79788050874",
+  "day": 19,
+  "month": 8,
+  "year": 1986,
+  "delayMinutes": 10,
+  "delaySeconds": 12
+}
+2026-10-06 02:45:26.501Z, Success vote with index: 72 
+  User: {
+  "login": "kirillorlov557377",
+  "password": "bjajwrokg50423",
+  "email": "mesqwmzd5886@icloud.com",
+  "name": "Кирилл",
+  "lastname": "Орлов",
+  "phone": "+79787294740",
+  "day": 17,
+  "month": 5,
+  "year": 2001,
+  "delayMinutes": 10,
+  "delaySeconds": 39
+}
+2026-10-06 02:56:33.634Z, Success vote with index: 73 
+  User: {
+  "login": "gavriil.stepanov221844",
+  "password": "zpghcqgil8386",
+  "email": "gavriil.stepanov470678@yahoo.com",
+  "name": "Гавриил",
+  "lastname": "Степанов",
+  "phone": "+79784749859",
+  "day": 19,
+  "month": 2,
+  "year": 1985,
+  "delayMinutes": 7,
+  "delaySeconds": 19
+}
+2026-10-06 03:04:20.155Z, Success vote with index: 74 
+  User: {
+  "login": "belyaeva_matrena",
+  "password": "matrenabelyaeva",
+  "email": "matrenabelyaeva@proton.me",
+  "name": "Матрёна",
+  "lastname": "Беляева",
+  "phone": "+79782708054",
+  "day": 17,
+  "month": 9,
+  "year": 2001,
+  "delayMinutes": 9,
+  "delaySeconds": 12
+}
+2026-10-06 03:13:58.899Z, Success vote with index: 75 
+  User: {
+  "login": "novikov_denis",
+  "password": "fdxbae75688",
+  "email": "d_novikov38370@proton.me",
+  "name": "Денис",
+  "lastname": "Новиков",
+  "phone": "+79781351363",
+  "day": 22,
+  "month": 9,
+  "year": 1992,
+  "delayMinutes": 7,
+  "delaySeconds": 24
+}
+2026-10-06 03:21:51.456Z, Success vote with index: 76 
+  User: {
+  "login": "flame",
+  "password": "margaritavolkova702055",
+  "email": "margarita.volkova@inbox.ru",
+  "name": "Маргарита",
+  "lastname": "Волкова",
+  "phone": "+79785354548",
+  "day": 3,
+  "month": 6,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 2
+}
+2026-10-06 03:29:21.362Z, Success vote with index: 77 
+  User: {
+  "login": "timur_ovchinnikov",
+  "password": "fire88123",
+  "email": "timur.ovchinnikov69180@mail.ru",
+  "name": "Тимур",
+  "lastname": "Овчинников",
+  "phone": "+79780164904",
+  "day": 3,
+  "month": 6,
+  "year": 2004,
+  "delayMinutes": 8,
+  "delaySeconds": 32
+}
+2026-10-06 03:39:09.792Z, Success vote with index: 79 
+  User: {
+  "login": "novikova.polina",
+  "password": "polina_novikova",
+  "email": "nhbki4222@hotmail.com",
+  "name": "Полина",
+  "lastname": "Новикова",
+  "phone": "+79780225371",
+  "day": 19,
+  "month": 2,
+  "year": 1995,
+  "delayMinutes": 7,
+  "delaySeconds": 60
+}
+2026-10-06 03:47:37.488Z, Success vote with index: 80 
+  User: {
+  "login": "kristinakuznetsova",
+  "password": "kristinakuznetsova207264",
+  "email": "vwngkzy432@proton.me",
+  "name": "Кристина",
+  "lastname": "Кузнецова",
+  "phone": "+79783648566",
+  "day": 6,
+  "month": 8,
+  "year": 1983,
+  "delayMinutes": 8,
+  "delaySeconds": 23
+}
+2026-10-06 03:57:16.713Z, Success vote with index: 82 
+  User: {
+  "login": "ivanovviktor",
+  "password": "summer13585",
+  "email": "viktor.ivanov650346@outlook.com",
+  "name": "Виктор",
+  "lastname": "Иванов",
+  "phone": "+79786282360",
+  "day": 26,
+  "month": 11,
+  "year": 1987,
+  "delayMinutes": 9,
+  "delaySeconds": 49
+}
+2026-10-06 04:07:34.453Z, Success vote with index: 83 
+  User: {
+  "login": "ruslanstepanov222896",
+  "password": "ruslan_stepanov619367",
+  "email": "password797@outlook.com",
+  "name": "Руслан",
+  "lastname": "Степанов",
+  "phone": "+79784790692",
+  "day": 27,
+  "month": 10,
+  "year": 2000,
+  "delayMinutes": 7,
+  "delaySeconds": 47
+}
+2026-10-06 04:15:49.830Z, Success vote with index: 84 
+  User: {
+  "login": "qxhjsel",
+  "password": "pelageya_lazareva724537",
+  "email": "eupljwc230@outlook.com",
+  "name": "Пелагея",
+  "lastname": "Лазарева",
+  "phone": "+79783827409",
+  "day": 12,
+  "month": 11,
+  "year": 1984,
+  "delayMinutes": 10,
+  "delaySeconds": 1
+}
+2026-10-06 04:26:19.486Z, Success vote with index: 85 
+  User: {
+  "login": "darya_morozova",
+  "password": "darya_morozova139312",
+  "email": "darya.morozova588752@yandex.ru",
+  "name": "Дарья",
+  "lastname": "Морозова",
+  "phone": "+79781365426",
+  "day": 10,
+  "month": 2,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 34
+}
+2026-10-06 04:32:18.865Z, Success vote with index: 86 
+  User: {
+  "login": "hfenkg",
+  "password": "vsxgq38155",
+  "email": "ice9471@zoho.com",
+  "name": "Александр",
+  "lastname": "Титов",
+  "phone": "+79784038821",
+  "day": 25,
+  "month": 6,
+  "year": 2003,
+  "delayMinutes": 9,
+  "delaySeconds": 58
+}
+2026-10-06 04:43:09.959Z, Success vote with index: 88 
+  User: {
+  "login": "ilya_nikolaev8316",
+  "password": "ilya_nikolaev983199",
+  "email": "inikolaev90015@list.ru",
+  "name": "Илья",
+  "lastname": "Николаев",
+  "phone": "+79784412674",
+  "day": 2,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 8,
+  "delaySeconds": 57
+}
+2026-10-06 04:53:00.955Z, Success vote with index: 89 
+  User: {
+  "login": "lebedevmark",
+  "password": "mark_lebedev652915",
+  "email": "earth5148@zoho.com",
+  "name": "Марк",
+  "lastname": "Лебедев",
+  "phone": "+79786037803",
+  "day": 19,
+  "month": 5,
+  "year": 1985,
+  "delayMinutes": 7,
+  "delaySeconds": 36
+}
+2026-10-06 05:01:03.783Z, Success vote with index: 90 
+  User: {
+  "login": "blue",
+  "password": "uoexu29504",
+  "email": "aleksandr.belyaev@rambler.ru",
+  "name": "Александр",
+  "lastname": "Беляев",
+  "phone": "+79789779822",
+  "day": 11,
+  "month": 3,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 2
+}
+2026-10-06 05:13:01.359Z, Success vote with index: 94 
+  User: {
+  "login": "oleg_stepanov",
+  "password": "oleg_stepanov",
+  "email": "o_stepanov4888@live.com",
+  "name": "Олег",
+  "lastname": "Степанов",
+  "phone": "+79787178404",
+  "day": 13,
+  "month": 10,
+  "year": 2000,
+  "delayMinutes": 9,
+  "delaySeconds": 30
+}
+2026-10-06 05:24:40.792Z, Success vote with index: 97 
+  User: {
+  "login": "boristitov",
+  "password": "pxsvdr62532",
+  "email": "zdwplb2220@proton.me",
+  "name": "Борис",
+  "lastname": "Титов",
+  "phone": "+79788706858",
+  "day": 21,
+  "month": 10,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 8
+}
+2026-10-06 05:30:16.823Z, Success vote with index: 98 
+  User: {
+  "login": "mega",
+  "password": "aleksandrapopova",
+  "email": "aleksandra_popova120287@bk.ru",
+  "name": "Александра",
+  "lastname": "Попова",
+  "phone": "+79783685069",
+  "day": 6,
+  "month": 6,
+  "year": 1996,
+  "delayMinutes": 9,
+  "delaySeconds": 22
+}
+2026-10-06 05:40:05.793Z, Success vote with index: 99 
+  User: {
+  "login": "amvists",
+  "password": "yclixgfq87583",
+  "email": "denis.zhukov897535@zoho.com",
+  "name": "Денис",
+  "lastname": "Жуков",
+  "phone": "+79783730599",
+  "day": 15,
+  "month": 6,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 57
+}
+2026-10-06 12:34:32.441Z, Success vote with index: 1 
+  User: {
+  "login": "varvara_vlasova",
+  "password": "varvara_vlasova",
+  "email": "varvara_vlasova@icloud.com",
+  "name": "Варвара",
+  "lastname": "Власова",
+  "phone": "+79780090180",
+  "day": 21,
+  "month": 7,
+  "year": 1999,
+  "delayMinutes": 12,
+  "delaySeconds": 10
+}
+2026-10-06 12:49:10.888Z, Success vote with index: 4 
+  User: {
+  "login": "dmitriy.kozlov0152",
+  "password": "dmitriy_kozlov",
+  "email": "dmitriy.kozlov3512900@inbox.ru",
+  "name": "Дмитрий",
+  "lastname": "Козлов",
+  "phone": "+79785465516",
+  "day": 7,
+  "month": 8,
+  "year": 1994,
+  "delayMinutes": 26,
+  "delaySeconds": 39
+}
+2026-10-06 13:16:16.235Z, Success vote with index: 5 
+  User: {
+  "login": "spabs",
+  "password": "tihon_danilov632631",
+  "email": "hero@zoho.com",
+  "name": "Тихон",
+  "lastname": "Данилов",
+  "phone": "+79784713627",
+  "day": 12,
+  "month": 1,
+  "year": 1990,
+  "delayMinutes": 22,
+  "delaySeconds": 22
+}
+2026-10-06 13:39:59.927Z, Success vote with index: 7 
+  User: {
+  "login": "denis_morozov",
+  "password": "eiqyftuduf",
+  "email": "uezlqxv@icloud.com",
+  "name": "Денис",
+  "lastname": "Морозов",
+  "phone": "+79789291016",
+  "day": 17,
+  "month": 10,
+  "year": 1998,
+  "delayMinutes": 6,
+  "delaySeconds": 53
+}
+2026-10-06 15:29:05.738Z, Success vote with index: 8 
+  User: {
+  "login": "kseon",
+  "password": "zaharkomarov",
+  "email": "zrlgnxpnm@proton.me",
+  "name": "Захар",
+  "lastname": "Комаров",
+  "phone": "+79786454946",
+  "day": 19,
+  "month": 2,
+  "year": 1998,
+  "delayMinutes": 16,
+  "delaySeconds": 21
+}
+2026-10-06 15:46:47.714Z, Success vote with index: 10 
+  User: {
+  "login": "qvkkfjd",
+  "password": "blue30023",
+  "email": "matrena.fedorova7736100@mail.ru",
+  "name": "Матрёна",
+  "lastname": "Фёдорова",
+  "phone": "+79780527040",
+  "day": 1,
+  "month": 11,
+  "year": 1988,
+  "delayMinutes": 13,
+  "delaySeconds": 13
+}
+2026-10-06 16:02:12.906Z, Success vote with index: 13 
+  User: {
+  "login": "football",
+  "password": "matveypavlov",
+  "email": "matveypavlov@yahoo.com",
+  "name": "Матвей",
+  "lastname": "Павлов",
+  "phone": "+79789822700",
+  "day": 2,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 12,
+  "delaySeconds": 39
+}
+2026-10-06 16:20:07.902Z, Success vote with index: 20 
+  User: {
+  "login": "grigoriy.volkov",
+  "password": "grigoriyvolkov8404657",
+  "email": "blue47558@bk.ru",
+  "name": "Григорий",
+  "lastname": "Волков",
+  "phone": "+79781578460",
+  "day": 6,
+  "month": 11,
+  "year": 1988,
+  "delayMinutes": 14,
+  "delaySeconds": 60
+}
+2026-10-06 16:35:37.484Z, Success vote with index: 21 
+  User: {
+  "login": "shadow",
+  "password": "aleksey_makarov",
+  "email": "aleksey_makarov8146989@rambler.ru",
+  "name": "Алексей",
+  "lastname": "Макаров",
+  "phone": "+79786727189",
+  "day": 3,
+  "month": 4,
+  "year": 1997,
+  "delayMinutes": 16,
+  "delaySeconds": 11
+}
+2026-10-06 17:12:32.026Z, Success vote with index: 39 
+  User: {
+  "login": "tamara.belyaeva",
+  "password": "tamara_belyaeva",
+  "email": "power04493@gmail.com",
+  "name": "Тамара",
+  "lastname": "Беляева",
+  "phone": "+79789779230",
+  "day": 14,
+  "month": 4,
+  "year": 2002,
+  "delayMinutes": 8,
+  "delaySeconds": 26
+}
+2026-10-06 17:22:14.767Z, Success vote with index: 41 
+  User: {
+  "login": "uxpr",
+  "password": "ntwmfcb",
+  "email": "ttfhufkrfm@hotmail.com",
+  "name": "Фёдор",
+  "lastname": "Семёнов",
+  "phone": "+79785190518",
+  "day": 23,
+  "month": 1,
+  "year": 1987,
+  "delayMinutes": 8,
+  "delaySeconds": 24
+}
+2026-10-06 17:31:54.681Z, Success vote with index: 43 
+  User: {
+  "login": "olga_soloveva",
+  "password": "olga_soloveva",
+  "email": "forest@zoho.com",
+  "name": "Ольга",
+  "lastname": "Соловьёва",
+  "phone": "+79781863630",
+  "day": 20,
+  "month": 6,
+  "year": 1993,
+  "delayMinutes": 26,
+  "delaySeconds": 58
+}
+2026-10-06 18:02:54.996Z, Success vote with index: 52 
+  User: {
+  "login": "marina_boldina8601630",
+  "password": "tgzbeptt",
+  "email": "admin@proton.me",
+  "name": "Марина",
+  "lastname": "Болдина",
+  "phone": "+79787424506",
+  "day": 18,
+  "month": 3,
+  "year": 1991,
+  "delayMinutes": 30,
+  "delaySeconds": 15
+}
+2026-10-06 18:33:36.734Z, Success vote with index: 53 
+  User: {
+  "login": "semen_vlasov3878",
+  "password": "semenvlasov",
+  "email": "semenvlasov7840912@bk.ru",
+  "name": "Семён",
+  "lastname": "Власов",
+  "phone": "+79784584633",
+  "day": 18,
+  "month": 5,
+  "year": 1984,
+  "delayMinutes": 19,
+  "delaySeconds": 3
+}
+2026-10-06 18:53:07.124Z, Success vote with index: 54 
+  User: {
+  "login": "mark_lebedev",
+  "password": "mark_lebedev7862238",
+  "email": "river431@gmail.com",
+  "name": "Марк",
+  "lastname": "Лебедев",
+  "phone": "+79780760830",
+  "day": 24,
+  "month": 5,
+  "year": 1985,
+  "delayMinutes": 15,
+  "delaySeconds": 44
+}
+2026-10-06 19:26:30.380Z, Success vote with index: 67 
+  User: {
+  "login": "blues",
+  "password": "rainbow",
+  "email": "kepojj@mail.ru",
+  "name": "Любовь",
+  "lastname": "Богданова",
+  "phone": "+79782942106",
+  "day": 21,
+  "month": 9,
+  "year": 1997,
+  "delayMinutes": 12,
+  "delaySeconds": 7
+}
+2026-10-07 22:20:13.507Z, Success vote with index: 69 
+  User: {
+  "login": "ekaterina.romanova",
+  "password": "ekaterinaromanova07632",
+  "email": "princess@live.com",
+  "name": "Екатерина",
+  "lastname": "Романова",
+  "phone": "+79782722844",
+  "day": 12,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 26
+}
+2026-10-07 22:27:09.248Z, Success vote with index: 70 
+  User: {
+  "login": "agji",
+  "password": "tamara_smirnova2425511",
+  "email": "tamarasmirnova699665@outlook.com",
+  "name": "Тамара",
+  "lastname": "Смирнова",
+  "phone": "+79782079476",
+  "day": 23,
+  "month": 7,
+  "year": 2004,
+  "delayMinutes": 9,
+  "delaySeconds": 39
+}
+2026-10-07 22:38:01.612Z, Success vote with index: 72 
+  User: {
+  "login": "edlqut",
+  "password": "ekaterina_vlasova",
+  "email": "piano@outlook.com",
+  "name": "Екатерина",
+  "lastname": "Власова",
+  "phone": "+79786100440",
+  "day": 22,
+  "month": 12,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 56
+}
+2026-10-07 22:50:52.680Z, Success vote with index: 76 
+  User: {
+  "login": "love",
+  "password": "xmosll",
+  "email": "larisa.danilova372642@proton.me",
+  "name": "Лариса",
+  "lastname": "Данилова",
+  "phone": "+79784342718",
+  "day": 20,
+  "month": 3,
+  "year": 1986,
+  "delayMinutes": 7,
+  "delaySeconds": 18
+}
+2026-10-07 22:59:32.904Z, Success vote with index: 78 
+  User: {
+  "login": "mbss",
+  "password": "ssviock",
+  "email": "sktcy@hotmail.com",
+  "name": "Руслан",
+  "lastname": "Шестаков",
+  "phone": "+79784589782",
+  "day": 14,
+  "month": 5,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 25
+}
+2026-10-07 23:07:24.713Z, Success vote with index: 79 
+  User: {
+  "login": "anastasiya_semenova",
+  "password": "anastasiyasemenova4019",
+  "email": "candy@outlook.com",
+  "name": "Анастасия",
+  "lastname": "Семёнова",
+  "phone": "+79782648184",
+  "day": 12,
+  "month": 10,
+  "year": 1999,
+  "delayMinutes": 6,
+  "delaySeconds": 5
+}
+2026-10-07 23:13:54.194Z, Success vote with index: 80 
+  User: {
+  "login": "ekaterina.kozlova",
+  "password": "red05494",
+  "email": "gxleusmj@inbox.ru",
+  "name": "Екатерина",
+  "lastname": "Козлова",
+  "phone": "+79789714323",
+  "day": 20,
+  "month": 1,
+  "year": 1991,
+  "delayMinutes": 7,
+  "delaySeconds": 35
+}
+2026-10-07 23:23:30.097Z, Success vote with index: 83 
+  User: {
+  "login": "agrafena_lazareva21252",
+  "password": "agrafenalazareva",
+  "email": "iwlxgztqn@outlook.com",
+  "name": "Аграфена",
+  "lastname": "Лазарева",
+  "phone": "+79789022587",
+  "day": 26,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 12
+}
+2026-10-07 23:29:06.811Z, Success vote with index: 84 
+  User: {
+  "login": "lixldq",
+  "password": "yqtdyrwizh",
+  "email": "cpxobpg@yahoo.com",
+  "name": "Роман",
+  "lastname": "Иванов",
+  "phone": "+79789257721",
+  "day": 21,
+  "month": 12,
+  "year": 1989,
+  "delayMinutes": 10,
+  "delaySeconds": 43
+}
+2026-10-07 23:40:15.173Z, Success vote with index: 85 
+  User: {
+  "login": "dmitriyzhukov",
+  "password": "dmitriyzhukov",
+  "email": "king5899@yandex.ru",
+  "name": "Дмитрий",
+  "lastname": "Жуков",
+  "phone": "+79789082048",
+  "day": 1,
+  "month": 6,
+  "year": 1989,
+  "delayMinutes": 9,
+  "delaySeconds": 45
+}
+2026-10-07 23:53:55.833Z, Success vote with index: 90 
+  User: {
+  "login": "pelageyamelnikova",
+  "password": "mountain7387",
+  "email": "pelageya.melnikova3502371@hotmail.com",
+  "name": "Пелагея",
+  "lastname": "Мельникова",
+  "phone": "+79783270113",
+  "day": 21,
+  "month": 11,
+  "year": 1992,
+  "delayMinutes": 6,
+  "delaySeconds": 49
+}
+2026-10-08 00:01:09.536Z, Success vote with index: 91 
+  User: {
+  "login": "irina.titova",
+  "password": "idpgbvimh",
+  "email": "ciympsoi@proton.me",
+  "name": "Ирина",
+  "lastname": "Титова",
+  "phone": "+79787523316",
+  "day": 12,
+  "month": 4,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 14
+}
+2026-10-08 00:08:32.097Z, Success vote with index: 94 
+  User: {
+  "login": "king",
+  "password": "kuzmatarasov47016",
+  "email": "kuzmatarasov697013@live.com",
+  "name": "Кузьма",
+  "lastname": "Тарасов",
+  "phone": "+79789376851",
+  "day": 7,
+  "month": 7,
+  "year": 1999,
+  "delayMinutes": 10,
+  "delaySeconds": 6
+}
+2026-10-08 00:19:52.961Z, Success vote with index: 96 
+  User: {
+  "login": "trustno1",
+  "password": "trustno1",
+  "email": "saveliy.borisov@icloud.com",
+  "name": "Савелий",
+  "lastname": "Борисов",
+  "phone": "+79780450166",
+  "day": 13,
+  "month": 6,
+  "year": 2000,
+  "delayMinutes": 6,
+  "delaySeconds": 32
+}
+2026-10-08 00:26:52.970Z, Success vote with index: 97 
+  User: {
+  "login": "grigoriy.konovalov",
+  "password": "grigoriykonovalov",
+  "email": "grigoriy.konovalov32243@proton.me",
+  "name": "Григорий",
+  "lastname": "Коновалов",
+  "phone": "+79784028999",
+  "day": 28,
+  "month": 1,
+  "year": 1998,
+  "delayMinutes": 8,
+  "delaySeconds": 44
+}
+2026-10-15 14:59:55.357Z, Success vote with index: 1 
+  User: {
+  "login": "varvara_vlasova",
+  "password": "varvara_vlasova",
+  "email": "varvara_vlasova@icloud.com",
+  "name": "Варвара",
+  "lastname": "Власова",
+  "phone": "+79780090180",
+  "day": 5,
+  "month": 5,
+  "year": 1989,
+  "delayMinutes": 25,
+  "delaySeconds": 19
+}
+2026-10-15 15:11:31.256Z, Success vote with index: 2 
+  User: {
+  "login": "sergey_kozlov39281",
+  "password": "eagle39281",
+  "email": "sergey.kozlov@gmail.com",
+  "name": "Сергей",
+  "lastname": "Козлов",
+  "phone": "+79782345678",
+  "day": 9,
+  "month": 11,
+  "year": 2001,
+  "delayMinutes": 28,
+  "delaySeconds": 26
+}
+2026-10-15 15:14:54.674Z, Success vote with index: 4 
+  User: {
+  "login": "dmitry_novikov58392",
+  "password": "thunder58392",
+  "email": "dmitry.novikov@outlook.com",
+  "name": "Дмитрий",
+  "lastname": "Новиков",
+  "phone": "+79784567890",
+  "day": 26,
+  "month": 6,
+  "year": 1987,
+  "delayMinutes": 21,
+  "delaySeconds": 42
+}
+2026-10-15 15:38:22.828Z, Success vote with index: 6 
+  User: {
+  "login": "alexey_morozov27384",
+  "password": "wolf27384",
+  "email": "alexey.morozov@proton.me",
+  "name": "Алексей",
+  "lastname": "Морозов",
+  "phone": "+79786789012",
+  "day": 16,
+  "month": 1,
+  "year": 1993,
+  "delayMinutes": 19,
+  "delaySeconds": 13
+}
+2026-10-15 15:58:03.039Z, Success vote with index: 7 
+  User: {
+  "login": "natalia_frolova",
+  "password": "ocean99",
+  "email": "natalia.frolova@icloud.com",
+  "name": "Наталия",
+  "lastname": "Фролова",
+  "phone": "+79787890123",
+  "day": 15,
+  "month": 7,
+  "year": 2003,
+  "delayMinutes": 20,
+  "delaySeconds": 36
+}
+2026-10-15 16:19:06.862Z, Success vote with index: 8 
+  User: {
+  "login": "andrey_pavlov64938",
+  "password": "dragon64938",
+  "email": "andrey.pavlov@yahoo.com",
+  "name": "Андрей",
+  "lastname": "Павлов",
+  "phone": "+79788901234",
+  "day": 27,
+  "month": 2,
+  "year": 1988,
+  "delayMinutes": 27,
+  "delaySeconds": 49
+}
+2026-10-15 16:29:27.197Z, Success vote with index: 10 
+  User: {
+  "login": "viktor_sidorov18475",
+  "password": "storm18475",
+  "email": "viktor.sidorov@zoho.com",
+  "name": "Виктор",
+  "lastname": "Сидоров",
+  "phone": "+79780123456",
+  "day": 15,
+  "month": 8,
+  "year": 1984,
+  "delayMinutes": 15,
+  "delaySeconds": 16
+}
+2026-10-15 17:13:35.320Z, Success vote with index: 22 
+  User: {
+  "login": "vladimir_solovyov64938",
+  "password": "eagle64938",
+  "email": "vladimir.solovyov@zoho.com",
+  "name": "Владимир",
+  "lastname": "Соловьёв",
+  "phone": "+79782578045",
+  "day": 8,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 15,
+  "delaySeconds": 42
+}
+2026-10-15 17:29:38.383Z, Success vote with index: 23 
+  User: {
+  "login": "kristina_bondareva",
+  "password": "pearl77",
+  "email": "kristina.bondareva@rambler.ru",
+  "name": "Кристина",
+  "lastname": "Бондарева",
+  "phone": "+79783689156",
+  "day": 8,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 6,
+  "delaySeconds": 36
+}
+2026-10-15 17:31:37.519Z, Success vote with index: 24 
+  User: {
+  "login": "artem_fokin27389",
+  "password": "lion27389",
+  "email": "artem.fokin@hotmail.com",
+  "name": "Артём",
+  "lastname": "Фокин",
+  "phone": "+79784790267",
+  "day": 3,
+  "month": 1,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 36
+}
+2026-10-16 21:28:52.212Z, Success vote with index: 1 
+  User: {
+  "login": "maria_sokolova88372",
+  "password": "mariaSokolova2024",
+  "email": "maria.sokolova@mail.ru",
+  "name": "Мария",
+  "lastname": "Соколова",
+  "phone": "+79781113456",
+  "day": 5,
+  "month": 4,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 17
+}
+2026-10-16 21:34:27.967Z, Success vote with index: 2 
+  User: {
+  "login": "dmitry_kuznetsov49283",
+  "password": "kuznetsovD99",
+  "email": "d.kuznetsov49283@gmail.com",
+  "name": "Дмитрий",
+  "lastname": "Кузнецов",
+  "phone": "+79781124567",
+  "day": 13,
+  "month": 2,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 6
+}
+2026-10-16 21:39:56.132Z, Success vote with index: 3 
+  User: {
+  "login": "elena_popova50394",
+  "password": "popovaElena777",
+  "email": "elena.popova50394@bk.ru",
+  "name": "Елена",
+  "lastname": "Попова",
+  "phone": "+79781135678",
+  "day": 22,
+  "month": 4,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 26
+}
+2026-10-16 21:45:40.386Z, Success vote with index: 4 
+  User: {
+  "login": "sergey_smirnov61405",
+  "password": "smirnovSer123",
+  "email": "s.smirnov61405@list.ru",
+  "name": "Сергей",
+  "lastname": "Смирнов",
+  "phone": "+79781146789",
+  "day": 10,
+  "month": 12,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 22
+}
+2026-10-16 21:51:20.926Z, Success vote with index: 5 
+  User: {
+  "login": "natalia_ivanovna72516",
+  "password": "ivanovnaNat555",
+  "email": "natalia.ivanovna72516@inbox.ru",
+  "name": "Наталия",
+  "lastname": "Иванова",
+  "phone": "+79781157890",
+  "day": 2,
+  "month": 5,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 43
+}
+2026-10-16 21:58:42.556Z, Success vote with index: 7 
+  User: {
+  "login": "anna_fedorova94738",
+  "password": "fedorovaAnna222",
+  "email": "anna.fedorova94738@proton.me",
+  "name": "Анна",
+  "lastname": "Фёдорова",
+  "phone": "+79781179012",
+  "day": 4,
+  "month": 9,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 51
+}
+2026-10-16 22:04:53.105Z, Success vote with index: 8 
+  User: {
+  "login": "vladimir_morozov05849",
+  "password": "morozovVlad333",
+  "email": "v.morozov05849@zoho.com",
+  "name": "Владимир",
+  "lastname": "Морозов",
+  "phone": "+79781180123",
+  "day": 20,
+  "month": 10,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-16 22:10:13.091Z, Success vote with index: 9 
+  User: {
+  "login": "olga_novikova16950",
+  "password": "novikovaOlga444",
+  "email": "olga.novikova16950@yahoo.com",
+  "name": "Ольга",
+  "lastname": "Новикова",
+  "phone": "+79781191234",
+  "day": 3,
+  "month": 5,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 2
+}
+2026-10-16 22:15:54.918Z, Success vote with index: 11 
+  User: {
+  "login": "tatyana_kozlova38172",
+  "password": "kozlovaTanya666",
+  "email": "t.kozlova38172@icloud.com",
+  "name": "Татьяна",
+  "lastname": "Козлова",
+  "phone": "+79781213456",
+  "day": 16,
+  "month": 9,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 6
+}
+2026-10-16 22:21:19.506Z, Success vote with index: 12 
+  User: {
+  "login": "mikhail_vasiliev49283",
+  "password": "vasilievMisha777",
+  "email": "m.vasiliev49283@outlook.com",
+  "name": "Михаил",
+  "lastname": "Васильев",
+  "phone": "+79781224567",
+  "day": 27,
+  "month": 11,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 45
+}
+2026-10-16 22:27:22.980Z, Success vote with index: 13 
+  User: {
+  "login": "irina_egorova50394",
+  "password": "egorovaIra888",
+  "email": "i.egorova50394@live.com",
+  "name": "Ирина",
+  "lastname": "Егорова",
+  "phone": "+79781235678",
+  "day": 23,
+  "month": 1,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 52
+}
+2026-10-16 22:33:40.242Z, Success vote with index: 14 
+  User: {
+  "login": "andrey_nikitin61505",
+  "password": "nikitinAnd999",
+  "email": "a.nikitin61505@mail.ru",
+  "name": "Андрей",
+  "lastname": "Никитин",
+  "phone": "+79781246789",
+  "day": 5,
+  "month": 1,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 23
+}
+2026-10-16 22:39:21.992Z, Success vote with index: 15 
+  User: {
+  "login": "svetlana_borisova72616",
+  "password": "borisovaSvet111",
+  "email": "s.borisova72616@bk.ru",
+  "name": "Светлана",
+  "lastname": "Борисова",
+  "phone": "+79781257890",
+  "day": 22,
+  "month": 7,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 43
+}
+2026-10-16 22:46:37.321Z, Success vote with index: 17 
+  User: {
+  "login": "katerina_shishkina94838",
+  "password": "shishkinaKat333",
+  "email": "k.shishkina94838@inbox.ru",
+  "name": "Катерина",
+  "lastname": "Шишкина",
+  "phone": "+79781279012",
+  "day": 26,
+  "month": 4,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-16 22:52:39.934Z, Success vote with index: 18 
+  User: {
+  "login": "evgeny_chernov05949",
+  "password": "chernovEvgen444",
+  "email": "e.chernov05949@rambler.ru",
+  "name": "Евгений",
+  "lastname": "Чернов",
+  "phone": "+79781280123",
+  "day": 24,
+  "month": 6,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-16 22:58:54.975Z, Success vote with index: 19 
+  User: {
+  "login": "yulia_maksimova17050",
+  "password": "maksimovaYul555",
+  "email": "y.maksimova17050@proton.me",
+  "name": "Юлия",
+  "lastname": "Максимова",
+  "phone": "+79781291234",
+  "day": 16,
+  "month": 12,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 36
+}
+2026-10-16 23:05:34.557Z, Success vote with index: 21 
+  User: {
+  "login": "vera_stepanova39272",
+  "password": "stepanovaVera777",
+  "email": "v.stepanova39272@yahoo.com",
+  "name": "Вера",
+  "lastname": "Степанова",
+  "phone": "+79781313456",
+  "day": 1,
+  "month": 6,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 5
+}
+2026-10-16 23:10:58.308Z, Success vote with index: 22 
+  User: {
+  "login": "maksim_pavlov40383",
+  "password": "pavlovMaks888",
+  "email": "m.pavlov40383@hotmail.com",
+  "name": "Максим",
+  "lastname": "Павлов",
+  "phone": "+79781324567",
+  "day": 12,
+  "month": 4,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 34
+}
+2026-10-16 23:16:50.745Z, Success vote with index: 23 
+  User: {
+  "login": "alina_kuznetsova51494",
+  "password": "kuznetsovaAlina999",
+  "email": "a.kuznetsova51494@icloud.com",
+  "name": "Алина",
+  "lastname": "Кузнецова",
+  "phone": "+79781335678",
+  "day": 15,
+  "month": 6,
+  "year": 1995,
+  "delayMinutes": 5,
+  "delaySeconds": 52
+}
+2026-10-16 23:23:01.300Z, Success vote with index: 24 
+  User: {
+  "login": "denis_belov62505",
+  "password": "belovDenis111",
+  "email": "d.belov62505@outlook.com",
+  "name": "Денис",
+  "lastname": "Белов",
+  "phone": "+79781346789",
+  "day": 1,
+  "month": 6,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 49
+}
+2026-10-16 23:29:18.549Z, Success vote with index: 25 
+  User: {
+  "login": "polina_solovyova73616",
+  "password": "solovyovaPolina222",
+  "email": "p.solovyova73616@live.com",
+  "name": "Полина",
+  "lastname": "Соловьёва",
+  "phone": "+79781357890",
+  "day": 14,
+  "month": 9,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-16 23:34:40.046Z, Success vote with index: 26 
+  User: {
+  "login": "artem_kozlov84727",
+  "password": "kozlovArtem333",
+  "email": "a.kozlov84727@mail.ru",
+  "name": "Артём",
+  "lastname": "Козлов",
+  "phone": "+79781368901",
+  "day": 18,
+  "month": 10,
+  "year": 1995,
+  "delayMinutes": 5,
+  "delaySeconds": 6
+}
+2026-10-16 23:40:04.735Z, Success vote with index: 27 
+  User: {
+  "login": "kseniya_morozova95838",
+  "password": "morozovaKsenia444",
+  "email": "k.morozova95838@bk.ru",
+  "name": "Ксения",
+  "lastname": "Морозова",
+  "phone": "+79781379012",
+  "day": 6,
+  "month": 9,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 10
+}
+2026-10-16 23:45:33.047Z, Success vote with index: 28 
+  User: {
+  "login": "ilya_volkov06949",
+  "password": "volkovIlya555",
+  "email": "i.volkov06949@list.ru",
+  "name": "Илья",
+  "lastname": "Волков",
+  "phone": "+79781380123",
+  "day": 1,
+  "month": 8,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 56
+}
+2026-10-16 23:51:47.445Z, Success vote with index: 29 
+  User: {
+  "login": "anastasia_popova18050",
+  "password": "popovaAnast666",
+  "email": "a.popova18050@inbox.ru",
+  "name": "Анастасия",
+  "lastname": "Попова",
+  "phone": "+79781391234",
+  "day": 2,
+  "month": 5,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 51
+}
+2026-10-16 23:58:42.940Z, Success vote with index: 31 
+  User: {
+  "login": "zhanna_ivanovna30272",
+  "password": "ivanovnaZhanna888",
+  "email": "j.ivanovna30272@proton.me",
+  "name": "Жанна",
+  "lastname": "Иванова",
+  "phone": "+79781413456",
+  "day": 12,
+  "month": 3,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 49
+}
+2026-10-17 00:04:50.411Z, Success vote with index: 32 
+  User: {
+  "login": "kirill_petrov41383",
+  "password": "petrovKirill999",
+  "email": "k.petrov41383@zoho.com",
+  "name": "Кирилл",
+  "lastname": "Петров",
+  "phone": "+79781424567",
+  "day": 19,
+  "month": 7,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 33
+}
+2026-10-17 00:10:41.976Z, Success vote with index: 33 
+  User: {
+  "login": "sofia_fedorova52494",
+  "password": "fedorovaSofia111",
+  "email": "s.fedorova52494@yahoo.com",
+  "name": "София",
+  "lastname": "Фёдорова",
+  "phone": "+79781435678",
+  "day": 28,
+  "month": 12,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 39
+}
+2026-10-17 00:16:39.008Z, Success vote with index: 34 
+  User: {
+  "login": "lev_morozov63505",
+  "password": "morozovLev222",
+  "email": "l.morozov63505@hotmail.com",
+  "name": "Лев",
+  "lastname": "Морозов",
+  "phone": "+79781446789",
+  "day": 12,
+  "month": 11,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 40
+}
+2026-10-17 00:22:37.713Z, Success vote with index: 35 
+  User: {
+  "login": "viktoria_novikova74616",
+  "password": "novikovaVika333",
+  "email": "v.novikova74616@icloud.com",
+  "name": "Виктория",
+  "lastname": "Новикова",
+  "phone": "+79781457890",
+  "day": 13,
+  "month": 7,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 27
+}
+2026-10-17 00:28:23.151Z, Success vote with index: 36 
+  User: {
+  "login": "grigoriy_sidorov85727",
+  "password": "sidorovGrig444",
+  "email": "g.sidorov85727@outlook.com",
+  "name": "Григорий",
+  "lastname": "Сидоров",
+  "phone": "+79781468901",
+  "day": 24,
+  "month": 6,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 7
+}
+2026-10-17 00:33:48.352Z, Success vote with index: 37 
+  User: {
+  "login": "marina_kozlova96838",
+  "password": "kozlovaMarina555",
+  "email": "m.kozlova96838@live.com",
+  "name": "Марина",
+  "lastname": "Козлова",
+  "phone": "+79781479012",
+  "day": 10,
+  "month": 4,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 43
+}
+2026-10-17 00:41:03.711Z, Success vote with index: 39 
+  User: {
+  "login": "nadezhda_egorova19050",
+  "password": "egorovaNade777",
+  "email": "n.egorova19050@bk.ru",
+  "name": "Надежда",
+  "lastname": "Егорова",
+  "phone": "+79781491234",
+  "day": 2,
+  "month": 10,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 23
+}
+2026-10-17 00:47:30.773Z, Success vote with index: 41 
+  User: {
+  "login": "lyudmila_borisova31272",
+  "password": "borisovaLyud999",
+  "email": "l.borisova31272@inbox.ru",
+  "name": "Людмила",
+  "lastname": "Борисова",
+  "phone": "+79781513456",
+  "day": 14,
+  "month": 12,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-17 00:53:47.266Z, Success vote with index: 42 
+  User: {
+  "login": "eduard_fokin42383",
+  "password": "fokinEdu111",
+  "email": "e.fokin42383@rambler.ru",
+  "name": "Эдуард",
+  "lastname": "Фокин",
+  "phone": "+79781524567",
+  "day": 21,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 33
+}
+2026-10-17 00:59:38.509Z, Success vote with index: 43 
+  User: {
+  "login": "zoya_shishkina53494",
+  "password": "shishkinaZoya222",
+  "email": "z.shishkina53494@proton.me",
+  "name": "Зоя",
+  "lastname": "Шишкина",
+  "phone": "+79781535678",
+  "day": 22,
+  "month": 12,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 50
+}
+2026-10-17 01:06:34.288Z, Success vote with index: 45 
+  User: {
+  "login": "inna_morozova65716",
+  "password": "morozovaInna339",
+  "email": "inna.morozova65716@mail.ru",
+  "name": "Инна",
+  "lastname": "Морозова",
+  "phone": "+79781553456",
+  "day": 26,
+  "month": 7,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 47
+}
+2026-10-17 01:12:40.056Z, Success vote with index: 46 
+  User: {
+  "login": "boris_sidorov76827",
+  "password": "sidorovBoris440",
+  "email": "b.sidorov76827@bk.ru",
+  "name": "Борис",
+  "lastname": "Сидоров",
+  "phone": "+79781564567",
+  "day": 6,
+  "month": 11,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 18
+}
+2026-10-17 01:18:16.225Z, Success vote with index: 47 
+  User: {
+  "login": "larisa_kozlova87938",
+  "password": "kozlovaLara551",
+  "email": "l.kozlova87938@list.ru",
+  "name": "Лариса",
+  "lastname": "Козлова",
+  "phone": "+79781575678",
+  "day": 25,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 42
+}
+2026-10-17 01:24:17.377Z, Success vote with index: 48 
+  User: {
+  "login": "viktor_vasiliev98049",
+  "password": "vasilievVik662",
+  "email": "v.vasiliev98049@inbox.ru",
+  "name": "Виктор",
+  "lastname": "Васильев",
+  "phone": "+79781586789",
+  "day": 6,
+  "month": 9,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 33
+}
+2026-10-17 01:30:08.760Z, Success vote with index: 49 
+  User: {
+  "login": "galina_egorova09150",
+  "password": "egorovaGala773",
+  "email": "g.egorova09150@rambler.ru",
+  "name": "Галина",
+  "lastname": "Егорова",
+  "phone": "+79781597890",
+  "day": 7,
+  "month": 4,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 22
+}
+2026-10-17 01:35:49.153Z, Success vote with index: 50 
+  User: {
+  "login": "daniil_nikitin10261",
+  "password": "nikitinDani884",
+  "email": "d.nikitin10261@proton.me",
+  "name": "Даниил",
+  "lastname": "Никитин",
+  "phone": "+79781608901",
+  "day": 20,
+  "month": 6,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 46
+}
+2026-10-17 01:41:54.487Z, Success vote with index: 51 
+  User: {
+  "login": "tamara_borisova21372",
+  "password": "borisovaTama995",
+  "email": "t.borisova21372@zoho.com",
+  "name": "Тамара",
+  "lastname": "Борисова",
+  "phone": "+79781619012",
+  "day": 7,
+  "month": 12,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 56
+}
+2026-10-17 01:48:09.156Z, Success vote with index: 52 
+  User: {
+  "login": "fedor_fokin32483",
+  "password": "fokinFed116",
+  "email": "f.fokin32483@yahoo.com",
+  "name": "Фёдор",
+  "lastname": "Фокин",
+  "phone": "+79781620123",
+  "day": 14,
+  "month": 10,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 42
+}
+2026-10-17 01:54:09.350Z, Success vote with index: 53 
+  User: {
+  "login": "kristina_shishkina43594",
+  "password": "shishkinaKris227",
+  "email": "k.shishkina43594@hotmail.com",
+  "name": "Кристина",
+  "lastname": "Шишкина",
+  "phone": "+79781631234",
+  "day": 20,
+  "month": 6,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-17 02:00:17.107Z, Success vote with index: 55 
+  User: {
+  "login": "margarita_morozova65716",
+  "password": "morozovaMarg449",
+  "email": "m.morozova65716@live.com",
+  "name": "Маргарита",
+  "lastname": "Морозова",
+  "phone": "+79781653456",
+  "day": 3,
+  "month": 12,
+  "year": 1985,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-17 02:07:49.891Z, Success vote with index: 57 
+  User: {
+  "login": "valentina_kozlova87938",
+  "password": "kozlovaVal661",
+  "email": "v.kozlova87938@mail.ru",
+  "name": "Валентина",
+  "lastname": "Козлова",
+  "phone": "+79781675678",
+  "day": 7,
+  "month": 9,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 10
+}
+2026-10-17 02:13:18.342Z, Success vote with index: 58 
+  User: {
+  "login": "german_vasiliev98049",
+  "password": "vasilievGerm772",
+  "email": "g.vasiliev98049@bk.ru",
+  "name": "Герман",
+  "lastname": "Васильев",
+  "phone": "+79781686789",
+  "day": 22,
+  "month": 7,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 11
+}
+2026-10-17 02:18:47.821Z, Success vote with index: 59 
+  User: {
+  "login": "yekaterina_egorova09150",
+  "password": "egorovaKate883",
+  "email": "e.egorova09150@list.ru",
+  "name": "Екатерина",
+  "lastname": "Егорова",
+  "phone": "+79781697890",
+  "day": 14,
+  "month": 5,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 22
+}
+2026-10-17 02:24:29.671Z, Success vote with index: 60 
+  User: {
+  "login": "maksim_nikitin10261",
+  "password": "nikitinMax994",
+  "email": "m.nikitin10261@inbox.ru",
+  "name": "Максим",
+  "lastname": "Никитин",
+  "phone": "+79781708901",
+  "day": 16,
+  "month": 11,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 8
+}
+2026-10-17 02:29:56.099Z, Success vote with index: 61 
+  User: {
+  "login": "svetlana_borisova21372",
+  "password": "borisovaSvet115",
+  "email": "s.borisova21372@rambler.ru",
+  "name": "Светлана",
+  "lastname": "Борисова",
+  "phone": "+79781719012",
+  "day": 3,
+  "month": 5,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-17 02:35:58.438Z, Success vote with index: 62 
+  User: {
+  "login": "artem_fokin32483",
+  "password": "fokinArtem226",
+  "email": "a.fokin32483@proton.me",
+  "name": "Артём",
+  "lastname": "Фокин",
+  "phone": "+79781720123",
+  "day": 4,
+  "month": 10,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 29
+}
+2026-10-17 02:41:45.962Z, Success vote with index: 63 
+  User: {
+  "login": "alina_shishkina43594",
+  "password": "shishkinaAlin337",
+  "email": "a.shishkina43594@zoho.com",
+  "name": "Алина",
+  "lastname": "Шишкина",
+  "phone": "+79781731234",
+  "day": 4,
+  "month": 6,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 2
+}
+2026-10-17 02:47:51.750Z, Success vote with index: 65 
+  User: {
+  "login": "natalya_morozova65716",
+  "password": "morozovaNat559",
+  "email": "n.morozova65716@hotmail.com",
+  "name": "Наталья",
+  "lastname": "Морозова",
+  "phone": "+79781753456",
+  "day": 3,
+  "month": 11,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 4
+}
+2026-10-17 02:53:15.839Z, Success vote with index: 66 
+  User: {
+  "login": "pavel_sidorov76827",
+  "password": "sidorovPave660",
+  "email": "p.sidorov76827@icloud.com",
+  "name": "Павел",
+  "lastname": "Сидоров",
+  "phone": "+79781764567",
+  "day": 14,
+  "month": 12,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 24
+}
+2026-10-17 02:58:58.661Z, Success vote with index: 67 
+  User: {
+  "login": "irina_kozlova87938",
+  "password": "kozlovaIra771",
+  "email": "i.kozlova87938@live.com",
+  "name": "Ирина",
+  "lastname": "Козлова",
+  "phone": "+79781775678",
+  "day": 11,
+  "month": 5,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 7
+}
+2026-10-17 03:04:32.565Z, Success vote with index: 68 
+  User: {
+  "login": "vladimir_vasiliev98049",
+  "password": "vasilievVlad882",
+  "email": "v.vasiliev98049@outlook.com",
+  "name": "Владимир",
+  "lastname": "Васильев",
+  "phone": "+79781786789",
+  "day": 18,
+  "month": 7,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 35
+}
+2026-10-17 03:11:40.146Z, Success vote with index: 70 
+  User: {
+  "login": "kirill_nikitin10261",
+  "password": "nikitinKir114",
+  "email": "k.nikitin10261@bk.ru",
+  "name": "Кирилл",
+  "lastname": "Никитин",
+  "phone": "+79781808901",
+  "day": 18,
+  "month": 10,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-17 03:17:53.689Z, Success vote with index: 71 
+  User: {
+  "login": "elena_borisova21372",
+  "password": "borisovaElen225",
+  "email": "e.borisova21372@list.ru",
+  "name": "Елена",
+  "lastname": "Борисова",
+  "phone": "+79781819012",
+  "day": 7,
+  "month": 8,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 22
+}
+2026-10-17 03:23:40.437Z, Success vote with index: 72 
+  User: {
+  "login": "denis_fokin32483",
+  "password": "fokinDen336",
+  "email": "d.fokin32483@inbox.ru",
+  "name": "Денис",
+  "lastname": "Фокин",
+  "phone": "+79781820123",
+  "day": 22,
+  "month": 12,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 47
+}
+2026-10-17 03:29:45.493Z, Success vote with index: 73 
+  User: {
+  "login": "polina_shishkina43594",
+  "password": "shishkinaPol447",
+  "email": "p.shishkina43594@rambler.ru",
+  "name": "Полина",
+  "lastname": "Шишкина",
+  "phone": "+79781831234",
+  "day": 8,
+  "month": 5,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 53
+}
+2026-10-17 03:36:42.980Z, Success vote with index: 75 
+  User: {
+  "login": "sofia_morozova65716",
+  "password": "morozovaSof569",
+  "email": "s.morozova65716@zoho.com",
+  "name": "София",
+  "lastname": "Морозова",
+  "phone": "+79781853456",
+  "day": 16,
+  "month": 3,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-17 03:42:33.612Z, Success vote with index: 76 
+  User: {
+  "login": "timur_sidorov76827",
+  "password": "sidorovTim670",
+  "email": "t.sidorov76827@yahoo.com",
+  "name": "Тимур",
+  "lastname": "Сидоров",
+  "phone": "+79781864567",
+  "day": 5,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 37
+}
+2026-10-17 03:48:29.186Z, Success vote with index: 77 
+  User: {
+  "login": "anastasia_kozlova87938",
+  "password": "kozlovaAnas771",
+  "email": "a.kozlova87938@hotmail.com",
+  "name": "Анастасия",
+  "lastname": "Козлова",
+  "phone": "+79781875678",
+  "day": 18,
+  "month": 12,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-17 03:54:45.228Z, Success vote with index: 78 
+  User: {
+  "login": "ilya_vasiliev98049",
+  "password": "vasilievIlya882",
+  "email": "i.vasiliev98049@icloud.com",
+  "name": "Илья",
+  "lastname": "Васильев",
+  "phone": "+79781886789",
+  "day": 17,
+  "month": 4,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 8
+}
+2026-10-17 04:00:11.843Z, Success vote with index: 79 
+  User: {
+  "login": "zhanna_egorova09150",
+  "password": "egorovaZhan993",
+  "email": "j.egorova09150@live.com",
+  "name": "Жанна",
+  "lastname": "Егорова",
+  "phone": "+79781897890",
+  "day": 7,
+  "month": 9,
+  "year": 1995,
+  "delayMinutes": 5,
+  "delaySeconds": 54
+}
+2026-10-17 04:06:23.980Z, Success vote with index: 80 
+  User: {
+  "login": "lev_nikitin10261",
+  "password": "nikitinLev114",
+  "email": "l.nikitin10261@outlook.com",
+  "name": "Лев",
+  "lastname": "Никитин",
+  "phone": "+79781908901",
+  "day": 16,
+  "month": 6,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 41
+}
+2026-10-17 04:12:23.805Z, Success vote with index: 81 
+  User: {
+  "login": "marina_borisova21372",
+  "password": "borisovaMari225",
+  "email": "m.borisova21372@mail.ru",
+  "name": "Марина",
+  "lastname": "Борисова",
+  "phone": "+79781919012",
+  "day": 3,
+  "month": 11,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 40
+}
+2026-10-17 04:18:22.309Z, Success vote with index: 82 
+  User: {
+  "login": "anton_fokin32483",
+  "password": "fokinAnt336",
+  "email": "a.fokin32483@bk.ru",
+  "name": "Антон",
+  "lastname": "Фокин",
+  "phone": "+79781920123",
+  "day": 3,
+  "month": 4,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 32
+}
+2026-10-17 04:24:12.857Z, Success vote with index: 83 
+  User: {
+  "login": "kseniya_shishkina43594",
+  "password": "shishkinaKse447",
+  "email": "k.shishkina43594@list.ru",
+  "name": "Ксения",
+  "lastname": "Шишкина",
+  "phone": "+79781931234",
+  "day": 18,
+  "month": 10,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 48
+}
+2026-10-17 04:31:05.026Z, Success vote with index: 85 
+  User: {
+  "login": "vera_morozova65716",
+  "password": "morozovaVera669",
+  "email": "v.morozova65716@rambler.ru",
+  "name": "Вера",
+  "lastname": "Морозова",
+  "phone": "+79781953456",
+  "day": 11,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 53
+}
+2026-10-17 04:37:16.529Z, Success vote with index: 86 
+  User: {
+  "login": "grigoriy_sidorov76827",
+  "password": "sidorovGrig770",
+  "email": "g.sidorov76827@proton.me",
+  "name": "Григорий",
+  "lastname": "Сидоров",
+  "phone": "+79781964567",
+  "day": 23,
+  "month": 8,
+  "year": 1985,
+  "delayMinutes": 5,
+  "delaySeconds": 8
+}
+2026-10-17 04:42:45.827Z, Success vote with index: 87 
+  User: {
+  "login": "olga_kozlova87938",
+  "password": "kozlovaOlga871",
+  "email": "o.kozlova87938@zoho.com",
+  "name": "Ольга",
+  "lastname": "Козлова",
+  "phone": "+79781975678",
+  "day": 28,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 50
+}
+2026-10-17 10:59:24.093Z, Success vote with index: 2 
+  User: {
+  "login": "dmitry_petrov47283",
+  "password": "petrovD456",
+  "email": "d.petrov47283@bk.ru",
+  "name": "Дмитрий",
+  "lastname": "Петров",
+  "phone": "+79781100003",
+  "day": 20,
+  "month": 10,
+  "year": 1982,
+  "delayMinutes": 13,
+  "delaySeconds": 26
+}
+2026-10-17 11:06:46.887Z, Success vote with index: 9 
+  User: {
+  "login": "olga_fomina20520",
+  "password": "fominaO606",
+  "email": "olga.fomina@hotmail.com",
+  "name": "Ольга",
+  "lastname": "Фомина",
+  "phone": "+79781100010",
+  "day": 27,
+  "month": 1,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 5
+}
+2026-10-17 11:52:36.986Z, Success vote with index: 7 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 24,
+  "month": 10,
+  "year": 1988,
+  "delayMinutes": 11,
+  "delaySeconds": 34
+}
+2026-10-17 11:53:12.274Z, Success vote with index: 8 
+  User: {
+  "login": "vladimir_novikov11629",
+  "password": "novikovV505",
+  "email": "v.novikov11629@yahoo.com",
+  "name": "Владимир",
+  "lastname": "Новиков",
+  "phone": "+79781100009",
+  "day": 11,
+  "month": 11,
+  "year": 1999,
+  "delayMinutes": 7,
+  "delaySeconds": 10
+}
+2026-10-17 12:01:04.848Z, Success vote with index: 9 
+  User: {
+  "login": "olga_fomina20520",
+  "password": "fominaO606",
+  "email": "olga.fomina@hotmail.com",
+  "name": "Ольга",
+  "lastname": "Фомина",
+  "phone": "+79781100010",
+  "day": 6,
+  "month": 5,
+  "year": 1993,
+  "delayMinutes": 8,
+  "delaySeconds": 26
+}
+2026-10-17 12:09:49.420Z, Success vote with index: 10 
+  User: {
+  "login": "mikhail_belov99411",
+  "password": "belovM707",
+  "email": "m.belov99411@outlook.com",
+  "name": "Михаил",
+  "lastname": "Белов",
+  "phone": "+79781100011",
+  "day": 4,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 12,
+  "delaySeconds": 12
+}
+2026-10-17 12:22:19.964Z, Success vote with index: 11 
+  User: {
+  "login": "tatyana_orlova88302",
+  "password": "orlovaT808",
+  "email": "t.orlova88302@icloud.com",
+  "name": "Татьяна",
+  "lastname": "Орлова",
+  "phone": "+79781100012",
+  "day": 13,
+  "month": 5,
+  "year": 1992,
+  "delayMinutes": 12,
+  "delaySeconds": 39
+}
+2026-10-17 12:35:17.554Z, Success vote with index: 12 
+  User: {
+  "login": "andrey_sidorov77193",
+  "password": "sidorovA909",
+  "email": "andrey.sidorov@live.com",
+  "name": "Андрей",
+  "lastname": "Сидоров",
+  "phone": "+79781100013",
+  "day": 10,
+  "month": 10,
+  "year": 1983,
+  "delayMinutes": 6,
+  "delaySeconds": 20
+}
+2026-10-17 12:41:56.672Z, Success vote with index: 13 
+  User: {
+  "login": "svetlana_kozlova66084",
+  "password": "kozlovaS111",
+  "email": "s.kozlova66084@gmail.com",
+  "name": "Светлана",
+  "lastname": "Козлова",
+  "phone": "+79781100014",
+  "day": 11,
+  "month": 4,
+  "year": 1983,
+  "delayMinutes": 10,
+  "delaySeconds": 15
+}
+2026-10-17 12:52:30.959Z, Success vote with index: 14 
+  User: {
+  "login": "pavel_vasiliev54975",
+  "password": "vasilievP222",
+  "email": "p.vasiliev54975@mail.ru",
+  "name": "Павел",
+  "lastname": "Васильев",
+  "phone": "+79781100015",
+  "day": 26,
+  "month": 1,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 5
+}
+2026-10-17 13:03:08.902Z, Success vote with index: 16 
+  User: {
+  "login": "roman_frolov32757",
+  "password": "frolovR444",
+  "email": "r.frolov32757@list.ru",
+  "name": "Роман",
+  "lastname": "Фролов",
+  "phone": "+79781100017",
+  "day": 22,
+  "month": 9,
+  "year": 1996,
+  "delayMinutes": 7,
+  "delaySeconds": 41
+}
+2026-10-17 13:11:10.460Z, Success vote with index: 17 
+  User: {
+  "login": "katerina_shishkina21648",
+  "password": "shishkinaK555",
+  "email": "k.shishkina21648@inbox.ru",
+  "name": "Катерина",
+  "lastname": "Шишкина",
+  "phone": "+79781100018",
+  "day": 10,
+  "month": 7,
+  "year": 1998,
+  "delayMinutes": 13,
+  "delaySeconds": 49
+}
+2026-10-17 13:25:19.574Z, Success vote with index: 18 
+  User: {
+  "login": "maksim_chernov10539",
+  "password": "chernovM666",
+  "email": "maksim.chernov@rambler.ru",
+  "name": "Максим",
+  "lastname": "Чернов",
+  "phone": "+79781100019",
+  "day": 18,
+  "month": 9,
+  "year": 1987,
+  "delayMinutes": 10,
+  "delaySeconds": 20
+}
+2026-10-17 13:36:32.521Z, Success vote with index: 20 
+  User: {
+  "login": "anton_lebedev88321",
+  "password": "lebedevA888",
+  "email": "anton.lebedev@zoho.com",
+  "name": "Антон",
+  "lastname": "Лебедев",
+  "phone": "+79781100021",
+  "day": 19,
+  "month": 2,
+  "year": 1988,
+  "delayMinutes": 7,
+  "delaySeconds": 15
+}
+2026-10-17 13:44:07.049Z, Success vote with index: 21 
+  User: {
+  "login": "viktoria_titova77212",
+  "password": "titovaV999",
+  "email": "v.titova77212@yahoo.com",
+  "name": "Виктория",
+  "lastname": "Титова",
+  "phone": "+79781100022",
+  "day": 23,
+  "month": 6,
+  "year": 1989,
+  "delayMinutes": 11,
+  "delaySeconds": 14
+}
+2026-10-17 13:55:44.037Z, Success vote with index: 22 
+  User: {
+  "login": "evgeny_sokolov66103",
+  "password": "sokolovE100",
+  "email": "e.sokolov66103@hotmail.com",
+  "name": "Евгений",
+  "lastname": "Соколов",
+  "phone": "+79781100023",
+  "day": 2,
+  "month": 4,
+  "year": 1984,
+  "delayMinutes": 14,
+  "delaySeconds": 8
+}
+2026-10-17 14:10:55.888Z, Success vote with index: 24 
+  User: {
+  "login": "konstantin_ivanov43885",
+  "password": "ivanovK123",
+  "email": "k.ivanov43885@icloud.com",
+  "name": "Константин",
+  "lastname": "Иванов",
+  "phone": "+79781100025",
+  "day": 16,
+  "month": 9,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-17 14:17:40.293Z, Success vote with index: 27 
+  User: {
+  "login": "alina_morozova10558",
+  "password": "morozovaA156",
+  "email": "alina.morozova@mail.ru",
+  "name": "Алина",
+  "lastname": "Морозова",
+  "phone": "+79781100028",
+  "day": 2,
+  "month": 5,
+  "year": 1991,
+  "delayMinutes": 14,
+  "delaySeconds": 24
+}
+2026-10-17 14:32:38.892Z, Success vote with index: 28 
+  User: {
+  "login": "denis_novikov99449",
+  "password": "novikovD167",
+  "email": "d.novikov99449@bk.ru",
+  "name": "Денис",
+  "lastname": "Новиков",
+  "phone": "+79781100029",
+  "day": 19,
+  "month": 6,
+  "year": 2000,
+  "delayMinutes": 11,
+  "delaySeconds": 4
+}
+2026-10-17 14:44:22.786Z, Success vote with index: 30 
+  User: {
+  "login": "timur_vasiliev77231",
+  "password": "vasilievT189",
+  "email": "t.vasiliev77231@inbox.ru",
+  "name": "Тимур",
+  "lastname": "Васильев",
+  "phone": "+79781100031",
+  "day": 6,
+  "month": 9,
+  "year": 2004,
+  "delayMinutes": 14,
+  "delaySeconds": 51
+}
+2026-10-17 14:59:37.421Z, Success vote with index: 31 
+  User: {
+  "login": "sofia_egorova66122",
+  "password": "egorovaS190",
+  "email": "sofia.egorova@rambler.ru",
+  "name": "София",
+  "lastname": "Егорова",
+  "phone": "+79781100032",
+  "day": 6,
+  "month": 9,
+  "year": 1983,
+  "delayMinutes": 14,
+  "delaySeconds": 37
+}
+2026-10-17 15:14:35.622Z, Success vote with index: 32 
+  User: {
+  "login": "kirill_frolov55013",
+  "password": "frolovK201",
+  "email": "k.frolov55013@proton.me",
+  "name": "Кирилл",
+  "lastname": "Фролов",
+  "phone": "+79781100033",
+  "day": 3,
+  "month": 12,
+  "year": 1996,
+  "delayMinutes": 7,
+  "delaySeconds": 35
+}
+2026-10-17 15:32:48.286Z, Success vote with index: 43 
+  User: {
+  "login": "zoya_morozova32814",
+  "password": "morozovaZ312",
+  "email": "z.morozova32814@inbox.ru",
+  "name": "Зоя",
+  "lastname": "Морозова",
+  "phone": "+79781100044",
+  "day": 7,
+  "month": 4,
+  "year": 2001,
+  "delayMinutes": 12,
+  "delaySeconds": 46
+}
+2026-10-17 15:52:36.375Z, Success vote with index: 53 
+  User: {
+  "login": "vladimir_sokolov21724",
+  "password": "sokolovV412",
+  "email": "v.sokolov21724@mail.ru",
+  "name": "Владимир",
+  "lastname": "Соколов",
+  "phone": "+79781100054",
+  "day": 20,
+  "month": 7,
+  "year": 1994,
+  "delayMinutes": 13,
+  "delaySeconds": 19
+}
+2026-10-17 16:06:16.087Z, Success vote with index: 54 
+  User: {
+  "login": "natalia_kuznetsova10615",
+  "password": "kuznetsovaN423",
+  "email": "natalia.kuznetsova@bk.ru",
+  "name": "Наталия",
+  "lastname": "Кузнецова",
+  "phone": "+79781100055",
+  "day": 21,
+  "month": 2,
+  "year": 1987,
+  "delayMinutes": 12,
+  "delaySeconds": 20
+}
+2026-10-17 16:18:56.567Z, Success vote with index: 55 
+  User: {
+  "login": "igor_ivanov99508",
+  "password": "ivanovI434",
+  "email": "igor.ivanov@list.ru",
+  "name": "Игорь",
+  "lastname": "Иванов",
+  "phone": "+79781100056",
+  "day": 2,
+  "month": 1,
+  "year": 1991,
+  "delayMinutes": 11,
+  "delaySeconds": 19
+}
+2026-10-17 16:32:09.622Z, Success vote with index: 58 
+  User: {
+  "login": "kseniya_morozova66191",
+  "password": "morozovaK467",
+  "email": "kseniya.morozova@proton.me",
+  "name": "Ксения",
+  "lastname": "Морозова",
+  "phone": "+79781100059",
+  "day": 3,
+  "month": 11,
+  "year": 2004,
+  "delayMinutes": 11,
+  "delaySeconds": 35
+}
+2026-10-17 16:44:42.916Z, Success vote with index: 61 
+  User: {
+  "login": "denis_vasiliev32864",
+  "password": "vasilievD490",
+  "email": "d.vasiliev32864@hotmail.com",
+  "name": "Денис",
+  "lastname": "Васильев",
+  "phone": "+79781100062",
+  "day": 19,
+  "month": 10,
+  "year": 2000,
+  "delayMinutes": 8,
+  "delaySeconds": 50
+}
+2026-10-17 16:53:53.187Z, Success vote with index: 62 
+  User: {
+  "login": "polina_egorova21755",
+  "password": "egorovaP501",
+  "email": "polina.egorova@outlook.com",
+  "name": "Полина",
+  "lastname": "Егорова",
+  "phone": "+79781100063",
+  "day": 4,
+  "month": 9,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 1
+}
+2026-10-17 17:03:16.402Z, Success vote with index: 63 
+  User: {
+  "login": "timur_frolov10706",
+  "password": "frolovT512",
+  "email": "timur.frolov@icloud.com",
+  "name": "Тимур",
+  "lastname": "Фролов",
+  "phone": "+79781100064",
+  "day": 23,
+  "month": 5,
+  "year": 1999,
+  "delayMinutes": 12,
+  "delaySeconds": 32
+}
+2026-10-17 17:17:25.317Z, Success vote with index: 65 
+  User: {
+  "login": "kirill_chernov88418",
+  "password": "chernovK534",
+  "email": "k.chernov88418@gmail.com",
+  "name": "Кирилл",
+  "lastname": "Чернов",
+  "phone": "+79781100066",
+  "day": 9,
+  "month": 12,
+  "year": 1990,
+  "delayMinutes": 8,
+  "delaySeconds": 48
+}
+2026-10-17 17:44:00.511Z, Success vote with index: 68 
+  User: {
+  "login": "ekaterina_titova55111",
+  "password": "titovaE567",
+  "email": "ekaterina.titova@list.ru",
+  "name": "Екатерина",
+  "lastname": "Титова",
+  "phone": "+79781100069",
+  "day": 10,
+  "month": 2,
+  "year": 1994,
+  "delayMinutes": 13,
+  "delaySeconds": 9
+}
+2026-10-17 17:58:35.646Z, Success vote with index: 71 
+  User: {
+  "login": "grigoriy_ivanov21804",
+  "password": "ivanovG590",
+  "email": "grigoriy.ivanov@proton.me",
+  "name": "Григорий",
+  "lastname": "Иванов",
+  "phone": "+79781100072",
+  "day": 22,
+  "month": 11,
+  "year": 1990,
+  "delayMinutes": 9,
+  "delaySeconds": 7
+}
+2026-10-19 22:56:37.399Z, Success vote with index: 73 
+  User: {
+  "login": "boris_smirnov99616",
+  "password": "smirnovB612",
+  "email": "b.smirnov99616@yahoo.com",
+  "name": "Борис",
+  "lastname": "Смирнов",
+  "phone": "+79781100074",
+  "day": 22,
+  "month": 1,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 5
+}
+2026-10-19 23:01:14.261Z, Success vote with index: 74 
+  User: {
+  "login": "inna_morozova88507",
+  "password": "morozovaI623",
+  "email": "inna.morozova@hotmail.com",
+  "name": "Инна",
+  "lastname": "Морозова",
+  "phone": "+79781100075",
+  "day": 27,
+  "month": 1,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 12
+}
+2026-10-19 23:06:47.606Z, Success vote with index: 75 
+  User: {
+  "login": "fedor_novikov77408",
+  "password": "novikovF634",
+  "email": "fedor.novikov@outlook.com",
+  "name": "Фёдор",
+  "lastname": "Новиков",
+  "phone": "+79781100076",
+  "day": 22,
+  "month": 7,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 35
+}
+2026-10-19 23:12:42.135Z, Success vote with index: 76 
+  User: {
+  "login": "zoya_vasiliev66309",
+  "password": "vasilievZ645",
+  "email": "z.vasiliev66309@icloud.com",
+  "name": "Зоя",
+  "lastname": "Васильев",
+  "phone": "+79781100077",
+  "day": 24,
+  "month": 6,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 53
+}
+2026-10-19 23:18:56.250Z, Success vote with index: 77 
+  User: {
+  "login": "valeriy_egorova55200",
+  "password": "egorovaV656",
+  "email": "valeriy.egorova@live.com",
+  "name": "Валерий",
+  "lastname": "Егорова",
+  "phone": "+79781100078",
+  "day": 19,
+  "month": 2,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 32
+}
+2026-10-19 23:24:48.280Z, Success vote with index: 78 
+  User: {
+  "login": "arkadiy_frolov44101",
+  "password": "frolovA667",
+  "email": "arkadiy.frolov@gmail.com",
+  "name": "Аркадий",
+  "lastname": "Фролов",
+  "phone": "+79781100079",
+  "day": 18,
+  "month": 7,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 6
+}
+2026-10-19 23:30:32.059Z, Success vote with index: 80 
+  User: {
+  "login": "maksim_chernov21903",
+  "password": "chernovM689",
+  "email": "m.chernov21903@bk.ru",
+  "name": "Максим",
+  "lastname": "Чернов",
+  "phone": "+79781100081",
+  "day": 23,
+  "month": 5,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 41
+}
+2026-10-19 23:36:32.379Z, Success vote with index: 81 
+  User: {
+  "login": "elena_medvedeva10894",
+  "password": "medvedevaE690",
+  "email": "elena.medvedeva@list.ru",
+  "name": "Елена",
+  "lastname": "Медведева",
+  "phone": "+79781100082",
+  "day": 4,
+  "month": 5,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-19 23:42:48.741Z, Success vote with index: 82 
+  User: {
+  "login": "andrey_lebedev99725",
+  "password": "lebedevA701",
+  "email": "andrey.lebedev@inbox.ru",
+  "name": "Андрей",
+  "lastname": "Лебедев",
+  "phone": "+79781100083",
+  "day": 28,
+  "month": 4,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 14
+}
+2026-10-19 23:48:22.258Z, Success vote with index: 83 
+  User: {
+  "login": "irina_titova88616",
+  "password": "titovaI712",
+  "email": "irina.titova@rambler.ru",
+  "name": "Ирина",
+  "lastname": "Титова",
+  "phone": "+79781100084",
+  "day": 5,
+  "month": 8,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 21
+}
+2026-10-19 23:54:02.590Z, Success vote with index: 84 
+  User: {
+  "login": "sergey_sokolov77517",
+  "password": "sokolovS723",
+  "email": "sergey.sokolov@proton.me",
+  "name": "Сергей",
+  "lastname": "Соколов",
+  "phone": "+79781100085",
+  "day": 21,
+  "month": 4,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-20 00:00:16.865Z, Success vote with index: 85 
+  User: {
+  "login": "tatyana_kuznetsova66418",
+  "password": "kuznetsovaT734",
+  "email": "t.kuznetsova66418@zoho.com",
+  "name": "Татьяна",
+  "lastname": "Кузнецова",
+  "phone": "+79781100086",
+  "day": 26,
+  "month": 2,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-20 00:06:34.163Z, Success vote with index: 86 
+  User: {
+  "login": "vladimir_ivanov55319",
+  "password": "ivanovV745",
+  "email": "vladimir.ivanov@yahoo.com",
+  "name": "Владимир",
+  "lastname": "Иванов",
+  "phone": "+79781100087",
+  "day": 3,
+  "month": 10,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-20 00:12:12.927Z, Success vote with index: 87 
+  User: {
+  "login": "natalia_popova44220",
+  "password": "popovaN756",
+  "email": "natalia.popova@hotmail.com",
+  "name": "Наталия",
+  "lastname": "Попова",
+  "phone": "+79781100088",
+  "day": 14,
+  "month": 6,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-20 00:18:29.978Z, Success vote with index: 88 
+  User: {
+  "login": "igor_smirnov33121",
+  "password": "smirnovI767",
+  "email": "igor.smirnov@outlook.com",
+  "name": "Игорь",
+  "lastname": "Смирнов",
+  "phone": "+79781100089",
+  "day": 25,
+  "month": 6,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 18
+}
+2026-10-20 22:35:22.349Z, Success vote with index: 4 
+  User: {
+  "login": "alexey.popov88",
+  "password": "popov88alex",
+  "email": "alexey.popov88@gmail.com",
+  "name": "Алексей",
+  "lastname": "Попов",
+  "phone": "+79784445555",
+  "day": 23,
+  "month": 2,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 59
+}
+2026-10-20 22:45:20.036Z, Success vote with index: 14 
+  User: {
+  "login": "elena.petrova88",
+  "password": "petrovaelena88",
+  "email": "elena.petrova88@yandex.ru",
+  "name": "Елена",
+  "lastname": "Петрова",
+  "phone": "+79789876543",
+  "day": 1,
+  "month": 3,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 18
+}
+2026-10-20 22:52:10.800Z, Success vote with index: 16 
+  User: {
+  "login": "alexey.fedorov",
+  "password": "fedorovalexey2021",
+  "email": "alexey.fedorov@gmail.com",
+  "name": "Алексей",
+  "lastname": "Фёдоров",
+  "phone": "+79784445555",
+  "day": 21,
+  "month": 3,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 7
+}
+2026-10-20 22:57:37.360Z, Success vote with index: 17 
+  User: {
+  "login": "katya.vorobyova",
+  "password": "vorobyovakatya2022",
+  "email": "katya.vorobyova@mail.ru",
+  "name": "Катя",
+  "lastname": "Воробьёва",
+  "phone": "+79781112222",
+  "day": 19,
+  "month": 3,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-20 23:03:16.898Z, Success vote with index: 18 
+  User: {
+  "login": "maxim.andreev",
+  "password": "andreevmaxim2023",
+  "email": "maxim.andreev@yandex.ru",
+  "name": "Максим",
+  "lastname": "Андреев",
+  "phone": "+79783334444",
+  "day": 11,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 18
+}
+2026-10-20 23:08:54.764Z, Success vote with index: 19 
+  User: {
+  "login": "olga.kravchenko2021",
+  "password": "kravchenkoolga2021",
+  "email": "olga.kravchenko2021@gmail.com",
+  "name": "Ольга",
+  "lastname": "Кравченко",
+  "phone": "+79782223333",
+  "day": 18,
+  "month": 10,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 36
+}
+2026-10-20 23:15:09.212Z, Success vote with index: 21 
+  User: {
+  "login": "svetlana.morozova2022",
+  "password": "morozovasvetlana2022",
+  "email": "svetlana.morozova2022@bk.ru",
+  "name": "Светлана",
+  "lastname": "Морозова",
+  "phone": "+79787776666",
+  "day": 17,
+  "month": 10,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 48
+}
+2026-10-20 23:21:16.908Z, Success vote with index: 22 
+  User: {
+  "login": "mikhail.andreev",
+  "password": "andrevmikhail2023",
+  "email": "mikhail.andreev@gmail.com",
+  "name": "Михаил",
+  "lastname": "Андреев",
+  "phone": "+79788889999",
+  "day": 24,
+  "month": 6,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 19
+}
+2026-10-20 23:26:55.166Z, Success vote with index: 23 
+  User: {
+  "login": "anna.kravchenko987",
+  "password": "kravchenkoanna2023",
+  "email": "anna.kravchenko987@gmail.com",
+  "name": "Анна",
+  "lastname": "Кравченко",
+  "phone": "+79781234567",
+  "day": 20,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 41
+}
+2026-10-20 23:32:55.064Z, Success vote with index: 24 
+  User: {
+  "login": "sergey.ivanov2023",
+  "password": "ivanovsergey123",
+  "email": "sergey.ivanov2023@mail.ru",
+  "name": "Сергей",
+  "lastname": "Иванов",
+  "phone": "+79787654321",
+  "day": 16,
+  "month": 9,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 54
+}
+2026-10-20 23:40:21.122Z, Success vote with index: 26 
+  User: {
+  "login": "alexey.smirnov",
+  "password": "smirnovalexey2020",
+  "email": "alexey.smirnov@bk.ru",
+  "name": "Алексей",
+  "lastname": "Смирнов",
+  "phone": "+79785553333",
+  "day": 7,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-20 23:46:35.207Z, Success vote with index: 27 
+  User: {
+  "login": "katya.kuznetsova",
+  "password": "kuznetsovakatya123",
+  "email": "katya.kuznetsova@mail.ru",
+  "name": "Катя",
+  "lastname": "Кузнецова",
+  "phone": "+79784445555",
+  "day": 21,
+  "month": 3,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 4
+}
+2026-10-20 23:51:58.720Z, Success vote with index: 28 
+  User: {
+  "login": "maxim.novikov",
+  "password": "novikovmaxim2023",
+  "email": "maxim.novikov@gmail.com",
+  "name": "Максим",
+  "lastname": "Новиков",
+  "phone": "+79781112222",
+  "day": 19,
+  "month": 8,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-20 23:57:26.640Z, Success vote with index: 29 
+  User: {
+  "login": "olga.sidorova88",
+  "password": "sidorovaolga888",
+  "email": "olga.sidorova88@mail.ru",
+  "name": "Ольга",
+  "lastname": "Сидорова",
+  "phone": "+79783334444",
+  "day": 10,
+  "month": 10,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 23
+}
+2026-10-21 00:03:09.169Z, Success vote with index: 30 
+  User: {
+  "login": "anton.morozov",
+  "password": "morozovanton2021",
+  "email": "anton.morozov@bk.ru",
+  "name": "Антон",
+  "lastname": "Морозов",
+  "phone": "+79782223333",
+  "day": 27,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 15
+}
+2026-10-21 00:08:43.804Z, Success vote with index: 31 
+  User: {
+  "login": "svetlana.andreev",
+  "password": "andreevasvetlana2022",
+  "email": "svetlana.andreev@gmail.com",
+  "name": "Светлана",
+  "lastname": "Андреева",
+  "phone": "+79789998888",
+  "day": 26,
+  "month": 8,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 12
+}
+2026-10-21 00:14:17.074Z, Success vote with index: 32 
+  User: {
+  "login": "mikhail.fedorov",
+  "password": "fedorovmikhail2023",
+  "email": "mikhail.fedorov@mail.ru",
+  "name": "Михаил",
+  "lastname": "Фёдоров",
+  "phone": "+79787776666",
+  "day": 22,
+  "month": 4,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 9
+}
+2026-10-21 00:19:49.732Z, Success vote with index: 33 
+  User: {
+  "login": "dmitry.vorobyov",
+  "password": "vorobyovdmitry123",
+  "email": "dmitry.vorobyov@yandex.ru",
+  "name": "Дмитрий",
+  "lastname": "Воробьёв",
+  "phone": "+79788889999",
+  "day": 16,
+  "month": 7,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-21 00:26:47.354Z, Success vote with index: 35 
+  User: {
+  "login": "anna.kravchenko987",
+  "password": "kravchenkoanna2023",
+  "email": "anna.kravchenko987@gmail.com",
+  "name": "Анна",
+  "lastname": "Кравченко",
+  "phone": "+79781234567",
+  "day": 5,
+  "month": 5,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 4
+}
+2026-10-21 00:32:33.049Z, Success vote with index: 36 
+  User: {
+  "login": "sergey.ivanov2023",
+  "password": "ivanovsergey123",
+  "email": "sergey.ivanov2023@mail.ru",
+  "name": "Сергей",
+  "lastname": "Иванов",
+  "phone": "+79787654321",
+  "day": 8,
+  "month": 9,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 37
+}
+2026-10-21 00:40:09.106Z, Success vote with index: 38 
+  User: {
+  "login": "alexey.smirnov",
+  "password": "smirnovalexey2020",
+  "email": "alexey.smirnov@bk.ru",
+  "name": "Алексей",
+  "lastname": "Смирнов",
+  "phone": "+79785553333",
+  "day": 12,
+  "month": 3,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 7
+}
+2026-10-21 00:45:59.788Z, Success vote with index: 39 
+  User: {
+  "login": "katya.kuznetsova",
+  "password": "kuznetsovakatya123",
+  "email": "katya.kuznetsova@mail.ru",
+  "name": "Катя",
+  "lastname": "Кузнецова",
+  "phone": "+79784445555",
+  "day": 1,
+  "month": 1,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 29
+}
+2026-10-21 00:52:10.807Z, Success vote with index: 40 
+  User: {
+  "login": "maxim.novikov",
+  "password": "novikovmaxim2023",
+  "email": "maxim.novikov@gmail.com",
+  "name": "Максим",
+  "lastname": "Новиков",
+  "phone": "+79781112222",
+  "day": 10,
+  "month": 4,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 5
+}
+2026-10-21 00:57:58.022Z, Success vote with index: 41 
+  User: {
+  "login": "olga.sidorova88",
+  "password": "sidorovaolga888",
+  "email": "olga.sidorova88@mail.ru",
+  "name": "Ольга",
+  "lastname": "Сидорова",
+  "phone": "+79783334444",
+  "day": 9,
+  "month": 8,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-21 01:04:37.217Z, Success vote with index: 42 
+  User: {
+  "login": "anton.morozov",
+  "password": "morozovanton2021",
+  "email": "anton.morozov@bk.ru",
+  "name": "Антон",
+  "lastname": "Морозов",
+  "phone": "+79782223333",
+  "day": 24,
+  "month": 7,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 51
+}
+2026-10-21 01:11:10.366Z, Success vote with index: 43 
+  User: {
+  "login": "svetlana.andreev",
+  "password": "andreevasvetlana2022",
+  "email": "svetlana.andreev@gmail.com",
+  "name": "Светлана",
+  "lastname": "Андреева",
+  "phone": "+79789998888",
+  "day": 28,
+  "month": 1,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 11
+}
+2026-10-21 01:17:03.707Z, Success vote with index: 44 
+  User: {
+  "login": "mikhail.fedorov",
+  "password": "fedorovmikhail2023",
+  "email": "mikhail.fedorov@mail.ru",
+  "name": "Михаил",
+  "lastname": "Фёдоров",
+  "phone": "+79787776666",
+  "day": 3,
+  "month": 3,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-21 01:23:05.800Z, Success vote with index: 45 
+  User: {
+  "login": "dmitry.vorobyov",
+  "password": "vorobyovdmitry123",
+  "email": "dmitry.vorobyov@yandex.ru",
+  "name": "Дмитрий",
+  "lastname": "Воробьёв",
+  "phone": "+79788889999",
+  "day": 22,
+  "month": 1,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 14
+}
+2026-10-21 01:28:39.452Z, Success vote with index: 46 
+  User: {
+  "login": "anna.orlova9876",
+  "password": "annaorl9876",
+  "email": "annaorlova9876@gmail.com",
+  "name": "Анна",
+  "lastname": "Орлова",
+  "phone": "+79781234568",
+  "day": 17,
+  "month": 11,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 7
+}
+2026-10-21 01:34:05.982Z, Success vote with index: 47 
+  User: {
+  "login": "sergey.petrov8888",
+  "password": "petrovser8888",
+  "email": "sergey.petrov8888@mail.ru",
+  "name": "Сергей",
+  "lastname": "Петров",
+  "phone": "+79787654322",
+  "day": 19,
+  "month": 11,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 33
+}
+2026-10-21 01:40:46.855Z, Success vote with index: 49 
+  User: {
+  "login": "alexey.kuznetsov6666",
+  "password": "kuznetsov6666",
+  "email": "alexey.kuznetsov6666@bk.ru",
+  "name": "Алексей",
+  "lastname": "Кузнецов",
+  "phone": "+79785553334",
+  "day": 27,
+  "month": 4,
+  "year": 2002,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-21 01:46:37.357Z, Success vote with index: 50 
+  User: {
+  "login": "katya.novikova5555",
+  "password": "novikova5555",
+  "email": "katya.novikova5555@mail.ru",
+  "name": "Катя",
+  "lastname": "Новикова",
+  "phone": "+79784445556",
+  "day": 9,
+  "month": 11,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 46
+}
+2026-10-21 01:52:43.146Z, Success vote with index: 51 
+  User: {
+  "login": "maxim.sidorov4444",
+  "password": "sidorov4444",
+  "email": "maxim.sidorov4444@gmail.com",
+  "name": "Максим",
+  "lastname": "Сидоров",
+  "phone": "+79781112224",
+  "day": 25,
+  "month": 1,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 60
+}
+2026-10-21 01:59:02.482Z, Success vote with index: 52 
+  User: {
+  "login": "olga.morozova3333",
+  "password": "morozova3333",
+  "email": "olga.morozova3333@mail.ru",
+  "name": "Ольга",
+  "lastname": "Морозова",
+  "phone": "+79783334444",
+  "day": 4,
+  "month": 7,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-21 02:04:22.852Z, Success vote with index: 53 
+  User: {
+  "login": "anton.andreev2222",
+  "password": "andreev2222",
+  "email": "anton.andreev2222@bk.ru",
+  "name": "Антон",
+  "lastname": "Андреев",
+  "phone": "+79782223333",
+  "day": 1,
+  "month": 1,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-21 02:10:02.801Z, Success vote with index: 54 
+  User: {
+  "login": "svetlana.fedorova1111",
+  "password": "fedorova1111",
+  "email": "svetlana.fedorova1111@gmail.com",
+  "name": "Светлана",
+  "lastname": "Фёдорова",
+  "phone": "+79789998888",
+  "day": 21,
+  "month": 2,
+  "year": 1995,
+  "delayMinutes": 5,
+  "delaySeconds": 12
+}
+2026-10-21 02:15:33.925Z, Success vote with index: 55 
+  User: {
+  "login": "mikhail.vorobyov0000",
+  "password": "vorobyov0000",
+  "email": "mikhail.vorobyov0000@mail.ru",
+  "name": "Михаил",
+  "lastname": "Воробьёв",
+  "phone": "+79787776666",
+  "day": 26,
+  "month": 6,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 48
+}
+2026-10-21 02:21:41.235Z, Success vote with index: 56 
+  User: {
+  "login": "dmitry.ivanov9999",
+  "password": "ivanov9999",
+  "email": "dmitry.ivanov9999@yandex.ru",
+  "name": "Дмитрий",
+  "lastname": "Иванов",
+  "phone": "+79788889999",
+  "day": 17,
+  "month": 8,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-21 02:27:20.417Z, Success vote with index: 57 
+  User: {
+  "login": "anna.kravchenko987x",
+  "password": "kravchenkoanna2023x",
+  "email": "anna.kravchenko987x@gmail.com",
+  "name": "Анна",
+  "lastname": "Кравченко",
+  "phone": "+797812345671",
+  "day": 3,
+  "month": 6,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 49
+}
+2026-10-21 02:33:28.700Z, Success vote with index: 58 
+  User: {
+  "login": "sergey.ivanov2023y",
+  "password": "ivanovsergey123y",
+  "email": "sergey.ivanov2023y@mail.ru",
+  "name": "Сергей",
+  "lastname": "Иванов",
+  "phone": "+797876543212",
+  "day": 2,
+  "month": 9,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 12
+}
+2026-10-21 02:39:00.945Z, Success vote with index: 59 
+  User: {
+  "login": "elena.petrova88z",
+  "password": "petrovaelena888z",
+  "email": "elena.petrova88z@yandex.ru",
+  "name": "Елена",
+  "lastname": "Петрова",
+  "phone": "+797898765434",
+  "day": 10,
+  "month": 3,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 42
+}
+2026-10-21 02:45:02.536Z, Success vote with index: 60 
+  User: {
+  "login": "alexey.smirnov1",
+  "password": "smirnovalexey20201",
+  "email": "alexey.smirnov1@bk.ru",
+  "name": "Алексей",
+  "lastname": "Смирнов",
+  "phone": "+797855533335",
+  "day": 11,
+  "month": 6,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 17
+}
+2026-10-21 02:50:39.298Z, Success vote with index: 61 
+  User: {
+  "login": "katya.kuznetsova2",
+  "password": "kuznetsovakatya1232",
+  "email": "katya.kuznetsova2@mail.ru",
+  "name": "Катя",
+  "lastname": "Кузнецова",
+  "phone": "+797844455556",
+  "day": 20,
+  "month": 12,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 14
+}
+2026-10-21 02:56:12.465Z, Success vote with index: 62 
+  User: {
+  "login": "maxim.novikov3",
+  "password": "novikovmaxim20233",
+  "email": "maxim.novikov3@gmail.com",
+  "name": "Максим",
+  "lastname": "Новиков",
+  "phone": "+797811122227",
+  "day": 4,
+  "month": 5,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 45
+}
+2026-10-21 03:02:17.189Z, Success vote with index: 63 
+  User: {
+  "login": "olga.sidorova884",
+  "password": "sidorovaolga8884",
+  "email": "olga.sidorova884@mail.ru",
+  "name": "Ольга",
+  "lastname": "Сидорова",
+  "phone": "+797833344448",
+  "day": 20,
+  "month": 4,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 38
+}
+2026-10-21 03:08:14.369Z, Success vote with index: 64 
+  User: {
+  "login": "anton.morozov5",
+  "password": "morozovanton20215",
+  "email": "anton.morozov5@bk.ru",
+  "name": "Антон",
+  "lastname": "Морозов",
+  "phone": "+797822233339",
+  "day": 9,
+  "month": 12,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-21 03:13:34.853Z, Success vote with index: 65 
+  User: {
+  "login": "svetlana.andreev6",
+  "password": "andreevasvetlana20226",
+  "email": "svetlana.andreev6@gmail.com",
+  "name": "Светлана",
+  "lastname": "Андреева",
+  "phone": "+797899988880",
+  "day": 11,
+  "month": 9,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-21 03:19:56.835Z, Success vote with index: 66 
+  User: {
+  "login": "mikhail.fedorov7",
+  "password": "fedorovmikhail20237",
+  "email": "mikhail.fedorov7@mail.ru",
+  "name": "Михаил",
+  "lastname": "Фёдоров",
+  "phone": "+797877766661",
+  "day": 12,
+  "month": 8,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 54
+}
+2026-10-21 03:26:10.182Z, Success vote with index: 67 
+  User: {
+  "login": "dmitry.vorobyov8",
+  "password": "vorobyovdmitry1238",
+  "email": "dmitry.vorobyov8@yandex.ru",
+  "name": "Дмитрий",
+  "lastname": "Воробьёв",
+  "phone": "+797888899992",
+  "day": 20,
+  "month": 7,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}

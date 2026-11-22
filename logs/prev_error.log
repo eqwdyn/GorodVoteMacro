@@ -1,0 +1,5477 @@
+2026-10-05 14:17:44.745Z, ERROR: Error while vote with index: 1 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "smile",
+  "password": "anatoliy.tarasov314778",
+  "email": "anatoliy_tarasov850350@proton.me",
+  "name": "Анатолий",
+  "lastname": "Тарасов",
+  "phone": "+79781030356",
+  "day": 22,
+  "month": 3,
+  "year": 1991,
+  "delayMinutes": 6,
+  "delaySeconds": 11
+}
+2026-10-05 14:30:47.200Z, ERROR: Error while vote with index: 3 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "blue",
+  "password": "anton.gusev905906",
+  "email": "agusev52723@zoho.com",
+  "name": "Антон",
+  "lastname": "Гусев",
+  "phone": "+79787838708",
+  "day": 24,
+  "month": 6,
+  "year": 1999,
+  "delayMinutes": 27,
+  "delaySeconds": 55
+}
+2026-10-05 15:12:06.801Z, ERROR: Error while vote with index: 6 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "oxugs",
+  "password": "aleksandr.kotov601414",
+  "email": "a_kotov56465@bk.ru",
+  "name": "Александр",
+  "lastname": "Котов",
+  "phone": "+79787112967",
+  "day": 14,
+  "month": 10,
+  "year": 1994,
+  "delayMinutes": 17,
+  "delaySeconds": 4
+}
+2026-10-05 15:40:20.063Z, ERROR: Error while vote with index: 9 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "mvgdvxp",
+  "password": "ivan.makarov",
+  "email": "coffee1046@inbox.ru",
+  "name": "Иван",
+  "lastname": "Макаров",
+  "phone": "+79780052749",
+  "day": 5,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 36
+}
+2026-10-05 16:02:02.461Z, ERROR: Error while vote with index: 11 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "lebedevavarvara",
+  "password": "crystal92757",
+  "email": "samurai647@gmail.com",
+  "name": "Варвара",
+  "lastname": "Лебедева",
+  "phone": "+79788101545",
+  "day": 28,
+  "month": 3,
+  "year": 1983,
+  "delayMinutes": 14,
+  "delaySeconds": 10
+}
+2026-10-05 16:31:19.021Z, ERROR: Error while vote with index: 14 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "grigorevamargarita",
+  "password": "margarita.grigoreva836609",
+  "email": "margarita.grigoreva@bk.ru",
+  "name": "Маргарита",
+  "lastname": "Григорьева",
+  "phone": "+79782352042",
+  "day": 2,
+  "month": 8,
+  "year": 1985,
+  "delayMinutes": 10,
+  "delaySeconds": 26
+}
+2026-10-05 18:16:20.708Z, ERROR: Error while vote with index: 20 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "varvara.kalashnikova320935",
+  "password": "rock54569",
+  "email": "earth1015@bk.ru",
+  "name": "Варвара",
+  "lastname": "Калашникова",
+  "phone": "+79787303089",
+  "day": 24,
+  "month": 3,
+  "year": 2000,
+  "delayMinutes": 26,
+  "delaySeconds": 40
+}
+2026-10-05 18:16:27.070Z, ERROR: Error while vote with index: 21 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "natalyanovikova",
+  "password": "gkfexmi82232",
+  "email": "ihqankh5699@yandex.ru",
+  "name": "Наталья",
+  "lastname": "Новикова",
+  "phone": "+79785037314",
+  "day": 10,
+  "month": 12,
+  "year": 1995,
+  "delayMinutes": 7,
+  "delaySeconds": 44
+}
+2026-10-05 18:16:33.422Z, ERROR: Error while vote with index: 22 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "flash",
+  "password": "fdsyrnbad16225",
+  "email": "l.morozov59816@gmail.com",
+  "name": "Леонид",
+  "lastname": "Морозов",
+  "phone": "+79780129995",
+  "day": 24,
+  "month": 10,
+  "year": 1990,
+  "delayMinutes": 21,
+  "delaySeconds": 38
+}
+2026-10-05 18:16:40.045Z, ERROR: Error while vote with index: 23 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "boris.nikolaev992446",
+  "password": "secret58128",
+  "email": "boris_nikolaev706965@live.com",
+  "name": "Борис",
+  "lastname": "Николаев",
+  "phone": "+79784906737",
+  "day": 13,
+  "month": 9,
+  "year": 1999,
+  "delayMinutes": 24,
+  "delaySeconds": 35
+}
+2026-10-05 18:16:46.376Z, ERROR: Error while vote with index: 24 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "kcohultu",
+  "password": "summer2722",
+  "email": "v.popov52846@icloud.com",
+  "name": "Влас",
+  "lastname": "Попов",
+  "phone": "+79785317840",
+  "day": 26,
+  "month": 10,
+  "year": 1991,
+  "delayMinutes": 28,
+  "delaySeconds": 9
+}
+2026-10-05 18:16:52.713Z, ERROR: Error while vote with index: 25 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "nypsymzuz",
+  "password": "mthxxza94262",
+  "email": "bear188@outlook.com",
+  "name": "Егор",
+  "lastname": "Захаров",
+  "phone": "+79788298544",
+  "day": 26,
+  "month": 6,
+  "year": 1994,
+  "delayMinutes": 9,
+  "delaySeconds": 29
+}
+2026-10-05 18:16:59.068Z, ERROR: Error while vote with index: 26 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "nnpgogpwy",
+  "password": "mpirpaxi64409",
+  "email": "matvey_semenov577818@list.ru",
+  "name": "Матвей",
+  "lastname": "Семёнов",
+  "phone": "+79784415716",
+  "day": 26,
+  "month": 3,
+  "year": 1984,
+  "delayMinutes": 13,
+  "delaySeconds": 24
+}
+2026-10-05 18:17:05.374Z, ERROR: Error while vote with index: 27 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "tqzomy",
+  "password": "tikhon.zhukov693332",
+  "email": "tikhonzhukov362250@mail.ru",
+  "name": "Тихон",
+  "lastname": "Жуков",
+  "phone": "+79789226729",
+  "day": 11,
+  "month": 10,
+  "year": 1991,
+  "delayMinutes": 29,
+  "delaySeconds": 15
+}
+2026-10-05 18:17:12.697Z, ERROR: Error while vote with index: 28 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "irina.vasileva",
+  "password": "wolf64738",
+  "email": "irina.vasileva@mail.ru",
+  "name": "Ирина",
+  "lastname": "Васильева",
+  "phone": "+79789653829",
+  "day": 14,
+  "month": 2,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 13
+}
+2026-10-05 18:17:19.329Z, ERROR: Error while vote with index: 29 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "komarova.kristina",
+  "password": "red79788",
+  "email": "bear6895@proton.me",
+  "name": "Кристина",
+  "lastname": "Комарова",
+  "phone": "+79787725928",
+  "day": 16,
+  "month": 4,
+  "year": 2003,
+  "delayMinutes": 11,
+  "delaySeconds": 18
+}
+2026-10-05 18:20:25.928Z, ERROR: Error while vote with index: 30 error: ProtocolError: Network.enable timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed. 
+  User: {
+  "login": "kristina_popova",
+  "password": "kristina_popova",
+  "email": "k.popova18744@yahoo.com",
+  "name": "Кристина",
+  "lastname": "Попова",
+  "phone": "+79789591972",
+  "day": 20,
+  "month": 8,
+  "year": 1988,
+  "delayMinutes": 23,
+  "delaySeconds": 22
+}
+2026-10-05 18:20:53.813Z, ERROR: Error while vote with index: 31 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "thunder",
+  "password": "eva_stepanova864569",
+  "email": "e.stepanova9342@inbox.ru",
+  "name": "Ева",
+  "lastname": "Степанова",
+  "phone": "+79781503494",
+  "day": 16,
+  "month": 1,
+  "year": 2001,
+  "delayMinutes": 29,
+  "delaySeconds": 54
+}
+2026-10-05 18:21:02.592Z, ERROR: Error while vote with index: 32 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "ilyakomarov",
+  "password": "water96057",
+  "email": "admin8707@yahoo.com",
+  "name": "Илья",
+  "lastname": "Комаров",
+  "phone": "+79787146648",
+  "day": 24,
+  "month": 5,
+  "year": 1984,
+  "delayMinutes": 28,
+  "delaySeconds": 9
+}
+2026-10-05 18:21:08.285Z, ERROR: Error while vote with index: 33 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "mikhaylovaanastasiya",
+  "password": "anastasiyamikhaylova",
+  "email": "anastasiyamikhaylova@inbox.ru",
+  "name": "Анастасия",
+  "lastname": "Михайлова",
+  "phone": "+79785873167",
+  "day": 4,
+  "month": 8,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 46
+}
+2026-10-05 18:21:14.017Z, ERROR: Error while vote with index: 34 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "guseva_vasilisa",
+  "password": "vasilisa.guseva841844",
+  "email": "vasilisa_guseva256642@yahoo.com",
+  "name": "Василиса",
+  "lastname": "Гусева",
+  "phone": "+79786905655",
+  "day": 3,
+  "month": 6,
+  "year": 1995,
+  "delayMinutes": 17,
+  "delaySeconds": 28
+}
+2026-10-05 18:21:19.775Z, ERROR: Error while vote with index: 35 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "oksana.maksimova119870",
+  "password": "oksanamaksimova",
+  "email": "oksana_maksimova@proton.me",
+  "name": "Оксана",
+  "lastname": "Максимова",
+  "phone": "+79789274753",
+  "day": 1,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 28,
+  "delaySeconds": 39
+}
+2026-10-05 18:21:25.443Z, ERROR: Error while vote with index: 36 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "viktornikolaev",
+  "password": "viktor_nikolaev",
+  "email": "viktornikolaev@rambler.ru",
+  "name": "Виктор",
+  "lastname": "Николаев",
+  "phone": "+79785659482",
+  "day": 13,
+  "month": 9,
+  "year": 1986,
+  "delayMinutes": 23,
+  "delaySeconds": 33
+}
+2026-10-05 18:21:31.293Z, ERROR: Error while vote with index: 37 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "tamaraandreeva210008",
+  "password": "super72205",
+  "email": "hhomsi9600@zoho.com",
+  "name": "Тамара",
+  "lastname": "Андреева",
+  "phone": "+79782137910",
+  "day": 25,
+  "month": 8,
+  "year": 1983,
+  "delayMinutes": 16,
+  "delaySeconds": 17
+}
+2026-10-05 18:21:37.039Z, ERROR: Error while vote with index: 38 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "jqbpwxk",
+  "password": "agrafena.kiseleva",
+  "email": "agrafena.kiseleva99970@yahoo.com",
+  "name": "Аграфена",
+  "lastname": "Киселёва",
+  "phone": "+79788968465",
+  "day": 5,
+  "month": 7,
+  "year": 1987,
+  "delayMinutes": 28,
+  "delaySeconds": 19
+}
+2026-10-05 18:21:42.729Z, ERROR: Error while vote with index: 39 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "roman.popov",
+  "password": "ioydombm87287",
+  "email": "roman_popov824681@yahoo.com",
+  "name": "Роман",
+  "lastname": "Попов",
+  "phone": "+79787350395",
+  "day": 21,
+  "month": 11,
+  "year": 1990,
+  "delayMinutes": 16,
+  "delaySeconds": 51
+}
+2026-10-05 18:21:48.493Z, ERROR: Error while vote with index: 40 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "sesto",
+  "password": "earth77944",
+  "email": "guitar8589@hotmail.com",
+  "name": "Борис",
+  "lastname": "Степанов",
+  "phone": "+79786145470",
+  "day": 22,
+  "month": 11,
+  "year": 1985,
+  "delayMinutes": 8,
+  "delaySeconds": 9
+}
+2026-10-05 18:21:54.239Z, ERROR: Error while vote with index: 41 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "orlova.valeriya",
+  "password": "valeriya_orlova682318",
+  "email": "v_orlova63993@hotmail.com",
+  "name": "Валерия",
+  "lastname": "Орлова",
+  "phone": "+79781438544",
+  "day": 9,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 16,
+  "delaySeconds": 13
+}
+2026-10-05 18:22:06.249Z, ERROR: Error while vote with index: 42 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "zinaidavolkova",
+  "password": "zinaida.volkova",
+  "email": "hkubwhjtv4607@live.com",
+  "name": "Зинаида",
+  "lastname": "Волкова",
+  "phone": "+79782583171",
+  "day": 9,
+  "month": 2,
+  "year": 1990,
+  "delayMinutes": 14,
+  "delaySeconds": 32
+}
+2026-10-05 18:22:22.798Z, ERROR: Error while vote with index: 43 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "coffee",
+  "password": "gabjobim14622",
+  "email": "nadezhda_petrova@live.com",
+  "name": "Надежда",
+  "lastname": "Петрова",
+  "phone": "+79785890719",
+  "day": 11,
+  "month": 12,
+  "year": 2000,
+  "delayMinutes": 30,
+  "delaySeconds": 48
+}
+2026-10-05 18:22:28.513Z, ERROR: Error while vote with index: 44 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "zakharova_oksana",
+  "password": "ctesgkdn19665",
+  "email": "rainbow496@hotmail.com",
+  "name": "Оксана",
+  "lastname": "Захарова",
+  "phone": "+79784244038",
+  "day": 2,
+  "month": 9,
+  "year": 2001,
+  "delayMinutes": 15,
+  "delaySeconds": 48
+}
+2026-10-05 18:22:35.285Z, ERROR: Error while vote with index: 45 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "star",
+  "password": "viktor.vorobev",
+  "email": "vvorobev62306@live.com",
+  "name": "Виктор",
+  "lastname": "Воробьёв",
+  "phone": "+79786071858",
+  "day": 10,
+  "month": 4,
+  "year": 2003,
+  "delayMinutes": 18,
+  "delaySeconds": 32
+}
+2026-10-05 18:22:41.003Z, ERROR: Error while vote with index: 46 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "red",
+  "password": "ruslanzaytsev106891",
+  "email": "phoenix6449@icloud.com",
+  "name": "Руслан",
+  "lastname": "Зайцев",
+  "phone": "+79782791988",
+  "day": 10,
+  "month": 10,
+  "year": 2003,
+  "delayMinutes": 8,
+  "delaySeconds": 43
+}
+2026-10-05 18:22:46.757Z, ERROR: Error while vote with index: 47 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "gfbdcogt",
+  "password": "kirillmikhaylov",
+  "email": "kirillmikhaylov262467@live.com",
+  "name": "Кирилл",
+  "lastname": "Михайлов",
+  "phone": "+79789338706",
+  "day": 18,
+  "month": 11,
+  "year": 1984,
+  "delayMinutes": 8,
+  "delaySeconds": 10
+}
+2026-10-05 18:22:52.480Z, ERROR: Error while vote with index: 48 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "eltjucf",
+  "password": "love17953",
+  "email": "flazareva88330@inbox.ru",
+  "name": "Фёкла",
+  "lastname": "Лазарева",
+  "phone": "+79789199951",
+  "day": 24,
+  "month": 11,
+  "year": 1998,
+  "delayMinutes": 12,
+  "delaySeconds": 36
+}
+2026-10-05 18:22:58.228Z, ERROR: Error while vote with index: 49 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "orlova.aleksandra",
+  "password": "aleksandra_orlova675604",
+  "email": "pqnnbe8798@icloud.com",
+  "name": "Александра",
+  "lastname": "Орлова",
+  "phone": "+79784901417",
+  "day": 3,
+  "month": 12,
+  "year": 1990,
+  "delayMinutes": 14,
+  "delaySeconds": 43
+}
+2026-10-05 18:23:04.236Z, ERROR: Error while vote with index: 50 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "elenasokolova",
+  "password": "ugmpsnz47000",
+  "email": "princess9050@live.com",
+  "name": "Елена",
+  "lastname": "Соколова",
+  "phone": "+79784872499",
+  "day": 26,
+  "month": 6,
+  "year": 2003,
+  "delayMinutes": 6,
+  "delaySeconds": 56
+}
+2026-10-05 18:23:11.787Z, ERROR: Error while vote with index: 51 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "aiiccuc",
+  "password": "nadezhda.mikhaylova",
+  "email": "jtsggsx6235@bk.ru",
+  "name": "Надежда",
+  "lastname": "Михайлова",
+  "phone": "+79786525537",
+  "day": 12,
+  "month": 11,
+  "year": 1985,
+  "delayMinutes": 11,
+  "delaySeconds": 6
+}
+2026-10-05 18:23:38.632Z, ERROR: Error while vote with index: 52 error: Error: net::ERR_CONNECTION_TIMED_OUT at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "popov_pavel",
+  "password": "pavel.popov",
+  "email": "p_popov2084@list.ru",
+  "name": "Павел",
+  "lastname": "Попов",
+  "phone": "+79785267778",
+  "day": 1,
+  "month": 9,
+  "year": 1985,
+  "delayMinutes": 9,
+  "delaySeconds": 43
+}
+2026-10-05 18:24:35.173Z, ERROR: Error while vote with index: 53 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "mikhail.zakharov148310",
+  "password": "music51561",
+  "email": "m_zakharov65469@bk.ru",
+  "name": "Михаил",
+  "lastname": "Захаров",
+  "phone": "+79783325497",
+  "day": 10,
+  "month": 4,
+  "year": 1999,
+  "delayMinutes": 9,
+  "delaySeconds": 59
+}
+2026-10-05 18:25:01.847Z, ERROR: Error while vote with index: 54 error: Error: net::ERR_CONNECTION_TIMED_OUT at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "makar_semenov61172",
+  "password": "makarsemenov98593",
+  "email": "makar.semenov@bk.ru",
+  "name": "Макар",
+  "lastname": "Семёнов",
+  "phone": "+79786634616",
+  "day": 3,
+  "month": 11,
+  "year": 1987,
+  "delayMinutes": 28,
+  "delaySeconds": 49
+}
+2026-10-05 18:26:23.819Z, ERROR: Error while vote with index: 55 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "aleksandra.titova",
+  "password": "tuycvwhjs90466",
+  "email": "ntlrj2376@zoho.com",
+  "name": "Александра",
+  "lastname": "Титова",
+  "phone": "+79788604139",
+  "day": 28,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 14,
+  "delaySeconds": 53
+}
+2026-10-05 18:26:30.660Z, ERROR: Error while vote with index: 56 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "ulyana.stepanova522913",
+  "password": "ogvueaui47289",
+  "email": "wxrfl4270@list.ru",
+  "name": "Ульяна",
+  "lastname": "Степанова",
+  "phone": "+79789759900",
+  "day": 20,
+  "month": 2,
+  "year": 1991,
+  "delayMinutes": 25,
+  "delaySeconds": 13
+}
+2026-10-05 18:26:37.762Z, ERROR: Error while vote with index: 57 error: Error: net::ERR_SSL_PROTOCOL_ERROR at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "efim.borisov",
+  "password": "efimborisov",
+  "email": "efimborisov@hotmail.com",
+  "name": "Ефим",
+  "lastname": "Борисов",
+  "phone": "+79783208947",
+  "day": 10,
+  "month": 7,
+  "year": 1992,
+  "delayMinutes": 10,
+  "delaySeconds": 13
+}
+2026-10-05 18:26:45.578Z, ERROR: Error while vote with index: 58 error: Error: net::ERR_CONNECTION_RESET at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "milanastepanova",
+  "password": "flash13672",
+  "email": "pehyizvx5821@rambler.ru",
+  "name": "Милана",
+  "lastname": "Степанова",
+  "phone": "+79789638152",
+  "day": 7,
+  "month": 9,
+  "year": 1983,
+  "delayMinutes": 27,
+  "delaySeconds": 46
+}
+2026-10-05 18:28:50.797Z, ERROR: Error while vote with index: 20 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "varvara.kalashnikova320935",
+  "password": "rock54569",
+  "email": "earth1015@bk.ru",
+  "name": "Варвара",
+  "lastname": "Калашникова",
+  "phone": "+79787303089",
+  "day": 21,
+  "month": 9,
+  "year": 1986,
+  "delayMinutes": 29,
+  "delaySeconds": 14
+}
+2026-10-05 18:29:29.789Z, ERROR: Error while vote with index: 21 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "natalyanovikova",
+  "password": "gkfexmi82232",
+  "email": "ihqankh5699@yandex.ru",
+  "name": "Наталья",
+  "lastname": "Новикова",
+  "phone": "+79785037314",
+  "day": 17,
+  "month": 11,
+  "year": 1989,
+  "delayMinutes": 7,
+  "delaySeconds": 44
+}
+2026-10-05 18:30:08.017Z, ERROR: Error while vote with index: 22 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "flash",
+  "password": "fdsyrnbad16225",
+  "email": "l.morozov59816@gmail.com",
+  "name": "Леонид",
+  "lastname": "Морозов",
+  "phone": "+79780129995",
+  "day": 15,
+  "month": 1,
+  "year": 1984,
+  "delayMinutes": 20,
+  "delaySeconds": 52
+}
+2026-10-05 18:31:12.800Z, ERROR: Error while vote with index: 23 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "boris.nikolaev992446",
+  "password": "secret58128",
+  "email": "boris_nikolaev706965@live.com",
+  "name": "Борис",
+  "lastname": "Николаев",
+  "phone": "+79784906737",
+  "day": 22,
+  "month": 5,
+  "year": 1995,
+  "delayMinutes": 28,
+  "delaySeconds": 9
+}
+2026-10-05 18:31:34.996Z, ERROR: Error while vote with index: 24 error: Error: Dropdown не найден 
+  User: {
+  "login": "kcohultu",
+  "password": "summer2722",
+  "email": "v.popov52846@icloud.com",
+  "name": "Влас",
+  "lastname": "Попов",
+  "phone": "+79785317840",
+  "day": 1,
+  "month": 3,
+  "year": 2002,
+  "delayMinutes": 30,
+  "delaySeconds": 10
+}
+2026-10-05 18:54:14.306Z, ERROR: Error while vote with index: 27 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "tqzomy",
+  "password": "tikhon.zhukov693332",
+  "email": "tikhonzhukov362250@mail.ru",
+  "name": "Тихон",
+  "lastname": "Жуков",
+  "phone": "+79789226729",
+  "day": 11,
+  "month": 9,
+  "year": 1988,
+  "delayMinutes": 11,
+  "delaySeconds": 25
+}
+2026-10-05 18:54:39.575Z, ERROR: Error while vote with index: 28 error: Error: Опция с data-option-array-index="3" не найдена после 20 попыток скролла 
+  User: {
+  "login": "irina.vasileva",
+  "password": "wolf64738",
+  "email": "irina.vasileva@mail.ru",
+  "name": "Ирина",
+  "lastname": "Васильева",
+  "phone": "+79789653829",
+  "day": 17,
+  "month": 4,
+  "year": 1998,
+  "delayMinutes": 22,
+  "delaySeconds": 24
+}
+2026-10-05 19:02:24.011Z, ERROR: Error while vote with index: 30 error: Error: Опция с data-option-array-index="2" не найдена после 20 попыток скролла 
+  User: {
+  "login": "kristina_popova",
+  "password": "kristina_popova",
+  "email": "k.popova18744@yahoo.com",
+  "name": "Кристина",
+  "lastname": "Попова",
+  "phone": "+79789591972",
+  "day": 19,
+  "month": 8,
+  "year": 2004,
+  "delayMinutes": 24,
+  "delaySeconds": 4
+}
+2026-10-05 22:23:04.498Z, ERROR: Error while vote with index: 33 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "mikhaylovaanastasiya",
+  "password": "anastasiyamikhaylova",
+  "email": "anastasiyamikhaylova@inbox.ru",
+  "name": "Анастасия",
+  "lastname": "Михайлова",
+  "phone": "+79785873167",
+  "day": 11,
+  "month": 7,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 43
+}
+2026-10-05 22:23:55.976Z, ERROR: Error while vote with index: 34 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "guseva_vasilisa",
+  "password": "vasilisa.guseva841844",
+  "email": "vasilisa_guseva256642@yahoo.com",
+  "name": "Василиса",
+  "lastname": "Гусева",
+  "phone": "+79786905655",
+  "day": 18,
+  "month": 11,
+  "year": 1989,
+  "delayMinutes": 6,
+  "delaySeconds": 55
+}
+2026-10-05 22:31:22.467Z, ERROR: Error while vote with index: 36 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "viktornikolaev",
+  "password": "viktor_nikolaev",
+  "email": "viktornikolaev@rambler.ru",
+  "name": "Виктор",
+  "lastname": "Николаев",
+  "phone": "+79785659482",
+  "day": 6,
+  "month": 7,
+  "year": 1993,
+  "delayMinutes": 9,
+  "delaySeconds": 7
+}
+2026-10-05 22:43:12.726Z, ERROR: Error while vote with index: 38 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "jqbpwxk",
+  "password": "agrafena.kiseleva",
+  "email": "agrafena.kiseleva99970@yahoo.com",
+  "name": "Аграфена",
+  "lastname": "Киселёва",
+  "phone": "+79788968465",
+  "day": 11,
+  "month": 1,
+  "year": 1988,
+  "delayMinutes": 7,
+  "delaySeconds": 27
+}
+2026-10-05 22:44:06.883Z, ERROR: Error while vote with index: 39 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "roman.popov",
+  "password": "ioydombm87287",
+  "email": "roman_popov824681@yahoo.com",
+  "name": "Роман",
+  "lastname": "Попов",
+  "phone": "+79787350395",
+  "day": 14,
+  "month": 6,
+  "year": 1999,
+  "delayMinutes": 6,
+  "delaySeconds": 59
+}
+2026-10-05 22:59:35.951Z, ERROR: Error while vote with index: 42 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "zinaidavolkova",
+  "password": "zinaida.volkova",
+  "email": "hkubwhjtv4607@live.com",
+  "name": "Зинаида",
+  "lastname": "Волкова",
+  "phone": "+79782583171",
+  "day": 4,
+  "month": 12,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 37
+}
+2026-10-05 23:16:31.597Z, ERROR: Error while vote with index: 45 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "star",
+  "password": "viktor.vorobev",
+  "email": "vvorobev62306@live.com",
+  "name": "Виктор",
+  "lastname": "Воробьёв",
+  "phone": "+79786071858",
+  "day": 6,
+  "month": 7,
+  "year": 1991,
+  "delayMinutes": 6,
+  "delaySeconds": 46
+}
+2026-10-06 00:06:26.822Z, ERROR: Error while vote with index: 51 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "aiiccuc",
+  "password": "nadezhda.mikhaylova",
+  "email": "jtsggsx6235@bk.ru",
+  "name": "Надежда",
+  "lastname": "Михайлова",
+  "phone": "+79786525537",
+  "day": 27,
+  "month": 8,
+  "year": 1996,
+  "delayMinutes": 8,
+  "delaySeconds": 26
+}
+2026-10-06 00:07:14.482Z, ERROR: Error while vote with index: 52 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "popov_pavel",
+  "password": "pavel.popov",
+  "email": "p_popov2084@list.ru",
+  "name": "Павел",
+  "lastname": "Попов",
+  "phone": "+79785267778",
+  "day": 4,
+  "month": 12,
+  "year": 1987,
+  "delayMinutes": 10,
+  "delaySeconds": 18
+}
+2026-10-06 01:41:16.558Z, ERROR: Error while vote with index: 64 error: Error: Dropdown не найден 
+  User: {
+  "login": "zakhar_polyakov46036",
+  "password": "zakhar_polyakov571602",
+  "email": "zakhar.polyakov747495@icloud.com",
+  "name": "Захар",
+  "lastname": "Поляков",
+  "phone": "+79786267600",
+  "day": 2,
+  "month": 11,
+  "year": 1992,
+  "delayMinutes": 9,
+  "delaySeconds": 54
+}
+2026-10-06 03:38:42.933Z, ERROR: Error while vote with index: 78 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "xqqwluzq",
+  "password": "raisa.makarova812956",
+  "email": "r_makarova5686@bk.ru",
+  "name": "Раиса",
+  "lastname": "Макарова",
+  "phone": "+79788523275",
+  "day": 8,
+  "month": 2,
+  "year": 1990,
+  "delayMinutes": 10,
+  "delaySeconds": 35
+}
+2026-10-06 03:56:49.331Z, ERROR: Error while vote with index: 81 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "tiger",
+  "password": "egor.vorobev",
+  "email": "tzvuelkmm6622@proton.me",
+  "name": "Егор",
+  "lastname": "Воробьёв",
+  "phone": "+79783271357",
+  "day": 15,
+  "month": 4,
+  "year": 1987,
+  "delayMinutes": 6,
+  "delaySeconds": 37
+}
+2026-10-06 04:42:40.334Z, ERROR: Error while vote with index: 87 error: Error: Опция с data-option-array-index="2" не найдена после 20 попыток скролла 
+  User: {
+  "login": "vladimir.nikitin",
+  "password": "golden71688",
+  "email": "cool6947@bk.ru",
+  "name": "Владимир",
+  "lastname": "Никитин",
+  "phone": "+79783477931",
+  "day": 23,
+  "month": 12,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-06 05:10:55.116Z, ERROR: Error while vote with index: 91 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "wolf",
+  "password": "timur.romanov464529",
+  "email": "bear7992@yandex.ru",
+  "name": "Тимур",
+  "lastname": "Романов",
+  "phone": "+79782546354",
+  "day": 15,
+  "month": 10,
+  "year": 1998,
+  "delayMinutes": 8,
+  "delaySeconds": 24
+}
+2026-10-06 05:11:45.905Z, ERROR: Error while vote with index: 92 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "milana_yakovleva",
+  "password": "milana.yakovleva396086",
+  "email": "m.yakovleva48381@gmail.com",
+  "name": "Милана",
+  "lastname": "Яковлева",
+  "phone": "+79781016698",
+  "day": 24,
+  "month": 3,
+  "year": 1995,
+  "delayMinutes": 7,
+  "delaySeconds": 17
+}
+2026-10-06 05:12:34.395Z, ERROR: Error while vote with index: 93 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "tamara_soloveva420080",
+  "password": "tamara.soloveva",
+  "email": "red6353@yahoo.com",
+  "name": "Тамара",
+  "lastname": "Соловьёва",
+  "phone": "+79781168008",
+  "day": 14,
+  "month": 5,
+  "year": 2001,
+  "delayMinutes": 7,
+  "delaySeconds": 7
+}
+2026-10-06 05:23:22.688Z, ERROR: Error while vote with index: 95 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "coffee",
+  "password": "mcejphn10933",
+  "email": "prokhoregorov24606@live.com",
+  "name": "Прохор",
+  "lastname": "Егоров",
+  "phone": "+79782501938",
+  "day": 27,
+  "month": 7,
+  "year": 1985,
+  "delayMinutes": 6,
+  "delaySeconds": 31
+}
+2026-10-06 05:24:14.930Z, ERROR: Error while vote with index: 96 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "ivanova_elena",
+  "password": "flame54941",
+  "email": "jcjaf2903@bk.ru",
+  "name": "Елена",
+  "lastname": "Иванова",
+  "phone": "+79783411165",
+  "day": 18,
+  "month": 7,
+  "year": 1997,
+  "delayMinutes": 9,
+  "delaySeconds": 7
+}
+2026-10-06 12:47:30.101Z, ERROR: Error while vote with index: 2 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "mariya_zhukova",
+  "password": "njtkf",
+  "email": "yznqamjpbk@live.com",
+  "name": "Мария",
+  "lastname": "Жукова",
+  "phone": "+79783824240",
+  "day": 3,
+  "month": 6,
+  "year": 1988,
+  "delayMinutes": 25,
+  "delaySeconds": 24
+}
+2026-10-06 12:48:19.684Z, ERROR: Error while vote with index: 3 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "polina_averyanova",
+  "password": "polina.averyanova4618",
+  "email": "star171@gmail.com",
+  "name": "Полина",
+  "lastname": "Аверьянова",
+  "phone": "+79786858435",
+  "day": 10,
+  "month": 11,
+  "year": 2003,
+  "delayMinutes": 18,
+  "delaySeconds": 50
+}
+2026-10-06 13:39:33.808Z, ERROR: Error while vote with index: 6 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "moax",
+  "password": "winter",
+  "email": "agrafena_konovalova860302@rambler.ru",
+  "name": "Аграфена",
+  "lastname": "Коновалова",
+  "phone": "+79786737425",
+  "day": 27,
+  "month": 12,
+  "year": 1993,
+  "delayMinutes": 30,
+  "delaySeconds": 56
+}
+2026-10-06 13:47:17.433Z, ERROR: Error while vote with index: 8 error: Error: Опция с data-option-array-index="4" не найдена после 20 попыток скролла 
+  User: {
+  "login": "kseon",
+  "password": "zaharkomarov",
+  "email": "zrlgnxpnm@proton.me",
+  "name": "Захар",
+  "lastname": "Комаров",
+  "phone": "+79786454946",
+  "day": 8,
+  "month": 10,
+  "year": 1983,
+  "delayMinutes": 14,
+  "delaySeconds": 2
+}
+2026-10-06 13:48:13.138Z, ERROR: Error while vote with index: 9 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "maksim.chernyshev6548043",
+  "password": "maksimchernyshev",
+  "email": "maksim.chernyshev51571@inbox.ru",
+  "name": "Максим",
+  "lastname": "Чернышёв",
+  "phone": "+79784845595",
+  "day": 13,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 29,
+  "delaySeconds": 33
+}
+2026-10-06 13:49:21.095Z, ERROR: Error while vote with index: 10 error: Error: Requesting main frame too early! 
+  User: {
+  "login": "qvkkfjd",
+  "password": "blue30023",
+  "email": "matrena.fedorova7736100@mail.ru",
+  "name": "Матрёна",
+  "lastname": "Фёдорова",
+  "phone": "+79780527040",
+  "day": 22,
+  "month": 2,
+  "year": 1984,
+  "delayMinutes": 8,
+  "delaySeconds": 35
+}
+2026-10-06 13:52:32.635Z, ERROR: Error while vote with index: 11 error: ProtocolError: Input.dispatchMouseEvent timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed. 
+  User: {
+  "login": "daryakonovalova",
+  "password": "darya.konovalova8163737",
+  "email": "darya_konovalova@proton.me",
+  "name": "Дарья",
+  "lastname": "Коновалова",
+  "phone": "+79784873562",
+  "day": 14,
+  "month": 11,
+  "year": 1996,
+  "delayMinutes": 21,
+  "delaySeconds": 22
+}
+2026-10-06 13:52:41.987Z, ERROR: Error while vote with index: 12 error: Error: Requesting main frame too early! 
+  User: {
+  "login": "nksnkf",
+  "password": "marina_zaytseva89074",
+  "email": "marina_zaytseva4471@yahoo.com",
+  "name": "Марина",
+  "lastname": "Зайцева",
+  "phone": "+79788688205",
+  "day": 26,
+  "month": 12,
+  "year": 1988,
+  "delayMinutes": 8,
+  "delaySeconds": 32
+}
+2026-10-06 13:53:23.223Z, ERROR: Error while vote with index: 13 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "football",
+  "password": "matveypavlov",
+  "email": "matveypavlov@yahoo.com",
+  "name": "Матвей",
+  "lastname": "Павлов",
+  "phone": "+79789822700",
+  "day": 25,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 19,
+  "delaySeconds": 9
+}
+2026-10-06 13:53:59.875Z, ERROR: Error while vote with index: 14 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "elenaalekseeva0195027",
+  "password": "candy",
+  "email": "vwrhvzhx@hotmail.com",
+  "name": "Елена",
+  "lastname": "Алексеева",
+  "phone": "+79786777258",
+  "day": 22,
+  "month": 3,
+  "year": 1988,
+  "delayMinutes": 8,
+  "delaySeconds": 19
+}
+2026-10-06 15:46:21.217Z, ERROR: Error while vote with index: 9 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "maksim.chernyshev6548043",
+  "password": "maksimchernyshev",
+  "email": "maksim.chernyshev51571@inbox.ru",
+  "name": "Максим",
+  "lastname": "Чернышёв",
+  "phone": "+79784845595",
+  "day": 3,
+  "month": 11,
+  "year": 1999,
+  "delayMinutes": 27,
+  "delaySeconds": 16
+}
+2026-10-06 16:00:51.643Z, ERROR: Error while vote with index: 11 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "daryakonovalova",
+  "password": "darya.konovalova8163737",
+  "email": "darya_konovalova@proton.me",
+  "name": "Дарья",
+  "lastname": "Коновалова",
+  "phone": "+79784873562",
+  "day": 3,
+  "month": 5,
+  "year": 2002,
+  "delayMinutes": 21,
+  "delaySeconds": 41
+}
+2026-10-06 16:01:46.419Z, ERROR: Error while vote with index: 12 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "nksnkf",
+  "password": "marina_zaytseva89074",
+  "email": "marina_zaytseva4471@yahoo.com",
+  "name": "Марина",
+  "lastname": "Зайцева",
+  "phone": "+79788688205",
+  "day": 20,
+  "month": 8,
+  "year": 1993,
+  "delayMinutes": 13,
+  "delaySeconds": 55
+}
+2026-10-06 16:15:40.074Z, ERROR: Error while vote with index: 14 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "elenaalekseeva0195027",
+  "password": "candy",
+  "email": "vwrhvzhx@hotmail.com",
+  "name": "Елена",
+  "lastname": "Алексеева",
+  "phone": "+79786777258",
+  "day": 13,
+  "month": 6,
+  "year": 2004,
+  "delayMinutes": 27,
+  "delaySeconds": 58
+}
+2026-10-06 16:16:30.068Z, ERROR: Error while vote with index: 15 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "sergey_sokolov",
+  "password": "sergeysokolov",
+  "email": "sergey.sokolov95079@gmail.com",
+  "name": "Сергей",
+  "lastname": "Соколов",
+  "phone": "+79781653554",
+  "day": 25,
+  "month": 5,
+  "year": 1998,
+  "delayMinutes": 14,
+  "delaySeconds": 17
+}
+2026-10-06 16:17:18.544Z, ERROR: Error while vote with index: 16 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "marina_semenova0383932",
+  "password": "marina.semenova",
+  "email": "rjzkhfxj@live.com",
+  "name": "Марина",
+  "lastname": "Семёнова",
+  "phone": "+79785838922",
+  "day": 14,
+  "month": 8,
+  "year": 1990,
+  "delayMinutes": 11,
+  "delaySeconds": 18
+}
+2026-10-06 16:18:05.740Z, ERROR: Error while vote with index: 17 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "anna.klimova",
+  "password": "anna.klimova",
+  "email": "honey@mail.ru",
+  "name": "Анна",
+  "lastname": "Климова",
+  "phone": "+79785899591",
+  "day": 16,
+  "month": 10,
+  "year": 1989,
+  "delayMinutes": 23,
+  "delaySeconds": 58
+}
+2026-10-06 16:18:51.877Z, ERROR: Error while vote with index: 18 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "galina_grigoreva54964",
+  "password": "hello",
+  "email": "tiger@live.com",
+  "name": "Галина",
+  "lastname": "Григорьева",
+  "phone": "+79782978337",
+  "day": 23,
+  "month": 10,
+  "year": 1992,
+  "delayMinutes": 21,
+  "delaySeconds": 47
+}
+2026-10-06 16:19:40.908Z, ERROR: Error while vote with index: 19 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "polina.morozova",
+  "password": "nbymp",
+  "email": "polinamorozova817770@outlook.com",
+  "name": "Полина",
+  "lastname": "Морозова",
+  "phone": "+79787940099",
+  "day": 18,
+  "month": 2,
+  "year": 1987,
+  "delayMinutes": 27,
+  "delaySeconds": 6
+}
+2026-10-06 16:52:36.777Z, ERROR: Error while vote with index: 22 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "raisarumyantseva07533",
+  "password": "raisa.rumyantseva",
+  "email": "sgqhbs@list.ru",
+  "name": "Раиса",
+  "lastname": "Румянцева",
+  "phone": "+79789815704",
+  "day": 18,
+  "month": 12,
+  "year": 1985,
+  "delayMinutes": 24,
+  "delaySeconds": 19
+}
+2026-10-06 16:53:22.932Z, ERROR: Error while vote with index: 23 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "olga_guseva",
+  "password": "bqzrk",
+  "email": "ksjvp@inbox.ru",
+  "name": "Ольга",
+  "lastname": "Гусева",
+  "phone": "+79782581319",
+  "day": 27,
+  "month": 10,
+  "year": 1998,
+  "delayMinutes": 29,
+  "delaySeconds": 7
+}
+2026-10-06 16:54:11.132Z, ERROR: Error while vote with index: 24 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "qwerty",
+  "password": "knight6065",
+  "email": "xeuvnocqvg@proton.me",
+  "name": "Василиса",
+  "lastname": "Лазарева",
+  "phone": "+79786064923",
+  "day": 2,
+  "month": 7,
+  "year": 1982,
+  "delayMinutes": 6,
+  "delaySeconds": 52
+}
+2026-10-06 16:55:05.663Z, ERROR: Error while vote with index: 25 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "rhkecwhr",
+  "password": "summer876",
+  "email": "gleb_vasilev8367032@yandex.ru",
+  "name": "Глеб",
+  "lastname": "Васильев",
+  "phone": "+79787283355",
+  "day": 23,
+  "month": 4,
+  "year": 1999,
+  "delayMinutes": 20,
+  "delaySeconds": 39
+}
+2026-10-06 16:55:43.479Z, ERROR: Error while vote with index: 26 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "alina.petrova",
+  "password": "secret3421",
+  "email": "mxsggdlh@live.com",
+  "name": "Алина",
+  "lastname": "Петрова",
+  "phone": "+79787369865",
+  "day": 5,
+  "month": 7,
+  "year": 1982,
+  "delayMinutes": 13,
+  "delaySeconds": 13
+}
+2026-10-06 16:56:21.204Z, ERROR: Error while vote with index: 27 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "uptt",
+  "password": "blues74752",
+  "email": "mewfo@inbox.ru",
+  "name": "Ева",
+  "lastname": "Волкова",
+  "phone": "+79783326902",
+  "day": 16,
+  "month": 3,
+  "year": 1996,
+  "delayMinutes": 8,
+  "delaySeconds": 36
+}
+2026-10-06 16:56:58.992Z, ERROR: Error while vote with index: 28 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "yuriy.sokolov",
+  "password": "yuriy_sokolov",
+  "email": "music@inbox.ru",
+  "name": "Юрий",
+  "lastname": "Соколов",
+  "phone": "+79785389531",
+  "day": 3,
+  "month": 1,
+  "year": 1994,
+  "delayMinutes": 7,
+  "delaySeconds": 44
+}
+2026-10-06 17:00:20.560Z, ERROR: Error while vote with index: 29 error: ProtocolError: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed. 
+  User: {
+  "login": "natalya_gordeeva",
+  "password": "edmiegamsy",
+  "email": "gxiksvrkqq@proton.me",
+  "name": "Наталья",
+  "lastname": "Гордеева",
+  "phone": "+79785815245",
+  "day": 19,
+  "month": 1,
+  "year": 2002,
+  "delayMinutes": 22,
+  "delaySeconds": 24
+}
+2026-10-06 17:00:58.227Z, ERROR: Error while vote with index: 30 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "gyoyr",
+  "password": "eagle174",
+  "email": "moon@hotmail.com",
+  "name": "Татьяна",
+  "lastname": "Орлова",
+  "phone": "+79782209643",
+  "day": 14,
+  "month": 2,
+  "year": 1990,
+  "delayMinutes": 21,
+  "delaySeconds": 60
+}
+2026-10-06 17:01:36.070Z, ERROR: Error while vote with index: 31 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "larisa_grigoreva",
+  "password": "larisa_grigoreva7712",
+  "email": "audxc@icloud.com",
+  "name": "Лариса",
+  "lastname": "Григорьева",
+  "phone": "+79785145330",
+  "day": 19,
+  "month": 9,
+  "year": 1993,
+  "delayMinutes": 13,
+  "delaySeconds": 38
+}
+2026-10-06 17:04:42.958Z, ERROR: Error while vote with index: 32 error: ProtocolError: Network.enable timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed. 
+  User: {
+  "login": "flash",
+  "password": "mgtvnqngds",
+  "email": "egorlebedev@live.com",
+  "name": "Егор",
+  "lastname": "Лебедев",
+  "phone": "+79782493498",
+  "day": 12,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 11,
+  "delaySeconds": 51
+}
+2026-10-06 17:05:20.778Z, ERROR: Error while vote with index: 33 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "pavel_romanov73476",
+  "password": "ylgaxnz",
+  "email": "tpcmfyd@outlook.com",
+  "name": "Павел",
+  "lastname": "Романов",
+  "phone": "+79786941567",
+  "day": 16,
+  "month": 4,
+  "year": 1994,
+  "delayMinutes": 9,
+  "delaySeconds": 52
+}
+2026-10-06 17:10:06.389Z, ERROR: Error while vote with index: 34 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "raisa_alekseeva",
+  "password": "password95",
+  "email": "raisa.alekseeva@rambler.ru",
+  "name": "Раиса",
+  "lastname": "Алексеева",
+  "phone": "+79782329622",
+  "day": 11,
+  "month": 9,
+  "year": 1987,
+  "delayMinutes": 14,
+  "delaySeconds": 1
+}
+2026-10-06 17:10:42.794Z, ERROR: Error while vote with index: 35 error: Error: The browser is already running for C:\Users\eqwdy\AppData\Local\Temp\puppeteer_dev_chrome_profile-AEhaxm. Use a different `userDataDir` or stop the running browser first. 
+  User: {
+  "login": "denis.maksimov",
+  "password": "denis.maksimov",
+  "email": "fvovjpq@proton.me",
+  "name": "Денис",
+  "lastname": "Максимов",
+  "phone": "+79786910789",
+  "day": 8,
+  "month": 8,
+  "year": 1983,
+  "delayMinutes": 29,
+  "delaySeconds": 32
+}
+2026-10-06 17:10:50.346Z, ERROR: Error while vote with index: 36 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/201050.338:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "svetlana.belyaeva9052",
+  "password": "secret60",
+  "email": "samurai154@list.ru",
+  "name": "Светлана",
+  "lastname": "Беляева",
+  "phone": "+79782148037",
+  "day": 28,
+  "month": 5,
+  "year": 1984,
+  "delayMinutes": 23,
+  "delaySeconds": 35
+}
+2026-10-06 17:10:56.627Z, ERROR: Error while vote with index: 37 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/201056.615:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: Канал был закрыт. (0x6D)
+[1006/201056.618:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "diamond",
+  "password": "alina_boldina",
+  "email": "fire@proton.me",
+  "name": "Алина",
+  "lastname": "Болдина",
+  "phone": "+79789524225",
+  "day": 16,
+  "month": 7,
+  "year": 1986,
+  "delayMinutes": 19,
+  "delaySeconds": 26
+}
+2026-10-06 17:12:04.867Z, ERROR: Error while vote with index: 38 error: Error: Requesting main frame too early! 
+  User: {
+  "login": "ulyana.fedorova982663",
+  "password": "ulyanafedorova1377",
+  "email": "football6106@gmail.com",
+  "name": "Ульяна",
+  "lastname": "Фёдорова",
+  "phone": "+79780981510",
+  "day": 12,
+  "month": 5,
+  "year": 2001,
+  "delayMinutes": 9,
+  "delaySeconds": 28
+}
+2026-10-06 17:21:48.369Z, ERROR: Error while vote with index: 40 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "grigoriy.titov",
+  "password": "grigoriy.titov648190",
+  "email": "grigoriy_titov@inbox.ru",
+  "name": "Григорий",
+  "lastname": "Титов",
+  "phone": "+79787009495",
+  "day": 6,
+  "month": 2,
+  "year": 1997,
+  "delayMinutes": 26,
+  "delaySeconds": 52
+}
+2026-10-06 17:31:28.953Z, ERROR: Error while vote with index: 42 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "marina.rumyantseva26390",
+  "password": "zslh",
+  "email": "marina.rumyantseva1582514@hotmail.com",
+  "name": "Марина",
+  "lastname": "Румянцева",
+  "phone": "+79781965227",
+  "day": 14,
+  "month": 5,
+  "year": 1989,
+  "delayMinutes": 25,
+  "delaySeconds": 4
+}
+2026-10-06 17:59:40.756Z, ERROR: Error while vote with index: 44 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "darya.orlova774910",
+  "password": "darya.orlova",
+  "email": "phanwvqm@list.ru",
+  "name": "Дарья",
+  "lastname": "Орлова",
+  "phone": "+79784627699",
+  "day": 11,
+  "month": 2,
+  "year": 1998,
+  "delayMinutes": 29,
+  "delaySeconds": 17
+}
+2026-10-06 18:00:32.540Z, ERROR: Error while vote with index: 45 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "gnoi",
+  "password": "milana.kuznetsova3894774",
+  "email": "milana_kuznetsova@icloud.com",
+  "name": "Милана",
+  "lastname": "Кузнецова",
+  "phone": "+79783982175",
+  "day": 23,
+  "month": 9,
+  "year": 1983,
+  "delayMinutes": 29,
+  "delaySeconds": 59
+}
+2026-10-06 18:01:10.388Z, ERROR: Error while vote with index: 46 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "kseniyabelyaeva1284",
+  "password": "kseniya_belyaeva56013",
+  "email": "samurai04667@icloud.com",
+  "name": "Ксения",
+  "lastname": "Беляева",
+  "phone": "+79784940752",
+  "day": 16,
+  "month": 3,
+  "year": 1996,
+  "delayMinutes": 21,
+  "delaySeconds": 47
+}
+2026-10-06 18:01:47.029Z, ERROR: Error while vote with index: 47 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "spring",
+  "password": "gvknx",
+  "email": "power@gmail.com",
+  "name": "Дмитрий",
+  "lastname": "Захаров",
+  "phone": "+79783178819",
+  "day": 3,
+  "month": 7,
+  "year": 2001,
+  "delayMinutes": 20,
+  "delaySeconds": 57
+}
+2026-10-06 18:02:09.379Z, ERROR: Error while vote with index: 48 error: Error: net::ERR_INSUFFICIENT_RESOURCES at https://gorod24.online/feodosiya/narodniy-brand?nb_client=2322&nb_brend=162&con=46 
+  User: {
+  "login": "olgadrozdova",
+  "password": "olga.drozdova19269",
+  "email": "olga.drozdova063665@bk.ru",
+  "name": "Ольга",
+  "lastname": "Дроздова",
+  "phone": "+79781035665",
+  "day": 14,
+  "month": 4,
+  "year": 1995,
+  "delayMinutes": 20,
+  "delaySeconds": 58
+}
+2026-10-06 18:02:14.487Z, ERROR: Error while vote with index: 49 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/210214.478:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "secret",
+  "password": "guitar",
+  "email": "soul@list.ru",
+  "name": "Николай",
+  "lastname": "Захаров",
+  "phone": "+79789489177",
+  "day": 26,
+  "month": 1,
+  "year": 2002,
+  "delayMinutes": 19,
+  "delaySeconds": 49
+}
+2026-10-06 18:02:21.991Z, ERROR: Error while vote with index: 50 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/210221.982:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "grigoriyzaharov544206",
+  "password": "ztyszgxs",
+  "email": "uanyddl@bk.ru",
+  "name": "Григорий",
+  "lastname": "Захаров",
+  "phone": "+79788863044",
+  "day": 10,
+  "month": 2,
+  "year": 1985,
+  "delayMinutes": 19,
+  "delaySeconds": 42
+}
+2026-10-06 18:02:29.486Z, ERROR: Error while vote with index: 51 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/210229.477:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "ceundn",
+  "password": "lyubovkuznetsova",
+  "email": "lyubovkuznetsova@zoho.com",
+  "name": "Любовь",
+  "lastname": "Кузнецова",
+  "phone": "+79782579779",
+  "day": 4,
+  "month": 11,
+  "year": 1999,
+  "delayMinutes": 28,
+  "delaySeconds": 36
+}
+2026-10-06 19:09:41.897Z, ERROR: Error while vote with index: 55 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "daryapetrova1297705",
+  "password": "darya.petrova6600513",
+  "email": "darya.petrova@yandex.ru",
+  "name": "Дарья",
+  "lastname": "Петрова",
+  "phone": "+79789353183",
+  "day": 12,
+  "month": 9,
+  "year": 2004,
+  "delayMinutes": 30,
+  "delaySeconds": 20
+}
+2026-10-06 19:10:19.696Z, ERROR: Error while vote with index: 56 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "svetlanazhukova8467",
+  "password": "svetlana_zhukova9095",
+  "email": "svetlana_zhukova@mail.ru",
+  "name": "Светлана",
+  "lastname": "Жукова",
+  "phone": "+79783850055",
+  "day": 8,
+  "month": 10,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 53
+}
+2026-10-06 19:10:57.295Z, ERROR: Error while vote with index: 57 error: Error: The browser is already running for C:\Users\eqwdy\AppData\Local\Temp\puppeteer_dev_chrome_profile-tVBAK8. Use a different `userDataDir` or stop the running browser first. 
+  User: {
+  "login": "dmitriymaksimov88670",
+  "password": "pwlrvd",
+  "email": "dmitriy.maksimov@hotmail.com",
+  "name": "Дмитрий",
+  "lastname": "Максимов",
+  "phone": "+79780647723",
+  "day": 19,
+  "month": 1,
+  "year": 1996,
+  "delayMinutes": 29,
+  "delaySeconds": 4
+}
+2026-10-06 19:15:42.467Z, ERROR: Error while vote with index: 58 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "storm",
+  "password": "gleb_volkov95847",
+  "email": "cbbgi@mail.ru",
+  "name": "Глеб",
+  "lastname": "Волков",
+  "phone": "+79788214076",
+  "day": 23,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 27,
+  "delaySeconds": 46
+}
+2026-10-06 19:18:50.163Z, ERROR: Error while vote with index: 59 error: Error: The browser is already running for C:\Users\eqwdy\AppData\Local\Temp\puppeteer_dev_chrome_profile-0RQ91O. Use a different `userDataDir` or stop the running browser first. 
+  User: {
+  "login": "whfw",
+  "password": "flower",
+  "email": "storm@yandex.ru",
+  "name": "Ефим",
+  "lastname": "Степанов",
+  "phone": "+79780371637",
+  "day": 4,
+  "month": 2,
+  "year": 1993,
+  "delayMinutes": 26,
+  "delaySeconds": 27
+}
+2026-10-06 19:19:27.818Z, ERROR: Error while vote with index: 60 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "viktornikolaev967547",
+  "password": "dvemqtpxla",
+  "email": "lion@yandex.ru",
+  "name": "Виктор",
+  "lastname": "Николаев",
+  "phone": "+79785575144",
+  "day": 23,
+  "month": 7,
+  "year": 2002,
+  "delayMinutes": 10,
+  "delaySeconds": 54
+}
+2026-10-06 19:20:04.465Z, ERROR: Error while vote with index: 61 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "mountain",
+  "password": "fire",
+  "email": "gordey.lazarev4868@inbox.ru",
+  "name": "Гордей",
+  "lastname": "Лазарев",
+  "phone": "+79784236804",
+  "day": 10,
+  "month": 9,
+  "year": 1987,
+  "delayMinutes": 17,
+  "delaySeconds": 17
+}
+2026-10-06 19:20:11.864Z, ERROR: Error while vote with index: 62 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/222011.854:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "ninja",
+  "password": "raisaegorova60015",
+  "email": "qrjcwin@bk.ru",
+  "name": "Раиса",
+  "lastname": "Егорова",
+  "phone": "+79785910683",
+  "day": 23,
+  "month": 6,
+  "year": 2000,
+  "delayMinutes": 9,
+  "delaySeconds": 44
+}
+2026-10-06 19:20:19.429Z, ERROR: Error while vote with index: 63 error: Error: Failed to launch the browser process:  Code: 7
+
+stderr:
+[1006/222019.420:ERROR:chrome\app\main_dll_loader_win.cc:240] Failed to load Chrome DLL from C:\Users\eqwdy\.cache\puppeteer\chrome\win64-154.0.8037.57\chrome-win64\chrome.dll: Файл подкачки слишком мал для завершения операции. (0x5AF)
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "maksim_petrov",
+  "password": "maksimpetrov",
+  "email": "maksim_petrov98560@live.com",
+  "name": "Максим",
+  "lastname": "Петров",
+  "phone": "+79781759486",
+  "day": 18,
+  "month": 7,
+  "year": 1992,
+  "delayMinutes": 29,
+  "delaySeconds": 29
+}
+2026-10-06 19:20:27.100Z, ERROR: Error while vote with index: 64 error: Error: Failed to launch the browser process:  Code: 3221225725
+
+stderr:
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+ 
+  User: {
+  "login": "pavelbogdanov38281",
+  "password": "pavel_bogdanov",
+  "email": "jazz83@mail.ru",
+  "name": "Павел",
+  "lastname": "Богданов",
+  "phone": "+79785309146",
+  "day": 10,
+  "month": 2,
+  "year": 2001,
+  "delayMinutes": 26,
+  "delaySeconds": 2
+}
+2026-10-06 19:25:10.903Z, ERROR: Error while vote with index: 65 error: TimeoutError: Timed out after waiting 30000ms 
+  User: {
+  "login": "green",
+  "password": "qkywjluxp",
+  "email": "irina.zaytseva2444253@outlook.com",
+  "name": "Ирина",
+  "lastname": "Зайцева",
+  "phone": "+79788276103",
+  "day": 7,
+  "month": 10,
+  "year": 1983,
+  "delayMinutes": 20,
+  "delaySeconds": 15
+}
+2026-10-06 19:25:47.505Z, ERROR: Error while vote with index: 66 error: TimeoutError: Navigation timeout of 30000 ms exceeded 
+  User: {
+  "login": "natalyavlasova98600",
+  "password": "natalya.vlasova422346",
+  "email": "natalya.vlasova@mail.ru",
+  "name": "Наталья",
+  "lastname": "Власова",
+  "phone": "+79787375933",
+  "day": 15,
+  "month": 6,
+  "year": 1999,
+  "delayMinutes": 10,
+  "delaySeconds": 16
+}
+2026-10-07 22:19:46, ERROR: Error while vote with index: 68 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "honey",
+  "password": "aleksandra.novikova16867",
+  "email": "llxptbbcqe@zoho.com",
+  "name": "Александра",
+  "lastname": "Новикова",
+  "phone": "+79787980488",
+  "day": 1,
+  "month": 9,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-07 22:37:35.863Z, ERROR: Error while vote with index: 71 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "xbmzm",
+  "password": "nikita.danilov",
+  "email": "honey@yahoo.com",
+  "name": "Никита",
+  "lastname": "Данилов",
+  "phone": "+79786552893",
+  "day": 19,
+  "month": 12,
+  "year": 1988,
+  "delayMinutes": 8,
+  "delaySeconds": 57
+}
+2026-10-07 22:48:47.908Z, ERROR: Error while vote with index: 73 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "diamond",
+  "password": "svetlana.mihaylova",
+  "email": "svetlana.mihaylova@rambler.ru",
+  "name": "Светлана",
+  "lastname": "Михайлова",
+  "phone": "+79789507281",
+  "day": 12,
+  "month": 12,
+  "year": 2003,
+  "delayMinutes": 7,
+  "delaySeconds": 48
+}
+2026-10-07 22:49:37.348Z, ERROR: Error while vote with index: 74 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "fstjb",
+  "password": "nadezhda.averyanova23856",
+  "email": "chocolate900@bk.ru",
+  "name": "Надежда",
+  "lastname": "Аверьянова",
+  "phone": "+79780705403",
+  "day": 26,
+  "month": 4,
+  "year": 1992,
+  "delayMinutes": 7,
+  "delaySeconds": 26
+}
+2026-10-07 22:50:25.975Z, ERROR: Error while vote with index: 75 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "larisakozlova965582",
+  "password": "larisa.kozlova",
+  "email": "larisa_kozlova@inbox.ru",
+  "name": "Лариса",
+  "lastname": "Козлова",
+  "phone": "+79784187548",
+  "day": 13,
+  "month": 11,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 15
+}
+2026-10-07 22:59:08.392Z, ERROR: Error while vote with index: 77 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "ivan_zaytsev",
+  "password": "ivanzaytsev7270",
+  "email": "tiger68@mail.ru",
+  "name": "Иван",
+  "lastname": "Зайцев",
+  "phone": "+79785541025",
+  "day": 5,
+  "month": 10,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 59
+}
+2026-10-07 23:22:16.387Z, ERROR: Error while vote with index: 81 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "summer",
+  "password": "wcyz",
+  "email": "football@icloud.com",
+  "name": "Светлана",
+  "lastname": "Аверьянова",
+  "phone": "+79782011383",
+  "day": 23,
+  "month": 2,
+  "year": 1985,
+  "delayMinutes": 5,
+  "delaySeconds": 16
+}
+2026-10-07 23:23:03.375Z, ERROR: Error while vote with index: 82 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "love",
+  "password": "bear5900",
+  "email": "cohejqmvd@inbox.ru",
+  "name": "Светлана",
+  "lastname": "Дроздова",
+  "phone": "+79782757410",
+  "day": 1,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 8,
+  "delaySeconds": 47
+}
+2026-10-07 23:50:48.418Z, ERROR: Error while vote with index: 86 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "rgnzqqm",
+  "password": "viktoriya.averyanova",
+  "email": "ajclv@live.com",
+  "name": "Виктория",
+  "lastname": "Аверьянова",
+  "phone": "+79783082357",
+  "day": 22,
+  "month": 9,
+  "year": 1993,
+  "delayMinutes": 7,
+  "delaySeconds": 19
+}
+2026-10-07 23:51:43.496Z, ERROR: Error while vote with index: 87 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "winter",
+  "password": "aleksandr_gusev",
+  "email": "aleksandrgusev56146@inbox.ru",
+  "name": "Александр",
+  "lastname": "Гусев",
+  "phone": "+79789713835",
+  "day": 2,
+  "month": 4,
+  "year": 1985,
+  "delayMinutes": 9,
+  "delaySeconds": 37
+}
+2026-10-07 23:52:37.512Z, ERROR: Error while vote with index: 88 error: TimeoutError: Waiting for selector `#form` failed 
+  User: {
+  "login": "gleb_boldin",
+  "password": "glebboldin",
+  "email": "glebboldin@yandex.ru",
+  "name": "Глеб",
+  "lastname": "Болдин",
+  "phone": "+79782468275",
+  "day": 21,
+  "month": 3,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 53
+}
+2026-10-07 23:53:27.751Z, ERROR: Error while vote with index: 89 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "princess",
+  "password": "olga.rumyantseva",
+  "email": "olga.rumyantseva8840@live.com",
+  "name": "Ольга",
+  "lastname": "Румянцева",
+  "phone": "+79784860912",
+  "day": 18,
+  "month": 11,
+  "year": 1994,
+  "delayMinutes": 5,
+  "delaySeconds": 22
+}
+2026-10-08 00:07:12.198Z, ERROR: Error while vote with index: 92 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "lion",
+  "password": "matrena_grigoreva4314",
+  "email": "nbztkh@proton.me",
+  "name": "Матрёна",
+  "lastname": "Григорьева",
+  "phone": "+79789111223",
+  "day": 22,
+  "month": 12,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 32
+}
+2026-10-08 00:08:00.457Z, ERROR: Error while vote with index: 93 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "valeriya.kalinina",
+  "password": "valeriya.kalinina",
+  "email": "psqugjpfju@list.ru",
+  "name": "Валерия",
+  "lastname": "Калинина",
+  "phone": "+79782655750",
+  "day": 7,
+  "month": 7,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 59
+}
+2026-10-08 00:19:27.243Z, ERROR: Error while vote with index: 95 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "kristina.ryabova54854",
+  "password": "kristina.ryabova025008",
+  "email": "coffee@icloud.com",
+  "name": "Кристина",
+  "lastname": "Рябова",
+  "phone": "+79787599456",
+  "day": 14,
+  "month": 7,
+  "year": 1992,
+  "delayMinutes": 9,
+  "delaySeconds": 41
+}
+2026-10-08 00:36:24.266Z, ERROR: Error while vote with index: 98 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "xxdmjp",
+  "password": "marina.ryabova",
+  "email": "coffee@list.ru",
+  "name": "Марина",
+  "lastname": "Рябова",
+  "phone": "+79780876622",
+  "day": 4,
+  "month": 11,
+  "year": 2002,
+  "delayMinutes": 9,
+  "delaySeconds": 24
+}
+2026-10-08 00:37:11.769Z, ERROR: Error while vote with index: 99 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "gleb_danilov",
+  "password": "cnesk",
+  "email": "glebdanilov9523@mail.ru",
+  "name": "Глеб",
+  "lastname": "Данилов",
+  "phone": "+79780622654",
+  "day": 10,
+  "month": 7,
+  "year": 2001,
+  "delayMinutes": 10,
+  "delaySeconds": 6
+}
+2026-10-15 14:55:54.307Z, ERROR: Error while vote with index: 1 error: TimeoutError: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "varvara_vlasova",
+  "password": "varvara_vlasova",
+  "email": "varvara_vlasova@icloud.com",
+  "name": "Варвара",
+  "lastname": "Власова",
+  "phone": "+79780090180",
+  "day": 3,
+  "month": 6,
+  "year": 1994,
+  "delayMinutes": 20,
+  "delaySeconds": 44
+}
+2026-10-15 14:58:33.123Z, ERROR: Error while vote with index: 1 error: TimeoutError: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "varvara_vlasova",
+  "password": "varvara_vlasova",
+  "email": "varvara_vlasova@icloud.com",
+  "name": "Варвара",
+  "lastname": "Власова",
+  "phone": "+79780090180",
+  "day": 17,
+  "month": 8,
+  "year": 1983,
+  "delayMinutes": 29,
+  "delaySeconds": 31
+}
+2026-10-15 15:01:47.917Z, ERROR: Error while vote with index: 1 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "varvara_vlasova",
+  "password": "varvara_vlasova",
+  "email": "varvara_vlasova@icloud.com",
+  "name": "Варвара",
+  "lastname": "Власова",
+  "phone": "+79780090180",
+  "day": 15,
+  "month": 9,
+  "year": 2003,
+  "delayMinutes": 16,
+  "delaySeconds": 47
+}
+2026-10-15 15:02:31.924Z, ERROR: Error while vote with index: 2 error: Attempted to use detached Frame '74087F3D0B9450405D5DAF72C7C0AA53'. 
+  User: {
+  "login": "mariya_zhukova",
+  "password": "njtkf",
+  "email": "yznqamjpbk@live.com",
+  "name": "Мария",
+  "lastname": "Жукова",
+  "phone": "+79783824240",
+  "day": 8,
+  "month": 5,
+  "year": 1990,
+  "delayMinutes": 19,
+  "delaySeconds": 25
+}
+2026-10-15 15:04:04.640Z, ERROR: Error while vote with index: 3 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "polina_averyanova",
+  "password": "polina.averyanova4618",
+  "email": "star171@gmail.com",
+  "name": "Полина",
+  "lastname": "Аверьянова",
+  "phone": "+79786858435",
+  "day": 6,
+  "month": 6,
+  "year": 1994,
+  "delayMinutes": 14,
+  "delaySeconds": 35
+}
+2026-10-15 15:05:11.168Z, ERROR: Error while vote with index: 4 error: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "dmitriy.kozlov0152",
+  "password": "dmitriy_kozlov",
+  "email": "dmitriy.kozlov3512900@inbox.ru",
+  "name": "Дмитрий",
+  "lastname": "Козлов",
+  "phone": "+79785465516",
+  "day": 1,
+  "month": 4,
+  "year": 1992,
+  "delayMinutes": 9,
+  "delaySeconds": 10
+}
+2026-10-15 15:06:49.365Z, ERROR: Error while vote with index: 5 error: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "spabs",
+  "password": "tihon_danilov632631",
+  "email": "hero@zoho.com",
+  "name": "Тихон",
+  "lastname": "Данилов",
+  "phone": "+79784713627",
+  "day": 3,
+  "month": 6,
+  "year": 1992,
+  "delayMinutes": 15,
+  "delaySeconds": 14
+}
+2026-10-15 15:10:43.994Z, ERROR: Error while vote with index: 1 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_popova",
+  "password": "summer2024!",
+  "email": "anna.popova@mail.ru",
+  "name": "Анна",
+  "lastname": "Попова",
+  "phone": "+79781234567",
+  "day": 28,
+  "month": 6,
+  "year": 2003,
+  "delayMinutes": 20,
+  "delaySeconds": 13
+}
+2026-10-15 15:14:27.061Z, ERROR: Error while vote with index: 3 error: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "elena_volkova",
+  "password": "moonlight88",
+  "email": "elena.volkova@bk.ru",
+  "name": "Елена",
+  "lastname": "Волкова",
+  "phone": "+79783456789",
+  "day": 19,
+  "month": 9,
+  "year": 2003,
+  "delayMinutes": 23,
+  "delaySeconds": 8
+}
+2026-10-15 15:37:56.305Z, ERROR: Error while vote with index: 5 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "maria_sokolova",
+  "password": "rose2023#",
+  "email": "maria.sokolova@list.ru",
+  "name": "Мария",
+  "lastname": "Соколова",
+  "phone": "+79785678901",
+  "day": 7,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 8,
+  "delaySeconds": 24
+}
+2026-10-15 16:29:00.172Z, ERROR: Error while vote with index: 9 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "olga_kuznetsova",
+  "password": "starlight77",
+  "email": "olga.kuznetsova@inbox.ru",
+  "name": "Ольга",
+  "lastname": "Кузнецова",
+  "phone": "+79789012345",
+  "day": 2,
+  "month": 3,
+  "year": 2001,
+  "delayMinutes": 9,
+  "delaySeconds": 8
+}
+2026-10-15 16:40:19.277Z, ERROR: Error while vote with index: 11 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "tatyana_belova",
+  "password": "butterfly88",
+  "email": "tatyana.belova@rambler.ru",
+  "name": "Татьяна",
+  "lastname": "Белова",
+  "phone": "+79781357924",
+  "day": 16,
+  "month": 4,
+  "year": 1996,
+  "delayMinutes": 14,
+  "delaySeconds": 26
+}
+2026-10-15 16:44:26.177Z, ERROR: Error while vote with index: 12 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "igor_lebedev37289",
+  "password": "hawk37289",
+  "email": "igor.lebedev@hotmail.com",
+  "name": "Игорь",
+  "lastname": "Лебедев",
+  "phone": "+79782468035",
+  "day": 22,
+  "month": 2,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 19
+}
+2026-10-15 16:45:22.789Z, ERROR: Error while vote with index: 13 error: Protocol error (DOM.resolveNode): Target closed 
+  User: {
+  "login": "svetlana_orlova",
+  "password": "sunshine2024",
+  "email": "svetlana.orlova@mail.ru",
+  "name": "Светлана",
+  "lastname": "Орлова",
+  "phone": "+79783579146",
+  "day": 4,
+  "month": 10,
+  "year": 1988,
+  "delayMinutes": 12,
+  "delaySeconds": 42
+}
+2026-10-15 16:48:42.296Z, ERROR: Error while vote with index: 12 error: Attempted to use detached Frame 'C185E7A605484678C0435401746192FF'. 
+  User: {
+  "login": "igor_lebedev37289",
+  "password": "hawk37289",
+  "email": "igor.lebedev@hotmail.com",
+  "name": "Игорь",
+  "lastname": "Лебедев",
+  "phone": "+79782468035",
+  "day": 21,
+  "month": 4,
+  "year": 2001,
+  "delayMinutes": 13,
+  "delaySeconds": 40
+}
+2026-10-15 16:50:57.639Z, ERROR: Error while vote with index: 12 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "igor_lebedev37289",
+  "password": "hawk37289",
+  "email": "igor.lebedev@hotmail.com",
+  "name": "Игорь",
+  "lastname": "Лебедев",
+  "phone": "+79782468035",
+  "day": 28,
+  "month": 8,
+  "year": 1991,
+  "delayMinutes": 8,
+  "delaySeconds": 16
+}
+2026-10-15 16:51:56.392Z, ERROR: Error while vote with index: 13 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "svetlana_orlova",
+  "password": "sunshine2024",
+  "email": "svetlana.orlova@mail.ru",
+  "name": "Светлана",
+  "lastname": "Орлова",
+  "phone": "+79783579146",
+  "day": 15,
+  "month": 3,
+  "year": 1985,
+  "delayMinutes": 9,
+  "delaySeconds": 41
+}
+2026-10-15 16:52:24.549Z, ERROR: Error while vote with index: 14 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "maxim_vasiliev48392",
+  "password": "phoenix48392",
+  "email": "maxim.vasiliev@gmail.com",
+  "name": "Максим",
+  "lastname": "Васильев",
+  "phone": "+79784690257",
+  "day": 26,
+  "month": 12,
+  "year": 1982,
+  "delayMinutes": 11,
+  "delaySeconds": 26
+}
+2026-10-15 16:52:43.269Z, ERROR: Error while vote with index: 15 error: Execution context was destroyed, most likely because of a navigation. 
+  User: {
+  "login": "irina_egorova",
+  "password": "rainbow66",
+  "email": "irina.egorova@bk.ru",
+  "name": "Ирина",
+  "lastname": "Егорова",
+  "phone": "+79785801368",
+  "day": 16,
+  "month": 3,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 20
+}
+2026-10-15 16:53:00.720Z, ERROR: Error while vote with index: 16 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "pavel_kuznetsov27384",
+  "password": "knight27384",
+  "email": "pavel.kuznetsov@outlook.com",
+  "name": "Павел",
+  "lastname": "Кузнецов",
+  "phone": "+79786912479",
+  "day": 23,
+  "month": 1,
+  "year": 1989,
+  "delayMinutes": 7,
+  "delaySeconds": 7
+}
+2026-10-15 16:56:32.313Z, ERROR: Error while vote with index: 15 error: Кнопка отправки не найдена 
+  User: {
+  "login": "irina_egorova",
+  "password": "rainbow66",
+  "email": "irina.egorova@bk.ru",
+  "name": "Ирина",
+  "lastname": "Егорова",
+  "phone": "+79785801368",
+  "day": 6,
+  "month": 5,
+  "year": 1998,
+  "delayMinutes": 12,
+  "delaySeconds": 20
+}
+2026-10-15 16:57:55.346Z, ERROR: Error while vote with index: 16 error: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "pavel_kuznetsov27384",
+  "password": "knight27384",
+  "email": "pavel.kuznetsov@outlook.com",
+  "name": "Павел",
+  "lastname": "Кузнецов",
+  "phone": "+79786912479",
+  "day": 13,
+  "month": 1,
+  "year": 1987,
+  "delayMinutes": 15,
+  "delaySeconds": 12
+}
+2026-10-15 16:59:21.014Z, ERROR: Error while vote with index: 17 error: Execution context was destroyed, most likely because of a navigation. 
+  User: {
+  "login": "katerina_shmidt",
+  "password": "snowflake99",
+  "email": "katerina.shmidt@list.ru",
+  "name": "Катерина",
+  "lastname": "Шмидт",
+  "phone": "+79787023590",
+  "day": 4,
+  "month": 10,
+  "year": 1989,
+  "delayMinutes": 7,
+  "delaySeconds": 57
+}
+2026-10-15 17:02:19.765Z, ERROR: Error while vote with index: 17 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "katerina_shmidt",
+  "password": "snowflake99",
+  "email": "katerina.shmidt@list.ru",
+  "name": "Катерина",
+  "lastname": "Шмидт",
+  "phone": "+79787023590",
+  "day": 8,
+  "month": 2,
+  "year": 2002,
+  "delayMinutes": 14,
+  "delaySeconds": 13
+}
+2026-10-15 17:04:24.021Z, ERROR: Error while vote with index: 17 error: Кнопка отправки не найдена 
+  User: {
+  "login": "katerina_shmidt",
+  "password": "snowflake99",
+  "email": "katerina.shmidt@list.ru",
+  "name": "Катерина",
+  "lastname": "Шмидт",
+  "phone": "+79787023590",
+  "day": 10,
+  "month": 6,
+  "year": 1982,
+  "delayMinutes": 6,
+  "delaySeconds": 49
+}
+2026-10-15 17:05:14.459Z, ERROR: Error while vote with index: 18 error: Execution context was destroyed, most likely because of a navigation. 
+  User: {
+  "login": "roman_fomin58392",
+  "password": "shark58392",
+  "email": "roman.fomin@proton.me",
+  "name": "Роман",
+  "lastname": "Фомин",
+  "phone": "+79788134601",
+  "day": 16,
+  "month": 2,
+  "year": 2000,
+  "delayMinutes": 11,
+  "delaySeconds": 9
+}
+2026-10-15 17:06:44.281Z, ERROR: Error while vote with index: 19 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "yulia_malysheva",
+  "password": "lily2023!",
+  "email": "yulia.malysheva@icloud.com",
+  "name": "Юлия",
+  "lastname": "Малышева",
+  "phone": "+79789245712",
+  "day": 18,
+  "month": 12,
+  "year": 1990,
+  "delayMinutes": 11,
+  "delaySeconds": 56
+}
+2026-10-15 17:07:39.608Z, ERROR: Error while vote with index: 20 error: Execution context was destroyed, most likely because of a navigation. 
+  User: {
+  "login": "denis_titov37284",
+  "password": "bear37284",
+  "email": "denis.titov@yahoo.com",
+  "name": "Денис",
+  "lastname": "Титов",
+  "phone": "+79780356823",
+  "day": 10,
+  "month": 3,
+  "year": 2002,
+  "delayMinutes": 10,
+  "delaySeconds": 39
+}
+2026-10-15 17:08:32.609Z, ERROR: Error while vote with index: 21 error: Execution context was destroyed, most likely because of a navigation. 
+  User: {
+  "login": "nadezhda_karpova",
+  "password": "dreamland88",
+  "email": "nadezhda.karpova@inbox.ru",
+  "name": "Надежда",
+  "lastname": "Карпова",
+  "phone": "+79781467934",
+  "day": 2,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 9,
+  "delaySeconds": 41
+}
+2026-10-15 17:09:47.169Z, ERROR: Error while vote with index: 22 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "vladimir_solovyov64938",
+  "password": "eagle64938",
+  "email": "vladimir.solovyov@zoho.com",
+  "name": "Владимир",
+  "lastname": "Соловьёв",
+  "phone": "+79782578045",
+  "day": 9,
+  "month": 4,
+  "year": 1996,
+  "delayMinutes": 11,
+  "delaySeconds": 17
+}
+2026-10-15 17:15:41.379Z, ERROR: Error while vote with index: 22 error: Форма не найдена 
+  User: {
+  "login": "vladimir_solovyov64938",
+  "password": "eagle64938",
+  "email": "vladimir.solovyov@zoho.com",
+  "name": "Владимир",
+  "lastname": "Соловьёв",
+  "phone": "+79782578045",
+  "day": 25,
+  "month": 5,
+  "year": 1983,
+  "delayMinutes": 11,
+  "delaySeconds": 44
+}
+2026-10-15 17:15:59.428Z, ERROR: Error while vote with index: 23 error: Waiting for selector `#submit-form-1` failed 
+  User: {
+  "login": "kristina_bondareva",
+  "password": "pearl77",
+  "email": "kristina.bondareva@rambler.ru",
+  "name": "Кристина",
+  "lastname": "Бондарева",
+  "phone": "+79783689156",
+  "day": 3,
+  "month": 12,
+  "year": 2004,
+  "delayMinutes": 9,
+  "delaySeconds": 8
+}
+2026-10-15 17:17:08.304Z, ERROR: Error while vote with index: 22 error: Waiting for selector `#add-form-1` failed 
+  User: {
+  "login": "vladimir_solovyov64938",
+  "password": "eagle64938",
+  "email": "vladimir.solovyov@zoho.com",
+  "name": "Владимир",
+  "lastname": "Соловьёв",
+  "phone": "+79782578045",
+  "day": 5,
+  "month": 4,
+  "year": 1985,
+  "delayMinutes": 8,
+  "delaySeconds": 10
+}
+2026-10-15 17:23:00.958Z, ERROR: Error while vote with index: 23 error: Форма не найдена 
+  User: {
+  "login": "kristina_bondareva",
+  "password": "pearl77",
+  "email": "kristina.bondareva@rambler.ru",
+  "name": "Кристина",
+  "lastname": "Бондарева",
+  "phone": "+79783689156",
+  "day": 9,
+  "month": 3,
+  "year": 1992,
+  "delayMinutes": 14,
+  "delaySeconds": 40
+}
+2026-10-15 17:30:08.268Z, ERROR: Error while vote with index: 24 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "artem_fokin27389",
+  "password": "lion27389",
+  "email": "artem.fokin@hotmail.com",
+  "name": "Артём",
+  "lastname": "Фокин",
+  "phone": "+79784790267",
+  "day": 11,
+  "month": 7,
+  "year": 1996,
+  "delayMinutes": 13,
+  "delaySeconds": 3
+}
+2026-10-15 17:34:41.584Z, ERROR: Error while vote with index: 26 error: Форма не найдена 
+  User: {
+  "login": "nikolay_chernov58394",
+  "password": "tiger58394",
+  "email": "nikolay.chernov@gmail.com",
+  "name": "Николай",
+  "lastname": "Чернов",
+  "phone": "+79786012489",
+  "day": 5,
+  "month": 12,
+  "year": 1998,
+  "delayMinutes": 7,
+  "delaySeconds": 25
+}
+2026-10-15 17:35:29.337Z, ERROR: Error while vote with index: 27 error: Форма не найдена 
+  User: {
+  "login": "evgeniya_stepanova",
+  "password": "cloud99",
+  "email": "evgeniya.stepanova@bk.ru",
+  "name": "Евгения",
+  "lastname": "Степанова",
+  "phone": "+79787123500",
+  "day": 24,
+  "month": 3,
+  "year": 1991,
+  "delayMinutes": 15,
+  "delaySeconds": 10
+}
+2026-10-15 17:36:19.008Z, ERROR: Error while vote with index: 28 error: Форма не найдена 
+  User: {
+  "login": "konstantin_borisov37285",
+  "password": "panther37285",
+  "email": "konstantin.borisov@outlook.com",
+  "name": "Константин",
+  "lastname": "Борисов",
+  "phone": "+79788234611",
+  "day": 20,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 5
+}
+2026-10-15 17:38:05.729Z, ERROR: Error while vote with index: 29 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "zoya_medvedeva",
+  "password": "maple2023",
+  "email": "zoya.medvedeva@list.ru",
+  "name": "Зоя",
+  "lastname": "Медведева",
+  "phone": "+79789345722",
+  "day": 16,
+  "month": 7,
+  "year": 2001,
+  "delayMinutes": 10,
+  "delaySeconds": 26
+}
+2026-10-15 17:38:26.238Z, ERROR: Error while vote with index: 30 error: Форма не найдена 
+  User: {
+  "login": "mikhail_ermakov48395",
+  "password": "falcon48395",
+  "email": "mikhail.ermakov@proton.me",
+  "name": "Михаил",
+  "lastname": "Ермаков",
+  "phone": "+79780456833",
+  "day": 20,
+  "month": 3,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 10
+}
+2026-10-15 17:38:44.913Z, ERROR: Error while vote with index: 31 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "lyudmila_afanasyeva",
+  "password": "autumn88",
+  "email": "lyudmila.afanasyeva@icloud.com",
+  "name": "Людмила",
+  "lastname": "Афанасьева",
+  "phone": "+79781567944",
+  "day": 5,
+  "month": 1,
+  "year": 2003,
+  "delayMinutes": 6,
+  "delaySeconds": 32
+}
+2026-10-15 17:39:01.093Z, ERROR: Error while vote with index: 32 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "anton_grigoryev27386",
+  "password": "rhino27386",
+  "email": "anton.grigoryev@yahoo.com",
+  "name": "Антон",
+  "lastname": "Григорьев",
+  "phone": "+79782678055",
+  "day": 2,
+  "month": 12,
+  "year": 1984,
+  "delayMinutes": 5,
+  "delaySeconds": 13
+}
+2026-10-15 17:40:12.659Z, ERROR: Error while vote with index: 33 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "valentina_zotova",
+  "password": "daisy2024!",
+  "email": "valentina.zotova@inbox.ru",
+  "name": "Валентина",
+  "lastname": "Зотова",
+  "phone": "+79783789166",
+  "day": 25,
+  "month": 10,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 33
+}
+2026-10-15 17:40:30.675Z, ERROR: Error while vote with index: 34 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "timofey_yakovlev58396",
+  "password": "cheetah58396",
+  "email": "timofey.yakovlev@zoho.com",
+  "name": "Тимофей",
+  "lastname": "Яковлев",
+  "phone": "+79784890277",
+  "day": 7,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 49
+}
+2026-10-15 17:40:49.993Z, ERROR: Error while vote with index: 35 error: Форма не найдена 
+  User: {
+  "login": "galina_romanova",
+  "password": "orchid99",
+  "email": "galina.romanova@rambler.ru",
+  "name": "Галина",
+  "lastname": "Романова",
+  "phone": "+79785001388",
+  "day": 14,
+  "month": 2,
+  "year": 2001,
+  "delayMinutes": 6,
+  "delaySeconds": 24
+}
+2026-10-15 17:41:08.405Z, ERROR: Error while vote with index: 36 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "stanislav_makarov37287",
+  "password": "viper37287",
+  "email": "stanislav.makarov@hotmail.com",
+  "name": "Станислав",
+  "lastname": "Макаров",
+  "phone": "+79786112499",
+  "day": 21,
+  "month": 10,
+  "year": 1987,
+  "delayMinutes": 10,
+  "delaySeconds": 22
+}
+2026-10-15 17:41:26.417Z, ERROR: Error while vote with index: 37 error: Форма не найдена 
+  User: {
+  "login": "tamara_kuzmina",
+  "password": "willow2023",
+  "email": "tamara.kuzmina@mail.ru",
+  "name": "Тамара",
+  "lastname": "Кузьмина",
+  "phone": "+79787223610",
+  "day": 4,
+  "month": 6,
+  "year": 1985,
+  "delayMinutes": 13,
+  "delaySeconds": 8
+}
+2026-10-15 17:41:44.479Z, ERROR: Error while vote with index: 38 error: Форма не найдена 
+  User: {
+  "login": "fedor_ivanov48397",
+  "password": "buffalo48397",
+  "email": "fedor.ivanov@gmail.com",
+  "name": "Фёдор",
+  "lastname": "Иванов",
+  "phone": "+79788334721",
+  "day": 4,
+  "month": 8,
+  "year": 1999,
+  "delayMinutes": 11,
+  "delaySeconds": 8
+}
+2026-10-15 17:42:02.749Z, ERROR: Error while vote with index: 39 error: Форма не найдена 
+  User: {
+  "login": "sofia_savina",
+  "password": "jasmine88",
+  "email": "sofia.savina@bk.ru",
+  "name": "София",
+  "lastname": "Савина",
+  "phone": "+79789445832",
+  "day": 10,
+  "month": 6,
+  "year": 1988,
+  "delayMinutes": 13,
+  "delaySeconds": 3
+}
+2026-10-15 17:42:21.016Z, ERROR: Error while vote with index: 40 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "ilya_kuzmin27388",
+  "password": "spider27388",
+  "email": "ilya.kuzmin@outlook.com",
+  "name": "Илья",
+  "lastname": "Кузьмин",
+  "phone": "+79780556943",
+  "day": 4,
+  "month": 11,
+  "year": 2002,
+  "delayMinutes": 6,
+  "delaySeconds": 45
+}
+2026-10-15 17:43:32.936Z, ERROR: Error while vote with index: 41 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "marina_pimenova",
+  "password": "lavender2024#",
+  "email": "marina.pimenova@list.ru",
+  "name": "Марина",
+  "lastname": "Пименова",
+  "phone": "+79781667054",
+  "day": 9,
+  "month": 6,
+  "year": 1997,
+  "delayMinutes": 14,
+  "delaySeconds": 46
+}
+2026-10-15 17:43:57.057Z, ERROR: Error while vote with index: 42 error: Опция с data-option-array-index="3" не найдена после 20 попыток скролла 
+  User: {
+  "login": "boris_kalinin58398",
+  "password": "python58398",
+  "email": "boris.kalinin@proton.me",
+  "name": "Борис",
+  "lastname": "Калинин",
+  "phone": "+79782778165",
+  "day": 22,
+  "month": 8,
+  "year": 1998,
+  "delayMinutes": 14,
+  "delaySeconds": 48
+}
+2026-10-15 17:44:15.212Z, ERROR: Error while vote with index: 43 error: Форма не найдена 
+  User: {
+  "login": "vera_sokolovskaya",
+  "password": "cedar99",
+  "email": "vera.sokolovskaya@icloud.com",
+  "name": "Вера",
+  "lastname": "Соколовская",
+  "phone": "+79783889276",
+  "day": 1,
+  "month": 1,
+  "year": 1988,
+  "delayMinutes": 12,
+  "delaySeconds": 49
+}
+2026-10-15 17:44:33.994Z, ERROR: Error while vote with index: 44 error: Форма не найдена 
+  User: {
+  "login": "lev_novoselov37289",
+  "password": "otter37289",
+  "email": "lev.novoselov@yahoo.com",
+  "name": "Лев",
+  "lastname": "Новосёлов",
+  "phone": "+79784990387",
+  "day": 13,
+  "month": 1,
+  "year": 1994,
+  "delayMinutes": 11,
+  "delaySeconds": 26
+}
+2026-10-15 17:44:52.072Z, ERROR: Error while vote with index: 45 error: Форма не найдена 
+  User: {
+  "login": "oksana_cherepanova",
+  "password": "heather2023",
+  "email": "oksana.cherepanova@inbox.ru",
+  "name": "Оксана",
+  "lastname": "Черепанова",
+  "phone": "+79786101498",
+  "day": 11,
+  "month": 8,
+  "year": 1986,
+  "delayMinutes": 15,
+  "delaySeconds": 23
+}
+2026-10-15 17:45:11.001Z, ERROR: Error while vote with index: 46 error: Форма не найдена 
+  User: {
+  "login": "yaroslav_belyaev48399",
+  "password": "penguin48399",
+  "email": "yaroslav.belyaev@zoho.com",
+  "name": "Ярослав",
+  "lastname": "Беляев",
+  "phone": "+79787212609",
+  "day": 14,
+  "month": 8,
+  "year": 1991,
+  "delayMinutes": 12,
+  "delaySeconds": 30
+}
+2026-10-15 17:45:28.605Z, ERROR: Error while vote with index: 47 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "inna_golubeva",
+  "password": "lilac88",
+  "email": "inna.golubeva@rambler.ru",
+  "name": "Инна",
+  "lastname": "Голубева",
+  "phone": "+79788345678",
+  "day": 1,
+  "month": 3,
+  "year": 1992,
+  "delayMinutes": 14,
+  "delaySeconds": 51
+}
+2026-10-15 17:45:44.059Z, ERROR: Error while vote with index: 48 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "daniil_shishkin27390",
+  "password": "shark27390",
+  "email": "daniil.shishkin@mail.ru",
+  "name": "Даниил",
+  "lastname": "Шишкин",
+  "phone": "+79789456789",
+  "day": 17,
+  "month": 5,
+  "year": 1996,
+  "delayMinutes": 9,
+  "delaySeconds": 52
+}
+2026-10-15 17:45:50.928Z, ERROR: Error while vote with index: 49 error: Форма не найдена 
+  User: {
+  "login": "margarita_voronina",
+  "password": "orchid2024!",
+  "email": "margarita.voronina@bk.ru",
+  "name": "Маргарита",
+  "lastname": "Воронина",
+  "phone": "+79780567890",
+  "day": 7,
+  "month": 4,
+  "year": 2002,
+  "delayMinutes": 14,
+  "delaySeconds": 24
+}
+2026-10-15 17:47:02.673Z, ERROR: Error while vote with index: 50 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "kirill_sokolov48401",
+  "password": "eagle48401",
+  "email": "kirill.sokolov@gmail.com",
+  "name": "Кирилл",
+  "lastname": "Соколов",
+  "phone": "+79781678012",
+  "day": 12,
+  "month": 11,
+  "year": 2002,
+  "delayMinutes": 7,
+  "delaySeconds": 14
+}
+2026-10-15 17:47:20.976Z, ERROR: Error while vote with index: 51 error: Форма не найдена 
+  User: {
+  "login": "polina_leontyeva",
+  "password": "rose99",
+  "email": "polina.leontyeva@list.ru",
+  "name": "Полина",
+  "lastname": "Леонтьева",
+  "phone": "+79782789123",
+  "day": 16,
+  "month": 6,
+  "year": 1994,
+  "delayMinutes": 14,
+  "delaySeconds": 58
+}
+2026-10-15 17:47:39.603Z, ERROR: Error while vote with index: 52 error: Форма не найдена 
+  User: {
+  "login": "egor_kuznetsov37391",
+  "password": "lion37391",
+  "email": "egor.kuznetsov@outlook.com",
+  "name": "Егор",
+  "lastname": "Кузнецов",
+  "phone": "+79783890234",
+  "day": 1,
+  "month": 12,
+  "year": 1994,
+  "delayMinutes": 10,
+  "delaySeconds": 53
+}
+2026-10-15 17:48:52.141Z, ERROR: Error while vote with index: 53 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anastasia_morozova",
+  "password": "winter2023#",
+  "email": "anastasia.morozova@icloud.com",
+  "name": "Анастасия",
+  "lastname": "Морозова",
+  "phone": "+79784901345",
+  "day": 23,
+  "month": 6,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 15
+}
+2026-10-15 17:49:10.769Z, ERROR: Error while vote with index: 54 error: Форма не найдена 
+  User: {
+  "login": "vladislav_petrov58402",
+  "password": "falcon58402",
+  "email": "vladislav.petrov@yahoo.com",
+  "name": "Владислав",
+  "lastname": "Петров",
+  "phone": "+79785012456",
+  "day": 25,
+  "month": 9,
+  "year": 1995,
+  "delayMinutes": 15,
+  "delaySeconds": 43
+}
+2026-10-15 17:49:32.892Z, ERROR: Error while vote with index: 55 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "alina_smirnova",
+  "password": "jasmine88",
+  "email": "alina.smirnova@inbox.ru",
+  "name": "Алина",
+  "lastname": "Смирнова",
+  "phone": "+79786123567",
+  "day": 21,
+  "month": 11,
+  "year": 2002,
+  "delayMinutes": 15,
+  "delaySeconds": 16
+}
+2026-10-15 17:50:00.625Z, ERROR: Error while vote with index: 56 error: Форма не найдена 
+  User: {
+  "login": "timur_volkov27392",
+  "password": "thunder27392",
+  "email": "timur.volkov@zoho.com",
+  "name": "Тимур",
+  "lastname": "Волков",
+  "phone": "+79787234678",
+  "day": 13,
+  "month": 4,
+  "year": 1983,
+  "delayMinutes": 10,
+  "delaySeconds": 51
+}
+2026-10-15 17:50:19.134Z, ERROR: Error while vote with index: 57 error: Форма не найдена 
+  User: {
+  "login": "evgeny_novikov48403",
+  "password": "panther48403",
+  "email": "evgeny.novikov@proton.me",
+  "name": "Евгений",
+  "lastname": "Новиков",
+  "phone": "+79788345789",
+  "day": 5,
+  "month": 8,
+  "year": 2004,
+  "delayMinutes": 15,
+  "delaySeconds": 28
+}
+2026-10-15 17:50:37.561Z, ERROR: Error while vote with index: 58 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "sofya_fomina",
+  "password": "daisy2024",
+  "email": "sofya.fomina@rambler.ru",
+  "name": "Софья",
+  "lastname": "Фомина",
+  "phone": "+79789456800",
+  "day": 20,
+  "month": 8,
+  "year": 2001,
+  "delayMinutes": 13,
+  "delaySeconds": 31
+}
+2026-10-15 17:50:55.560Z, ERROR: Error while vote with index: 59 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "artem_sidorov37393",
+  "password": "viper37393",
+  "email": "artem.sidorov@hotmail.com",
+  "name": "Артём",
+  "lastname": "Сидоров",
+  "phone": "+79780567911",
+  "day": 20,
+  "month": 10,
+  "year": 1990,
+  "delayMinutes": 5,
+  "delaySeconds": 48
+}
+2026-10-15 17:51:13.603Z, ERROR: Error while vote with index: 60 error: Форма не найдена 
+  User: {
+  "login": "kira_belova",
+  "password": "maple99",
+  "email": "kira.belova@mail.ru",
+  "name": "Кира",
+  "lastname": "Белова",
+  "phone": "+79781679022",
+  "day": 6,
+  "month": 10,
+  "year": 1986,
+  "delayMinutes": 6,
+  "delaySeconds": 22
+}
+2026-10-15 17:51:31.127Z, ERROR: Error while vote with index: 61 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "maksim_ermakov48404",
+  "password": "python48404",
+  "email": "maksim.ermakov@gmail.com",
+  "name": "Максим",
+  "lastname": "Ермаков",
+  "phone": "+79782790133",
+  "day": 6,
+  "month": 2,
+  "year": 1991,
+  "delayMinutes": 12,
+  "delaySeconds": 18
+}
+2026-10-15 17:51:48.512Z, ERROR: Error while vote with index: 62 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "ira_kozlova",
+  "password": "cedar88",
+  "email": "ira.kozlova@bk.ru",
+  "name": "Ира",
+  "lastname": "Козлова",
+  "phone": "+79783901244",
+  "day": 4,
+  "month": 8,
+  "year": 1985,
+  "delayMinutes": 11,
+  "delaySeconds": 41
+}
+2026-10-15 17:52:05.327Z, ERROR: Error while vote with index: 63 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "roman_grigoryev27394",
+  "password": "otter27394",
+  "email": "roman.grigoryev@outlook.com",
+  "name": "Роман",
+  "lastname": "Григорьев",
+  "phone": "+79785012355",
+  "day": 3,
+  "month": 10,
+  "year": 1991,
+  "delayMinutes": 9,
+  "delaySeconds": 58
+}
+2026-10-15 17:52:23.989Z, ERROR: Error while vote with index: 64 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "natalya_solovyova",
+  "password": "willow2023",
+  "email": "natalya.solovyova@list.ru",
+  "name": "Наталья",
+  "lastname": "Соловьёва",
+  "phone": "+79786123466",
+  "day": 25,
+  "month": 8,
+  "year": 1997,
+  "delayMinutes": 11,
+  "delaySeconds": 58
+}
+2026-10-15 17:52:42.799Z, ERROR: Error while vote with index: 65 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "ilya_chernov37395",
+  "password": "penguin37395",
+  "email": "ilya.chernov@proton.me",
+  "name": "Илья",
+  "lastname": "Чернов",
+  "phone": "+79787234577",
+  "day": 15,
+  "month": 12,
+  "year": 2002,
+  "delayMinutes": 14,
+  "delaySeconds": 13
+}
+2026-10-15 17:53:08.611Z, ERROR: Error while vote with index: 66 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "olga_stepanova",
+  "password": "heather88",
+  "email": "olga.stepanova@icloud.com",
+  "name": "Ольга",
+  "lastname": "Степанова",
+  "phone": "+79788345688",
+  "day": 10,
+  "month": 9,
+  "year": 1991,
+  "delayMinutes": 10,
+  "delaySeconds": 16
+}
+2026-10-15 17:53:27.871Z, ERROR: Error while vote with index: 67 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "andrey_borisov48405",
+  "password": "knight48405",
+  "email": "andrey.borisov@yahoo.com",
+  "name": "Андрей",
+  "lastname": "Борисов",
+  "phone": "+79789456799",
+  "day": 28,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-15 17:53:47.354Z, ERROR: Error while vote with index: 68 error: Форма не найдена 
+  User: {
+  "login": "svetlana_medvedeva",
+  "password": "autumn99",
+  "email": "svetlana.medvedeva@inbox.ru",
+  "name": "Светлана",
+  "lastname": "Медведева",
+  "phone": "+79780567810",
+  "day": 8,
+  "month": 10,
+  "year": 1993,
+  "delayMinutes": 8,
+  "delaySeconds": 36
+}
+2026-10-15 17:54:05.951Z, ERROR: Error while vote with index: 69 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "mikhail_kalinin27396",
+  "password": "buffalo27396",
+  "email": "mikhail.kalinin@zoho.com",
+  "name": "Михаил",
+  "lastname": "Калинин",
+  "phone": "+79781678921",
+  "day": 10,
+  "month": 2,
+  "year": 1985,
+  "delayMinutes": 15,
+  "delaySeconds": 23
+}
+2026-10-15 17:54:24.657Z, ERROR: Error while vote with index: 70 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "lyudmila_ivanovna",
+  "password": "cloud88",
+  "email": "lyudmila.ivanovna@rambler.ru",
+  "name": "Людмила",
+  "lastname": "Иванова",
+  "phone": "+79782790032",
+  "day": 10,
+  "month": 11,
+  "year": 2000,
+  "delayMinutes": 8,
+  "delaySeconds": 44
+}
+2026-10-15 17:54:43.853Z, ERROR: Error while vote with index: 71 error: Форма не найдена 
+  User: {
+  "login": "anton_makarov37397",
+  "password": "rhino37397",
+  "email": "anton.makarov@hotmail.com",
+  "name": "Антон",
+  "lastname": "Макаров",
+  "phone": "+79783901143",
+  "day": 10,
+  "month": 1,
+  "year": 1998,
+  "delayMinutes": 11,
+  "delaySeconds": 41
+}
+2026-10-15 17:55:01.248Z, ERROR: Error while vote with index: 72 error: Форма не найдена 
+  User: {
+  "login": "valentina_zotova",
+  "password": "pearl88",
+  "email": "valentina.zotova@mail.ru",
+  "name": "Валентина",
+  "lastname": "Зотова",
+  "phone": "+79785012254",
+  "day": 17,
+  "month": 3,
+  "year": 2002,
+  "delayMinutes": 12,
+  "delaySeconds": 57
+}
+2026-10-15 17:55:20.540Z, ERROR: Error while vote with index: 73 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "timofey_yakovlev48406",
+  "password": "cheetah48406",
+  "email": "timofey.yakovlev@gmail.com",
+  "name": "Тимофей",
+  "lastname": "Яковлев",
+  "phone": "+79786123365",
+  "day": 4,
+  "month": 3,
+  "year": 2000,
+  "delayMinutes": 12,
+  "delaySeconds": 11
+}
+2026-10-15 17:56:32.308Z, ERROR: Error while vote with index: 74 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "galina_romanova",
+  "password": "lily99",
+  "email": "galina.romanova@bk.ru",
+  "name": "Галина",
+  "lastname": "Романова",
+  "phone": "+79787234476",
+  "day": 15,
+  "month": 1,
+  "year": 1985,
+  "delayMinutes": 8,
+  "delaySeconds": 52
+}
+2026-10-15 17:56:51.031Z, ERROR: Error while vote with index: 75 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "stanislav_kuzmin27398",
+  "password": "spider27398",
+  "email": "stanislav.kuzmin@outlook.com",
+  "name": "Станислав",
+  "lastname": "Кузьмин",
+  "phone": "+79788345587",
+  "day": 11,
+  "month": 4,
+  "year": 2000,
+  "delayMinutes": 8,
+  "delaySeconds": 33
+}
+2026-10-15 17:57:09.155Z, ERROR: Error while vote with index: 76 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "tamara_pimenova",
+  "password": "lavender88",
+  "email": "tamara.pimenova@list.ru",
+  "name": "Тамара",
+  "lastname": "Пименова",
+  "phone": "+79789456698",
+  "day": 19,
+  "month": 8,
+  "year": 1990,
+  "delayMinutes": 6,
+  "delaySeconds": 42
+}
+2026-10-15 17:57:27.797Z, ERROR: Error while vote with index: 77 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "fedor_novoselov37399",
+  "password": "bear37399",
+  "email": "fedor.novoselov@proton.me",
+  "name": "Фёдор",
+  "lastname": "Новосёлов",
+  "phone": "+79780567809",
+  "day": 4,
+  "month": 4,
+  "year": 1982,
+  "delayMinutes": 15,
+  "delaySeconds": 46
+}
+2026-10-15 17:57:45.076Z, ERROR: Error while vote with index: 78 error: Форма не найдена 
+  User: {
+  "login": "sofia_cherepanova",
+  "password": "jasmine99",
+  "email": "sofia.cherepanova@icloud.com",
+  "name": "София",
+  "lastname": "Черепанова",
+  "phone": "+79781678920",
+  "day": 11,
+  "month": 11,
+  "year": 1994,
+  "delayMinutes": 13,
+  "delaySeconds": 8
+}
+2026-10-15 17:58:02.219Z, ERROR: Error while vote with index: 79 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "yaroslav_belyaev48407",
+  "password": "penguin48407",
+  "email": "yaroslav.belyaev@yahoo.com",
+  "name": "Ярослав",
+  "lastname": "Беляев",
+  "phone": "+79782790031",
+  "day": 1,
+  "month": 6,
+  "year": 2002,
+  "delayMinutes": 7,
+  "delaySeconds": 59
+}
+2026-10-15 17:58:18.389Z, ERROR: Error while vote with index: 80 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "inna_golubeva2",
+  "password": "lilac99",
+  "email": "inna.golubeva2@rambler.ru",
+  "name": "Инна",
+  "lastname": "Голубева",
+  "phone": "+79783901142",
+  "day": 10,
+  "month": 3,
+  "year": 1984,
+  "delayMinutes": 13,
+  "delaySeconds": 19
+}
+2026-10-15 17:58:36.152Z, ERROR: Error while vote with index: 81 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "daniil_shishkin2",
+  "password": "shark99",
+  "email": "daniil.shishkin2@mail.ru",
+  "name": "Даниил",
+  "lastname": "Шишкин",
+  "phone": "+79785012253",
+  "day": 22,
+  "month": 7,
+  "year": 2002,
+  "delayMinutes": 10,
+  "delaySeconds": 27
+}
+2026-10-15 17:58:53.390Z, ERROR: Error while vote with index: 82 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "margarita_voronina2",
+  "password": "orchid99",
+  "email": "margarita.voronina2@bk.ru",
+  "name": "Маргарита",
+  "lastname": "Воронина",
+  "phone": "+79786123364",
+  "day": 7,
+  "month": 7,
+  "year": 1990,
+  "delayMinutes": 13,
+  "delaySeconds": 49
+}
+2026-10-15 17:59:10.514Z, ERROR: Error while vote with index: 83 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "kirill_sokolov2",
+  "password": "eagle99",
+  "email": "kirill.sokolov2@gmail.com",
+  "name": "Кирилл",
+  "lastname": "Соколов",
+  "phone": "+79787234475",
+  "day": 6,
+  "month": 7,
+  "year": 1986,
+  "delayMinutes": 8,
+  "delaySeconds": 25
+}
+2026-10-15 17:59:27.783Z, ERROR: Error while vote with index: 84 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "polina_leontyeva2",
+  "password": "rose99",
+  "email": "polina.leontyeva2@list.ru",
+  "name": "Полина",
+  "lastname": "Леонтьева",
+  "phone": "+79788345586",
+  "day": 3,
+  "month": 8,
+  "year": 1996,
+  "delayMinutes": 8,
+  "delaySeconds": 54
+}
+2026-10-16 20:24:38.938Z, ERROR: Error while vote with index: 85 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "egor_kuznetsov2",
+  "password": "lion99",
+  "email": "egor.kuznetsov2@outlook.com",
+  "name": "Егор",
+  "lastname": "Кузнецов",
+  "phone": "+79789456697",
+  "day": 12,
+  "month": 5,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-16 20:52:46.536Z, ERROR: Error while vote with index: 87 error: Protocol error (DOM.describeNode): Cannot find context with specified id 
+  User: {
+  "login": "vladislav_petrov2",
+  "password": "falcon99",
+  "email": "vladislav.petrov2@yahoo.com",
+  "name": "Владислав",
+  "lastname": "Петров",
+  "phone": "+79781678919",
+  "day": 6,
+  "month": 1,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 25
+}
+2026-10-16 21:28:34.496Z, ERROR: Error while vote with index: 0 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "alexey_volkov38291",
+  "password": "volkovAlex789",
+  "email": "a.volkov38291@yandex.ru",
+  "name": "Алексей",
+  "lastname": "Волков",
+  "phone": "+79781102345",
+  "day": 6,
+  "month": 12,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-16 21:58:17.951Z, ERROR: Error while vote with index: 6 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "igor_petrov83627",
+  "password": "petrovIgor888",
+  "email": "i.petrov83627@rambler.ru",
+  "name": "Игорь",
+  "lastname": "Петров",
+  "phone": "+79781168901",
+  "day": 24,
+  "month": 7,
+  "year": 1991,
+  "delayMinutes": 5,
+  "delaySeconds": 25
+}
+2026-10-16 22:15:33.573Z, ERROR: Error while vote with index: 10 error: Dropdown не найден 
+  User: {
+  "login": "pavel_sidorov27061",
+  "password": "sidorovPave555",
+  "email": "p.sidorov27061@hotmail.com",
+  "name": "Павел",
+  "lastname": "Сидоров",
+  "phone": "+79781202345",
+  "day": 16,
+  "month": 6,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-16 22:46:18.826Z, ERROR: Error while vote with index: 16 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "roman_fokin83727",
+  "password": "fokinRoma222",
+  "email": "r.fokin83727@list.ru",
+  "name": "Роман",
+  "lastname": "Фокин",
+  "phone": "+79781268901",
+  "day": 26,
+  "month": 8,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-16 23:05:17.053Z, ERROR: Error while vote with index: 20 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "konstantin_orlov28161",
+  "password": "orlovKonst666",
+  "email": "k.orlov28161@zoho.com",
+  "name": "Константин",
+  "lastname": "Орлов",
+  "phone": "+79781302345",
+  "day": 15,
+  "month": 4,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 57
+}
+2026-10-16 23:58:24.455Z, ERROR: Error while vote with index: 30 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "timur_smirnov29161",
+  "password": "smirnovTimur777",
+  "email": "t.smirnov29161@rambler.ru",
+  "name": "Тимур",
+  "lastname": "Смирнов",
+  "phone": "+79781402345",
+  "day": 28,
+  "month": 8,
+  "year": 1989,
+  "delayMinutes": 5,
+  "delaySeconds": 9
+}
+2026-10-17 00:40:45.116Z, ERROR: Error while vote with index: 38 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anton_vasiliev07949",
+  "password": "vasilievAnt666",
+  "email": "a.vasiliev07949@mail.ru",
+  "name": "Антон",
+  "lastname": "Васильев",
+  "phone": "+79781480123",
+  "day": 26,
+  "month": 12,
+  "year": 1996,
+  "delayMinutes": 5,
+  "delaySeconds": 50
+}
+2026-10-17 00:47:12.383Z, ERROR: Error while vote with index: 40 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "oleg_nikitin20161",
+  "password": "nikitinOleg888",
+  "email": "o.nikitin20161@list.ru",
+  "name": "Олег",
+  "lastname": "Никитин",
+  "phone": "+79781502345",
+  "day": 2,
+  "month": 5,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-17 01:06:15.787Z, ERROR: Error while vote with index: 44 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "arkadiy_chernov54605",
+  "password": "chernovArk882",
+  "email": "a.chernov54605@yandex.ru",
+  "name": "Аркадий",
+  "lastname": "Чернов",
+  "phone": "+79781542345",
+  "day": 23,
+  "month": 6,
+  "year": 2004,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-17 01:59:58.544Z, ERROR: Error while vote with index: 54 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "igor_chernov54605",
+  "password": "chernovIgor338",
+  "email": "i.chernov54605@icloud.com",
+  "name": "Игорь",
+  "lastname": "Чернов",
+  "phone": "+79781642345",
+  "day": 20,
+  "month": 1,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 60
+}
+2026-10-17 02:07:25.498Z, ERROR: Error while vote with index: 56 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "stanislav_sidorov76827",
+  "password": "sidorovStan550",
+  "email": "s.sidorov76827@outlook.com",
+  "name": "Станислав",
+  "lastname": "Сидоров",
+  "phone": "+79781664567",
+  "day": 12,
+  "month": 2,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 56
+}
+2026-10-17 02:47:33.891Z, ERROR: Error while vote with index: 64 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "andrey_chernov54605",
+  "password": "chernovAndr448",
+  "email": "a.chernov54605@yahoo.com",
+  "name": "Андрей",
+  "lastname": "Чернов",
+  "phone": "+79781742345",
+  "day": 6,
+  "month": 11,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 44
+}
+2026-10-17 03:11:21.278Z, ERROR: Error while vote with index: 69 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "oksana_egorova09150",
+  "password": "egorovaOksa993",
+  "email": "o.egorova09150@mail.ru",
+  "name": "Оксана",
+  "lastname": "Егорова",
+  "phone": "+79781797890",
+  "day": 25,
+  "month": 10,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 34
+}
+2026-10-17 03:36:24.353Z, ERROR: Error while vote with index: 74 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "roman_chernov54605",
+  "password": "chernovRoma558",
+  "email": "r.chernov54605@proton.me",
+  "name": "Роман",
+  "lastname": "Чернов",
+  "phone": "+79781842345",
+  "day": 18,
+  "month": 12,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 14
+}
+2026-10-17 04:30:46.498Z, ERROR: Error while vote with index: 84 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "evgeny_chernov54605",
+  "password": "chernovEvgen558",
+  "email": "e.chernov54605@inbox.ru",
+  "name": "Евгений",
+  "lastname": "Чернов",
+  "phone": "+79781942345",
+  "day": 20,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 60
+}
+2026-10-17 10:57:52.681Z, ERROR: Error while vote with index: 0 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "alexey_volkov38291",
+  "password": "volkovAlex123",
+  "email": "a.volkov38291@yandex.ru",
+  "name": "Алексей",
+  "lastname": "Волков",
+  "phone": "+79781100001",
+  "day": 20,
+  "month": 11,
+  "year": 1997,
+  "delayMinutes": 15,
+  "delaySeconds": 50
+}
+2026-10-17 10:59:05.391Z, ERROR: Error while vote with index: 1 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "maria_sokolova88372",
+  "password": "sokolovaM987",
+  "email": "maria.sokolova@mail.ru",
+  "name": "Мария",
+  "lastname": "Соколова",
+  "phone": "+79781100002",
+  "day": 27,
+  "month": 4,
+  "year": 1990,
+  "delayMinutes": 12,
+  "delaySeconds": 2
+}
+2026-10-17 11:02:55.896Z, ERROR: Error while vote with index: 3 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "elena_ivanovna56174",
+  "password": "ivanovnaE789",
+  "email": "elena.ivanovna@list.ru",
+  "name": "Елена",
+  "lastname": "Иванова",
+  "phone": "+79781100004",
+  "day": 17,
+  "month": 5,
+  "year": 1995,
+  "delayMinutes": 14,
+  "delaySeconds": 46
+}
+2026-10-17 11:03:41.193Z, ERROR: Error while vote with index: 4 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "sergey_smirnov25065",
+  "password": "smirnovS101",
+  "email": "s.smirnov25065@inbox.ru",
+  "name": "Сергей",
+  "lastname": "Смирнов",
+  "phone": "+79781100005",
+  "day": 20,
+  "month": 1,
+  "year": 1997,
+  "delayMinutes": 15,
+  "delaySeconds": 22
+}
+2026-10-17 11:04:27.401Z, ERROR: Error while vote with index: 5 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "natalia_kuznetsova34956",
+  "password": "kuznetsovaN202",
+  "email": "natalia.kuznetsova@rambler.ru",
+  "name": "Наталия",
+  "lastname": "Кузнецова",
+  "phone": "+79781100006",
+  "day": 25,
+  "month": 2,
+  "year": 2002,
+  "delayMinutes": 7,
+  "delaySeconds": 52
+}
+2026-10-17 11:04:46.049Z, ERROR: Error while vote with index: 6 error: Опция с data-option-array-index="3" не найдена после 20 попыток скролла 
+  User: {
+  "login": "igor_popov13847",
+  "password": "popovI303",
+  "email": "i.popov13847@proton.me",
+  "name": "Игорь",
+  "lastname": "Попов",
+  "phone": "+79781100007",
+  "day": 8,
+  "month": 12,
+  "year": 1992,
+  "delayMinutes": 8,
+  "delaySeconds": 16
+}
+2026-10-17 11:05:31.849Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 13,
+  "month": 9,
+  "year": 1995,
+  "delayMinutes": 11,
+  "delaySeconds": 42
+}
+2026-10-17 11:06:28.259Z, ERROR: Error while vote with index: 8 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "vladimir_novikov11629",
+  "password": "novikovV505",
+  "email": "v.novikov11629@yahoo.com",
+  "name": "Владимир",
+  "lastname": "Новиков",
+  "phone": "+79781100009",
+  "day": 26,
+  "month": 1,
+  "year": 1984,
+  "delayMinutes": 10,
+  "delaySeconds": 28
+}
+2026-10-17 11:12:37.932Z, ERROR: Error while vote with index: 10 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "mikhail_belov99411",
+  "password": "belovM707",
+  "email": "m.belov99411@outlook.com",
+  "name": "Михаил",
+  "lastname": "Белов",
+  "phone": "+79781100011",
+  "day": 20,
+  "month": 5,
+  "year": 1990,
+  "delayMinutes": 10,
+  "delaySeconds": 23
+}
+2026-10-17 11:13:24.519Z, ERROR: Error while vote with index: 11 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "tatyana_orlova88302",
+  "password": "orlovaT808",
+  "email": "t.orlova88302@icloud.com",
+  "name": "Татьяна",
+  "lastname": "Орлова",
+  "phone": "+79781100012",
+  "day": 2,
+  "month": 8,
+  "year": 2000,
+  "delayMinutes": 11,
+  "delaySeconds": 40
+}
+2026-10-17 11:14:10.990Z, ERROR: Error while vote with index: 12 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "andrey_sidorov77193",
+  "password": "sidorovA909",
+  "email": "andrey.sidorov@live.com",
+  "name": "Андрей",
+  "lastname": "Сидоров",
+  "phone": "+79781100013",
+  "day": 11,
+  "month": 5,
+  "year": 1982,
+  "delayMinutes": 9,
+  "delaySeconds": 49
+}
+2026-10-17 11:14:57.061Z, ERROR: Error while vote with index: 13 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "svetlana_kozlova66084",
+  "password": "kozlovaS111",
+  "email": "s.kozlova66084@gmail.com",
+  "name": "Светлана",
+  "lastname": "Козлова",
+  "phone": "+79781100014",
+  "day": 12,
+  "month": 8,
+  "year": 2004,
+  "delayMinutes": 7,
+  "delaySeconds": 13
+}
+2026-10-17 11:17:01.493Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 14,
+  "month": 6,
+  "year": 1991,
+  "delayMinutes": 7,
+  "delaySeconds": 12
+}
+2026-10-17 11:27:07.599Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 20,
+  "month": 10,
+  "year": 2003,
+  "delayMinutes": 12,
+  "delaySeconds": 6
+}
+2026-10-17 11:29:19.856Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 8,
+  "month": 1,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 54
+}
+2026-10-17 11:34:43.751Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 13,
+  "month": 4,
+  "year": 1983,
+  "delayMinutes": 13,
+  "delaySeconds": 35
+}
+2026-10-17 11:37:09.237Z, ERROR: Error while vote with index: 7 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anna_morozova22738",
+  "password": "morozovaA404",
+  "email": "anna.morozova@zoho.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100008",
+  "day": 10,
+  "month": 3,
+  "year": 1997,
+  "delayMinutes": 8,
+  "delaySeconds": 4
+}
+2026-10-17 13:02:48.775Z, ERROR: Error while vote with index: 15 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "irina_egorova43866",
+  "password": "egorovaI333",
+  "email": "irina.egorova@bk.ru",
+  "name": "Ирина",
+  "lastname": "Егорова",
+  "phone": "+79781100016",
+  "day": 27,
+  "month": 10,
+  "year": 1984,
+  "delayMinutes": 8,
+  "delaySeconds": 55
+}
+2026-10-17 13:36:13.582Z, ERROR: Error while vote with index: 19 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "yulia_medvedeva99430",
+  "password": "medvedevaY777",
+  "email": "y.medvedeva99430@proton.me",
+  "name": "Юлия",
+  "lastname": "Медведева",
+  "phone": "+79781100020",
+  "day": 11,
+  "month": 8,
+  "year": 2001,
+  "delayMinutes": 6,
+  "delaySeconds": 60
+}
+2026-10-17 14:10:34.492Z, ERROR: Error while vote with index: 23 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "marina_kuznetsova54994",
+  "password": "kuznetsovaM112",
+  "email": "marina.kuznetsova@outlook.com",
+  "name": "Марина",
+  "lastname": "Кузнецова",
+  "phone": "+79781100024",
+  "day": 5,
+  "month": 9,
+  "year": 2002,
+  "delayMinutes": 14,
+  "delaySeconds": 10
+}
+2026-10-17 14:16:36.270Z, ERROR: Error while vote with index: 25 error: Опция с data-option-array-index="4" не найдена после 20 попыток скролла 
+  User: {
+  "login": "kseniya_popova32776",
+  "password": "popovaK134",
+  "email": "kseniya.popova@live.com",
+  "name": "Ксения",
+  "lastname": "Попова",
+  "phone": "+79781100026",
+  "day": 23,
+  "month": 11,
+  "year": 1983,
+  "delayMinutes": 14,
+  "delaySeconds": 54
+}
+2026-10-17 14:17:18.611Z, ERROR: Error while vote with index: 26 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "artem_smirnov21667",
+  "password": "smirnovA145",
+  "email": "a.smirnov21667@gmail.com",
+  "name": "Артём",
+  "lastname": "Смирнов",
+  "phone": "+79781100027",
+  "day": 15,
+  "month": 7,
+  "year": 1991,
+  "delayMinutes": 7,
+  "delaySeconds": 20
+}
+2026-10-17 14:44:02.333Z, ERROR: Error while vote with index: 29 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "polina_kozlova88340",
+  "password": "kozlovaP178",
+  "email": "polina.kozlova@list.ru",
+  "name": "Полина",
+  "lastname": "Козлова",
+  "phone": "+79781100030",
+  "day": 11,
+  "month": 3,
+  "year": 1986,
+  "delayMinutes": 14,
+  "delaySeconds": 40
+}
+2026-10-17 15:23:25.853Z, ERROR: Error while vote with index: 33 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anastasia_shishkina43904",
+  "password": "shishkinaA212",
+  "email": "anastasia.shishkina@zoho.com",
+  "name": "Анастасия",
+  "lastname": "Шишкина",
+  "phone": "+79781100034",
+  "day": 21,
+  "month": 2,
+  "year": 2001,
+  "delayMinutes": 9,
+  "delaySeconds": 26
+}
+2026-10-17 15:24:08.971Z, ERROR: Error while vote with index: 34 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "ilya_chernov32795",
+  "password": "chernovI223",
+  "email": "i.chernov32795@yahoo.com",
+  "name": "Илья",
+  "lastname": "Чернов",
+  "phone": "+79781100035",
+  "day": 20,
+  "month": 9,
+  "year": 1982,
+  "delayMinutes": 11,
+  "delaySeconds": 55
+}
+2026-10-17 15:25:24.558Z, ERROR: Error while vote with index: 35 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "ekaterina_medvedeva21686",
+  "password": "medvedevaE234",
+  "email": "ekaterina.medvedeva@hotmail.com",
+  "name": "Екатерина",
+  "lastname": "Медведева",
+  "phone": "+79781100036",
+  "day": 2,
+  "month": 8,
+  "year": 2004,
+  "delayMinutes": 15,
+  "delaySeconds": 2
+}
+2026-10-17 15:26:39.344Z, ERROR: Error while vote with index: 36 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "oleg_lebedev10577",
+  "password": "lebedevO245",
+  "email": "o.lebedev10577@outlook.com",
+  "name": "Олег",
+  "lastname": "Лебедев",
+  "phone": "+79781100037",
+  "day": 5,
+  "month": 8,
+  "year": 1995,
+  "delayMinutes": 13,
+  "delaySeconds": 46
+}
+2026-10-17 15:27:54.067Z, ERROR: Error while vote with index: 37 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "nadezhda_titova99468",
+  "password": "titovaN256",
+  "email": "n.titova99468@icloud.com",
+  "name": "Надежда",
+  "lastname": "Титова",
+  "phone": "+79781100038",
+  "day": 15,
+  "month": 8,
+  "year": 2003,
+  "delayMinutes": 6,
+  "delaySeconds": 14
+}
+2026-10-17 15:29:09.498Z, ERROR: Error while vote with index: 38 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "grigoriy_sokolov88359",
+  "password": "sokolovG267",
+  "email": "grigoriy.sokolov@live.com",
+  "name": "Григорий",
+  "lastname": "Соколов",
+  "phone": "+79781100039",
+  "day": 21,
+  "month": 2,
+  "year": 1986,
+  "delayMinutes": 14,
+  "delaySeconds": 10
+}
+2026-10-17 15:30:08.123Z, ERROR: Error while vote with index: 39 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "lyudmila_kuznetsova77250",
+  "password": "kuznetsovaL278",
+  "email": "l.kuznetsova77250@gmail.com",
+  "name": "Людмила",
+  "lastname": "Кузнецова",
+  "phone": "+79781100040",
+  "day": 28,
+  "month": 12,
+  "year": 1986,
+  "delayMinutes": 6,
+  "delaySeconds": 49
+}
+2026-10-17 15:30:50.890Z, ERROR: Error while vote with index: 40 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "boris_ivanov66141",
+  "password": "ivanovB289",
+  "email": "b.ivanov66141@mail.ru",
+  "name": "Борис",
+  "lastname": "Иванов",
+  "phone": "+79781100041",
+  "day": 4,
+  "month": 10,
+  "year": 1993,
+  "delayMinutes": 14,
+  "delaySeconds": 44
+}
+2026-10-17 15:32:06.107Z, ERROR: Error while vote with index: 41 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "inna_popova55032",
+  "password": "popovaI290",
+  "email": "inna.popova@bk.ru",
+  "name": "Инна",
+  "lastname": "Попова",
+  "phone": "+79781100042",
+  "day": 19,
+  "month": 4,
+  "year": 1988,
+  "delayMinutes": 11,
+  "delaySeconds": 9
+}
+2026-10-17 15:32:26.808Z, ERROR: Error while vote with index: 42 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "fedor_smirnov43923",
+  "password": "smirnovF301",
+  "email": "f.smirnov43923@list.ru",
+  "name": "Фёдор",
+  "lastname": "Смирнов",
+  "phone": "+79781100043",
+  "day": 2,
+  "month": 5,
+  "year": 2004,
+  "delayMinutes": 10,
+  "delaySeconds": 52
+}
+2026-10-17 15:46:17.168Z, ERROR: Error while vote with index: 44 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "valeriy_novikov21705",
+  "password": "novikovV323",
+  "email": "valeriy.novikov@rambler.ru",
+  "name": "Валерий",
+  "lastname": "Новиков",
+  "phone": "+79781100045",
+  "day": 2,
+  "month": 5,
+  "year": 1999,
+  "delayMinutes": 14,
+  "delaySeconds": 39
+}
+2026-10-17 15:46:59.821Z, ERROR: Error while vote with index: 45 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "arkadiy_vasiliev10596",
+  "password": "vasilievA334",
+  "email": "a.vasiliev10596@proton.me",
+  "name": "Аркадий",
+  "lastname": "Васильев",
+  "phone": "+79781100046",
+  "day": 15,
+  "month": 4,
+  "year": 1991,
+  "delayMinutes": 10,
+  "delaySeconds": 60
+}
+2026-10-17 15:47:42.875Z, ERROR: Error while vote with index: 46 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "darya_egorova99487",
+  "password": "egorovaD345",
+  "email": "darya.egorova@zoho.com",
+  "name": "Дарья",
+  "lastname": "Егорова",
+  "phone": "+79781100047",
+  "day": 17,
+  "month": 11,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 36
+}
+2026-10-17 15:48:25.832Z, ERROR: Error while vote with index: 47 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "maksim_frolov88378",
+  "password": "frolovM356",
+  "email": "m.frolov88378@yahoo.com",
+  "name": "Максим",
+  "lastname": "Фролов",
+  "phone": "+79781100048",
+  "day": 24,
+  "month": 1,
+  "year": 1999,
+  "delayMinutes": 6,
+  "delaySeconds": 58
+}
+2026-10-17 15:49:41.835Z, ERROR: Error while vote with index: 48 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "elena_shishkina77269",
+  "password": "shishkinaE367",
+  "email": "elena.shishkina@hotmail.com",
+  "name": "Елена",
+  "lastname": "Шишкина",
+  "phone": "+79781100049",
+  "day": 11,
+  "month": 5,
+  "year": 1991,
+  "delayMinutes": 13,
+  "delaySeconds": 43
+}
+2026-10-17 15:50:02.577Z, ERROR: Error while vote with index: 49 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "andrey_chernov66160",
+  "password": "chernovA378",
+  "email": "andrey.chernov@outlook.com",
+  "name": "Андрей",
+  "lastname": "Чернов",
+  "phone": "+79781100050",
+  "day": 7,
+  "month": 8,
+  "year": 1995,
+  "delayMinutes": 11,
+  "delaySeconds": 52
+}
+2026-10-17 15:50:45.452Z, ERROR: Error while vote with index: 50 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "irina_medvedeva55051",
+  "password": "medvedevaI389",
+  "email": "i.medvedeva55051@icloud.com",
+  "name": "Ирина",
+  "lastname": "Медведева",
+  "phone": "+79781100051",
+  "day": 22,
+  "month": 2,
+  "year": 1985,
+  "delayMinutes": 13,
+  "delaySeconds": 33
+}
+2026-10-17 15:51:27.998Z, ERROR: Error while vote with index: 51 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "sergey_lebedev43942",
+  "password": "lebedevS390",
+  "email": "sergey.lebedev@live.com",
+  "name": "Сергей",
+  "lastname": "Лебедев",
+  "phone": "+79781100052",
+  "day": 10,
+  "month": 8,
+  "year": 2000,
+  "delayMinutes": 6,
+  "delaySeconds": 44
+}
+2026-10-17 15:52:13.480Z, ERROR: Error while vote with index: 52 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "tatyana_titova32833",
+  "password": "titovaT401",
+  "email": "t.titova32833@gmail.com",
+  "name": "Татьяна",
+  "lastname": "Титова",
+  "phone": "+79781100053",
+  "day": 4,
+  "month": 9,
+  "year": 1988,
+  "delayMinutes": 10,
+  "delaySeconds": 49
+}
+2026-10-17 16:30:35.432Z, ERROR: Error while vote with index: 56 error: Опция с data-option-array-index="4" не найдена после 20 попыток скролла 
+  User: {
+  "login": "anna_popova88399",
+  "password": "popovaA445",
+  "email": "anna.popova@inbox.ru",
+  "name": "Анна",
+  "lastname": "Попова",
+  "phone": "+79781100057",
+  "day": 6,
+  "month": 2,
+  "year": 1987,
+  "delayMinutes": 11,
+  "delaySeconds": 14
+}
+2026-10-17 16:31:49.618Z, ERROR: Error while vote with index: 57 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "konstantin_smirnov77300",
+  "password": "smirnovK456",
+  "email": "k.smirnov77300@rambler.ru",
+  "name": "Константин",
+  "lastname": "Смирнов",
+  "phone": "+79781100058",
+  "day": 3,
+  "month": 4,
+  "year": 1999,
+  "delayMinutes": 8,
+  "delaySeconds": 37
+}
+2026-10-17 16:44:03.790Z, ERROR: Error while vote with index: 59 error: Опция с data-option-array-index="3" не найдена после 20 попыток скролла 
+  User: {
+  "login": "artem_novikov55082",
+  "password": "novikovA478",
+  "email": "artem.novikov@zoho.com",
+  "name": "Артём",
+  "lastname": "Новиков",
+  "phone": "+79781100060",
+  "day": 22,
+  "month": 4,
+  "year": 1995,
+  "delayMinutes": 15,
+  "delaySeconds": 54
+}
+2026-10-17 16:44:22.692Z, ERROR: Error while vote with index: 60 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "alina_kozlova43973",
+  "password": "kozlovaA489",
+  "email": "alina.kozlova@yahoo.com",
+  "name": "Алина",
+  "lastname": "Козлова",
+  "phone": "+79781100061",
+  "day": 11,
+  "month": 10,
+  "year": 2004,
+  "delayMinutes": 13,
+  "delaySeconds": 35
+}
+2026-10-17 17:17:03.641Z, ERROR: Error while vote with index: 64 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "sofia_shishkina99527",
+  "password": "shishkinaS523",
+  "email": "sofia.shishkina@live.com",
+  "name": "София",
+  "lastname": "Шишкина",
+  "phone": "+79781100065",
+  "day": 6,
+  "month": 7,
+  "year": 2002,
+  "delayMinutes": 10,
+  "delaySeconds": 5
+}
+2026-10-17 17:26:56.559Z, ERROR: Error while vote with index: 66 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "anastasia_medvedeva77329",
+  "password": "medvedevaA545",
+  "email": "anastasia.medvedeva@mail.ru",
+  "name": "Анастасия",
+  "lastname": "Медведева",
+  "phone": "+79781100067",
+  "day": 2,
+  "month": 11,
+  "year": 2001,
+  "delayMinutes": 5,
+  "delaySeconds": 41
+}
+2026-10-17 17:27:39.668Z, ERROR: Error while vote with index: 67 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "ilya_lebedev66220",
+  "password": "lebedevI556",
+  "email": "ilya.lebedev@bk.ru",
+  "name": "Илья",
+  "lastname": "Лебедев",
+  "phone": "+79781100068",
+  "day": 24,
+  "month": 3,
+  "year": 1990,
+  "delayMinutes": 12,
+  "delaySeconds": 29
+}
+2026-10-17 17:57:30.555Z, ERROR: Error while vote with index: 69 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "oleg_sokolov44002",
+  "password": "sokolovO578",
+  "email": "o.sokolov44002@inbox.ru",
+  "name": "Олег",
+  "lastname": "Соколов",
+  "phone": "+79781100070",
+  "day": 7,
+  "month": 9,
+  "year": 1983,
+  "delayMinutes": 10,
+  "delaySeconds": 15
+}
+2026-10-17 17:58:13.603Z, ERROR: Error while vote with index: 70 error: Waiting for selector `.adsaddform-2` failed 
+  User: {
+  "login": "nadezhda_kuznetsova32903",
+  "password": "kuznetsovaN589",
+  "email": "n.kuznetsova32903@rambler.ru",
+  "name": "Надежда",
+  "lastname": "Кузнецова",
+  "phone": "+79781100071",
+  "day": 25,
+  "month": 8,
+  "year": 1984,
+  "delayMinutes": 10,
+  "delaySeconds": 24
+}
+2026-10-19 22:56:16.830Z, ERROR: Error while vote with index: 72 error: Dropdown не найден 
+  User: {
+  "login": "lyudmila_popova10795",
+  "password": "popovaL601",
+  "email": "lyudmila.popova@zoho.com",
+  "name": "Людмила",
+  "lastname": "Попова",
+  "phone": "+79781100073",
+  "day": 11,
+  "month": 5,
+  "year": 2003,
+  "delayMinutes": 5,
+  "delaySeconds": 17
+}
+2026-10-19 23:30:12.971Z, ERROR: Error while vote with index: 79 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "darya_shishkina33002",
+  "password": "shishkinaD678",
+  "email": "darya.shishkina@mail.ru",
+  "name": "Дарья",
+  "lastname": "Шишкина",
+  "phone": "+79781100080",
+  "day": 23,
+  "month": 12,
+  "year": 2000,
+  "delayMinutes": 5,
+  "delaySeconds": 15
+}
+2026-10-20 00:24:06.643Z, ERROR: Error while vote with index: 89 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "anna_morozova22022",
+  "password": "morozovaA778",
+  "email": "anna.morozova@icloud.com",
+  "name": "Анна",
+  "lastname": "Морозова",
+  "phone": "+79781100090",
+  "day": 23,
+  "month": 1,
+  "year": 1983,
+  "delayMinutes": 5,
+  "delaySeconds": 25
+}
+2026-10-20 22:33:11.809Z, ERROR: Error while vote with index: 0 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "ivanpetrov987",
+  "password": "qwerty12345",
+  "email": "ivan.petrov987@gmail.com",
+  "name": "Иван",
+  "lastname": "Петров",
+  "phone": "+79781234567",
+  "day": 4,
+  "month": 1,
+  "year": 1986,
+  "delayMinutes": 5,
+  "delaySeconds": 37
+}
+2026-10-20 22:34:23.942Z, ERROR: Error while vote with index: 1 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "annaivanova2023",
+  "password": "anna2023!",
+  "email": "anna.ivanova2023@mail.ru",
+  "name": "Анна",
+  "lastname": "Иванова",
+  "phone": "+79787654321",
+  "day": 26,
+  "month": 5,
+  "year": 1987,
+  "delayMinutes": 5,
+  "delaySeconds": 56
+}
+2026-10-20 22:34:43.080Z, ERROR: Error while vote with index: 2 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "sergey.smirnov",
+  "password": "smirnov123",
+  "email": "sergey.smirnov@yandex.ru",
+  "name": "Сергей",
+  "lastname": "Смирнов",
+  "phone": "+79789876543",
+  "day": 17,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 46
+}
+2026-10-20 22:35:02.367Z, ERROR: Error while vote with index: 3 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "mariyakuznetsova",
+  "password": "kuznetsova99",
+  "email": "mariyakuznetsova@bk.ru",
+  "name": "Мария",
+  "lastname": "Кузнецова",
+  "phone": "+79785553333",
+  "day": 24,
+  "month": 8,
+  "year": 1985,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-20 22:41:40.356Z, ERROR: Error while vote with index: 5 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "elena.sidorova",
+  "password": "sidorova2020",
+  "email": "elena.sidorova@mail.ru",
+  "name": "Елена",
+  "lastname": "Сидорова",
+  "phone": "+79786667777",
+  "day": 17,
+  "month": 1,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 59
+}
+2026-10-20 22:41:58.926Z, ERROR: Error while vote with index: 6 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "dmitry.novikov",
+  "password": "novikovdmitry",
+  "email": "dmitry.novikov@gmail.com",
+  "name": "Дмитрий",
+  "lastname": "Новиков",
+  "phone": "+79788889999",
+  "day": 17,
+  "month": 7,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 47
+}
+2026-10-20 22:42:17.598Z, ERROR: Error while vote with index: 7 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "katyazaitseva",
+  "password": "zaitseva123",
+  "email": "katyazaitseva@mail.ru",
+  "name": "Катя",
+  "lastname": "Зайцева",
+  "phone": "+79781112222",
+  "day": 19,
+  "month": 8,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-20 22:42:36.105Z, ERROR: Error while vote with index: 8 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "maxim.ivanov",
+  "password": "maxivanov2023",
+  "email": "maxim.ivanov@yandex.ru",
+  "name": "Максим",
+  "lastname": "Иванов",
+  "phone": "+79783334444",
+  "day": 10,
+  "month": 7,
+  "year": 1982,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-20 22:42:54.580Z, ERROR: Error while vote with index: 9 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "olga.kravchenko",
+  "password": "kravchenko2021",
+  "email": "olga.kravchenko@gmail.com",
+  "name": "Ольга",
+  "lastname": "Кравченко",
+  "phone": "+79782223333",
+  "day": 19,
+  "month": 10,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 21
+}
+2026-10-20 22:44:06.426Z, ERROR: Error while vote with index: 10 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "anton.sidorov",
+  "password": "anton2023!",
+  "email": "anton.sidorov@mail.ru",
+  "name": "Антон",
+  "lastname": "Сидоров",
+  "phone": "+79789998888",
+  "day": 17,
+  "month": 10,
+  "year": 1995,
+  "delayMinutes": 5,
+  "delaySeconds": 31
+}
+2026-10-20 22:44:25.398Z, ERROR: Error while vote with index: 11 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "svetlana.morozova",
+  "password": "morozova2022",
+  "email": "svetlana.morozova@bk.ru",
+  "name": "Светлана",
+  "lastname": "Морозова",
+  "phone": "+79787776666",
+  "day": 9,
+  "month": 4,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 9
+}
+2026-10-20 22:44:43.358Z, ERROR: Error while vote with index: 12 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "anna.ivleva987",
+  "password": "anna987ivleva",
+  "email": "anna.ivleva987@gmail.com",
+  "name": "Анна",
+  "lastname": "Ивлева",
+  "phone": "+79781234567",
+  "day": 7,
+  "month": 3,
+  "year": 1988,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-20 22:45:01.476Z, ERROR: Error while vote with index: 13 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "mikhail.orlov2023",
+  "password": "orlovmikhail2023",
+  "email": "mikhail.orlov2023@mail.ru",
+  "name": "Михаил",
+  "lastname": "Орлов",
+  "phone": "+79787654321",
+  "day": 5,
+  "month": 3,
+  "year": 1993,
+  "delayMinutes": 5,
+  "delaySeconds": 51
+}
+2026-10-20 22:51:51.315Z, ERROR: Error while vote with index: 15 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "sergey.sidorov",
+  "password": "sidorovsergey2020",
+  "email": "sergey.sidorov@bk.ru",
+  "name": "Сергей",
+  "lastname": "Сидоров",
+  "phone": "+79785553333",
+  "day": 24,
+  "month": 6,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 55
+}
+2026-10-20 23:14:49.560Z, ERROR: Error while vote with index: 20 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "anton.ivanov",
+  "password": "ivanovanton2023",
+  "email": "anton.ivanov@mail.ru",
+  "name": "Антон",
+  "lastname": "Иванов",
+  "phone": "+79789998888",
+  "day": 8,
+  "month": 4,
+  "year": 1985,
+  "delayMinutes": 5,
+  "delaySeconds": 58
+}
+2026-10-20 23:40:01.427Z, ERROR: Error while vote with index: 25 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "elena.petrova88",
+  "password": "petrovaelena888",
+  "email": "elena.petrova88@yandex.ru",
+  "name": "Елена",
+  "lastname": "Петрова",
+  "phone": "+79789876543",
+  "day": 3,
+  "month": 3,
+  "year": 1998,
+  "delayMinutes": 5,
+  "delaySeconds": 4
+}
+2026-10-21 00:26:05.304Z, ERROR: Error while vote with index: 34 error: Waiting for selector `.alert-danger` failed 
+  User: {
+  "login": "irina.petrova2023",
+  "password": "petrovairina2023",
+  "email": "irina.petrova2023@gmail.com",
+  "name": "Ирина",
+  "lastname": "Петрова",
+  "phone": "+79781234552",
+  "day": 2,
+  "month": 12,
+  "year": 1997,
+  "delayMinutes": 5,
+  "delaySeconds": 3
+}
+2026-10-21 00:39:22.039Z, ERROR: Error while vote with index: 37 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "elena.petrova88",
+  "password": "petrovaelena888",
+  "email": "elena.petrova88@yandex.ru",
+  "name": "Елена",
+  "lastname": "Петрова",
+  "phone": "+79789876543",
+  "day": 27,
+  "month": 11,
+  "year": 1992,
+  "delayMinutes": 5,
+  "delaySeconds": 1
+}
+2026-10-21 01:40:27.389Z, ERROR: Error while vote with index: 48 error: Waiting for selector `#form` failed 
+  User: {
+  "login": "elena.smirnova7777",
+  "password": "smirnova7777",
+  "email": "elena.smirnova7777@yandex.ru",
+  "name": "Елена",
+  "lastname": "Смирнова",
+  "phone": "+79789876544",
+  "day": 22,
+  "month": 3,
+  "year": 1999,
+  "delayMinutes": 5,
+  "delaySeconds": 2
+}
+2026-11-21 13:40:42.380Z, ERROR: Error while vote with index: 0 error: Cannot read properties of undefined (reading 'slice') 
+  User: {
+  "0": {
+    "login": "k_vorobev1992",
+    "password": "Nebesa#24",
+    "email": "k.vorobev92@yandex.ru",
+    "name": "Кирилл",
+    "lastname": "Воробьёв",
+    "phone": "+79781243005"
+  },
+  "1": {
+    "login": "anastasia_guseva",
+    "password": "sunflower89",
+    "email": "a.guseva.89@mail.ru",
+    "name": "Анастасия",
+    "lastname": "Гусева",
+    "phone": "+79782291554"
+  },
+  "2": {
+    "login": "shadow_walker78",
+    "password": "Qwerty_2024!",
+    "email": "shadow.walker78@gmail.com",
+    "name": "Дмитрий",
+    "lastname": "Лебедев",
+    "phone": "+79783310247"
+  },
+  "3": {
+    "login": "mikhailov.ivan",
+    "password": "Avtomobil#7",
+    "email": "mikhailov.ivan@bk.ru",
+    "name": "Иван",
+    "lastname": "Михайлов",
+    "phone": "+79784425701"
+  },
+  "4": {
+    "login": "o_sokolova2001",
+    "password": "reboot_me_now",
+    "email": "olga.sokolova01@outlook.com",
+    "name": "Ольга",
+    "lastname": "Соколова",
+    "phone": "+79785531948"
+  },
+  "5": {
+    "login": "pavel_kuznetsov",
+    "password": "Traktorist32",
+    "email": "p.kuznetsov.32@yandex.ru",
+    "name": "Павел",
+    "lastname": "Кузнецов",
+    "phone": "+79786648201"
+  },
+  "6": {
+    "login": "green_apple_expert",
+    "password": "qweASD123",
+    "email": "green.apple.expert@mail.ru",
+    "name": "Сергей",
+    "lastname": "Попов",
+    "phone": "+79787756238"
+  },
+  "7": {
+    "login": "n_vasilyeva1995",
+    "password": "Nastenka_95",
+    "email": "n.vasilyeva95@list.ru",
+    "name": "Наталья",
+    "lastname": "Васильева",
+    "phone": "+79788863849"
+  },
+  "8": {
+    "login": "kotov_artem",
+    "password": "KotovArtem_777",
+    "email": "kotov.artem.777@gmail.com",
+    "name": "Артём",
+    "lastname": "Котов",
+    "phone": "+79789972105"
+  },
+  "9": {
+    "login": "v_petrov_1987",
+    "password": "starship87",
+    "email": "v.petrov.87@inbox.ru",
+    "name": "Виктор",
+    "lastname": "Петров",
+    "phone": "+79781083476"
+  },
+  "10": {
+    "login": "elena_orlova",
+    "password": "orlova_elena_03",
+    "email": "elena.orlova.03@yandex.ru",
+    "name": "Елена",
+    "lastname": "Орлова",
+    "phone": "+79782194732"
+  },
+  "11": {
+    "login": "yap_vse_slomal",
+    "password": "broken_dream_99",
+    "email": "yap.vse.slomal@mail.ru",
+    "name": "Максим",
+    "lastname": "Фролов",
+    "phone": "+79783205781"
+  },
+  "12": {
+    "login": "marina.kuznetsova",
+    "password": "Marmeladka_07",
+    "email": "m.kuznetsova.07@bk.ru",
+    "name": "Марина",
+    "lastname": "Кузнецова",
+    "phone": "+79784316824"
+  },
+  "13": {
+    "login": "alexey_rumyantsev",
+    "password": "DragonBorn#4",
+    "email": "a.rumyantsev.04@gmail.com",
+    "name": "Алексей",
+    "lastname": "Румянцев",
+    "phone": "+79785427805"
+  },
+  "14": {
+    "login": "s_vlasova_1993",
+    "password": "VlasovaSV_93",
+    "email": "s.vlasova.93@list.ru",
+    "name": "Светлана",
+    "lastname": "Власова",
+    "phone": "+79786538967"
+  },
+  "15": {
+    "login": "guest_4231",
+    "password": "TempPass_4231",
+    "email": "guest.4231@outlook.com",
+    "name": "Андрей",
+    "lastname": "Крылов",
+    "phone": "+79787649512"
+  },
+  "16": {
+    "login": "d_korolev_88",
+    "password": "KorolDima_88",
+    "email": "d.korolev.88@mail.ru",
+    "name": "Дмитрий",
+    "lastname": "Королёв",
+    "phone": "+79788751034"
+  },
+  "17": {
+    "login": "tatyana_belova",
+    "password": "BellaTanya_05",
+    "email": "t.belova.05@yandex.ru",
+    "name": "Татьяна",
+    "lastname": "Белова",
+    "phone": "+79789862147"
+  },
+  "18": {
+    "login": "true_nord",
+    "password": "nord_wind_777",
+    "email": "true.nord.777@bk.ru",
+    "name": "Владимир",
+    "lastname": "Морозов",
+    "phone": "+79781097328"
+  },
+  "19": {
+    "login": "i_kozlova_2000",
+    "password": "Kozlova_2000",
+    "email": "i.kozlova.00@list.ru",
+    "name": "Ирина",
+    "lastname": "Козлова",
+    "phone": "+79782108453"
+  },
+  "20": {
+    "login": "m_egorov_89",
+    "password": "EgorovM_89",
+    "email": "m.egorov.89@mail.ru",
+    "name": "Михаил",
+    "lastname": "Егоров",
+    "phone": "+79783219567"
+  },
+  "21": {
+    "login": "broken_arrow",
+    "password": "Arrow_down_12",
+    "email": "broken.arrow.12@gmail.com",
+    "name": "Никита",
+    "lastname": "Сидоров",
+    "phone": "+79784320681"
+  },
+  "22": {
+    "login": "anna_smirnova",
+    "password": "Anyuta_S_91",
+    "email": "anna.smirnova.91@yandex.ru",
+    "name": "Анна",
+    "lastname": "Смирнова",
+    "phone": "+79785431795"
+  },
+  "23": {
+    "login": "v_kuzmin_1985",
+    "password": "Kuzmin_V_85",
+    "email": "v.kuzmin.85@inbox.ru",
+    "name": "Василий",
+    "lastname": "Кузьмин",
+    "phone": "+79786542809"
+  },
+  "24": {
+    "login": "sparrow_hunter",
+    "password": "Sparrow_2024!",
+    "email": "sparrow.hunter@outlook.com",
+    "name": "Егор",
+    "lastname": "Титов",
+    "phone": "+79787653913"
+  },
+  "25": {
+    "login": "n_fedorova_1997",
+    "password": "Fedorova_N_97",
+    "email": "n.fedorova.97@list.ru",
+    "name": "Надежда",
+    "lastname": "Фёдорова",
+    "phone": "+79788764027"
+  },
+  "26": {
+    "login": "denis_morozov",
+    "password": "MorozDen_04",
+    "email": "denis.morozov.04@bk.ru",
+    "name": "Денис",
+    "lastname": "Морозов",
+    "phone": "+79789875141"
+  },
+  "27": {
+    "login": "lazy_panda_777",
+    "password": "panda_sleep_777",
+    "email": "lazy.panda.777@mail.ru",
+    "name": "Роман",
+    "lastname": "Никитин",
+    "phone": "+79781086255"
+  },
+  "28": {
+    "login": "yulia_komarova",
+    "password": "KomaYulia_99",
+    "email": "y.komarova.99@gmail.com",
+    "name": "Юлия",
+    "lastname": "Комарова",
+    "phone": "+79782197369"
+  },
+  "29": {
+    "login": "s_volkov_1988",
+    "password": "VolkovS_88",
+    "email": "s.volkov.88@yandex.ru",
+    "name": "Сергей",
+    "lastname": "Волков",
+    "phone": "+79783308483"
+  },
+  "30": {
+    "login": "orange_cat_88",
+    "password": "CatOrange_88",
+    "email": "orange.cat.88@inbox.ru",
+    "name": "Артём",
+    "lastname": "Соловьёв",
+    "phone": "+79784419597"
+  },
+  "31": {
+    "login": "k_zhukova_1994",
+    "password": "ZhukovaK_94",
+    "email": "k.zhukova.94@list.ru",
+    "name": "Кристина",
+    "lastname": "Жукова",
+    "phone": "+79785520711"
+  },
+  "32": {
+    "login": "maksim_pavlov",
+    "password": "PavlovMax_05",
+    "email": "maksim.pavlov.05@mail.ru",
+    "name": "Максим",
+    "lastname": "Павлов",
+    "phone": "+79786631825"
+  },
+  "33": {
+    "login": "dark_knight_92",
+    "password": "Batman_1992",
+    "email": "dark.knight.92@bk.ru",
+    "name": "Илья",
+    "lastname": "Богданов",
+    "phone": "+79787742939"
+  },
+  "34": {
+    "login": "o_vasilieva_1980",
+    "password": "VasilievaO_80",
+    "email": "o.vasilieva.80@outlook.com",
+    "name": "Ольга",
+    "lastname": "Васильева",
+    "phone": "+79788854053"
+  },
+  "35": {
+    "login": "pavel_krylov",
+    "password": "KrylovPavel_11",
+    "email": "p.krylov.11@gmail.com",
+    "name": "Павел",
+    "lastname": "Крылов",
+    "phone": "+79789965167"
+  },
+  "36": {
+    "login": "snegovik_2020",
+    "password": "Snowman_2020",
+    "email": "snegovik.2020@yandex.ru",
+    "name": "Андрей",
+    "lastname": "Зайцев",
+    "phone": "+79781076281"
+  },
+  "37": {
+    "login": "l_romanova_1996",
+    "password": "RomanovaL_96",
+    "email": "l.romanova.96@inbox.ru",
+    "name": "Людмила",
+    "lastname": "Романова",
+    "phone": "+79782187395"
+  },
+  "38": {
+    "login": "anton_borisov",
+    "password": "BorisovAnt_07",
+    "email": "anton.borisov.07@list.ru",
+    "name": "Антон",
+    "lastname": "Борисов",
+    "phone": "+79783298509"
+  },
+  "39": {
+    "login": "fire_bird_99",
+    "password": "FireBird_99!",
+    "email": "fire.bird.99@mail.ru",
+    "name": "Владислав",
+    "lastname": "Ковалёв",
+    "phone": "+79784309623"
+  },
+  "40": {
+    "login": "e_lebedeva_1989",
+    "password": "LebedevaE_89",
+    "email": "e.lebedeva.89@bk.ru",
+    "name": "Евгения",
+    "lastname": "Лебедева",
+    "phone": "+79785410737"
+  },
+  "41": {
+    "login": "kirill_makarov",
+    "password": "MakarovKir_02",
+    "email": "k.makarov.02@gmail.com",
+    "name": "Кирилл",
+    "lastname": "Макаров",
+    "phone": "+79786521851"
+  },
+  "42": {
+    "login": "night_owl_777",
+    "password": "OwlNight_777",
+    "email": "night.owl.777@outlook.com",
+    "name": "Дмитрий",
+    "lastname": "Сорокин",
+    "phone": "+79787632965"
+  },
+  "43": {
+    "login": "n_ilina_1991",
+    "password": "IlyinaN_91",
+    "email": "n.ilina.91@yandex.ru",
+    "name": "Наталья",
+    "lastname": "Ильина",
+    "phone": "+79788743079"
+  },
+  "44": {
+    "login": "v_gorbachev_1984",
+    "password": "GorbachevV_84",
+    "email": "v.gorbachev.84@inbox.ru",
+    "name": "Виктор",
+    "lastname": "Горбачёв",
+    "phone": "+79789854193"
+  },
+  "45": {
+    "login": "space_cowboy",
+    "password": "CowboySpace_21",
+    "email": "space.cowboy.21@list.ru",
+    "name": "Роман",
+    "lastname": "Филиппов",
+    "phone": "+79781065307"
+  },
+  "46": {
+    "login": "a_kiseleva_1998",
+    "password": "KiselevaA_98",
+    "email": "a.kiseleva.98@mail.ru",
+    "name": "Александра",
+    "lastname": "Киселёва",
+    "phone": "+79782176421"
+  },
+  "47": {
+    "login": "sergey_mironov",
+    "password": "MironovS_06",
+    "email": "s.mironov.06@bk.ru",
+    "name": "Сергей",
+    "lastname": "Миронов",
+    "phone": "+79783287535"
+  },
+  "48": {
+    "login": "red_fox_88",
+    "password": "RedFox_88",
+    "email": "red.fox.88@gmail.com",
+    "name": "Алексей",
+    "lastname": "Данилов",
+    "phone": "+79784398649"
+  },
+  "49": {
+    "login": "k_pavlova_1993",
+    "password": "PavlovaK_93",
+    "email": "k.pavlova.93@outlook.com",
+    "name": "Ксения",
+    "lastname": "Павлова",
+    "phone": "+79785509763"
+  },
+  "50": {
+    "login": "ivan_nikitin",
+    "password": "NikitinIvan_04",
+    "email": "i.nikitin.04@yandex.ru",
+    "name": "Иван",
+    "lastname": "Никитин",
+    "phone": "+79786610877"
+  },
+  "51": {
+    "login": "blue_ocean_77",
+    "password": "OceanBlue_77",
+    "email": "blue.ocean.77@inbox.ru",
+    "name": "Максим",
+    "lastname": "Орлов",
+    "phone": "+79787721991"
+  },
+  "52": {
+    "login": "m_semenova_1986",
+    "password": "SemenovaM_86",
+    "email": "m.semenova.86@list.ru",
+    "name": "Мария",
+    "lastname": "Семёнова",
+    "phone": "+79788832005"
+  },
+  "53": {
+    "login": "andrey_frolov",
+    "password": "FrolovAnd_01",
+    "email": "a.frolov.01@mail.ru",
+    "name": "Андрей",
+    "lastname": "Фролов",
+    "phone": "+79789943119"
+  },
+  "54": {
+    "login": "silent_whisper",
+    "password": "WhisperSilent_12",
+    "email": "silent.whisper.12@bk.ru",
+    "name": "Игорь",
+    "lastname": "Гусев",
+    "phone": "+79781054233"
+  },
+  "55": {
+    "login": "o_belova_1999",
+    "password": "BelovaO_99",
+    "email": "o.belova.99@gmail.com",
+    "name": "Ольга",
+    "lastname": "Белова",
+    "phone": "+79782165347"
+  },
+  "56": {
+    "login": "dmitry_sokolov",
+    "password": "SokolovD_08",
+    "email": "d.sokolov.08@yandex.ru",
+    "name": "Дмитрий",
+    "lastname": "Соколов",
+    "phone": "+79783276461"
+  },
+  "57": {
+    "login": "fallen_angel_99",
+    "password": "AngelFallen_99",
+    "email": "fallen.angel.99@outlook.com",
+    "name": "Никита",
+    "lastname": "Ершов",
+    "phone": "+79784387575"
+  },
+  "58": {
+    "login": "v_krylova_1992",
+    "password": "KrylovaV_92",
+    "email": "v.krylova.92@inbox.ru",
+    "name": "Вера",
+    "lastname": "Крылова",
+    "phone": "+79785498689"
+  },
+  "59": {
+    "login": "pavel_melnikov",
+    "password": "MelnikovP_03",
+    "email": "p.melnikov.03@list.ru",
+    "name": "Павел",
+    "lastname": "Мельников",
+    "phone": "+79786519703"
+  },
+  "60": {
+    "login": "white_wolf_88",
+    "password": "WhiteWolf_88",
+    "email": "white.wolf.88@mail.ru",
+    "name": "Евгений",
+    "lastname": "Тарасов",
+    "phone": "+79787620817"
+  },
+  "61": {
+    "login": "a_dmitrieva_1995",
+    "password": "DmitrievaA_95",
+    "email": "a.dmitrieva.95@bk.ru",
+    "name": "Анна",
+    "lastname": "Дмитриева",
+    "phone": "+79788731931"
+  },
+  "62": {
+    "login": "artem_bykov",
+    "password": "BykovArt_05",
+    "email": "a.bykov.05@gmail.com",
+    "name": "Артём",
+    "lastname": "Быков",
+    "phone": "+79789842045"
+  },
+  "63": {
+    "login": "black_cat_777",
+    "password": "BlackCat_777",
+    "email": "black.cat.777@yandex.ru",
+    "name": "Илья",
+    "lastname": "Виноградов",
+    "phone": "+79781053159"
+  },
+  "64": {
+    "login": "t_antonova_1987",
+    "password": "AntonovaT_87",
+    "email": "t.antonova.87@outlook.com",
+    "name": "Татьяна",
+    "lastname": "Антонова",
+    "phone": "+79782164273"
+  },
+  "65": {
+    "login": "sergey_orehov",
+    "password": "OrehovS_02",
+    "email": "s.orehov.02@inbox.ru",
+    "name": "Сергей",
+    "lastname": "Орехов",
+    "phone": "+79783275387"
+  },
+  "66": {
+    "login": "golden_dragon",
+    "password": "DragonGold_21",
+    "email": "golden.dragon.21@list.ru",
+    "name": "Максим",
+    "lastname": "Комаров",
+    "phone": "+79784386401"
+  },
+  "67": {
+    "login": "n_zaharova_1990",
+    "password": "ZaharovaN_90",
+    "email": "n.zaharova.90@mail.ru",
+    "name": "Надежда",
+    "lastname": "Захарова",
+    "phone": "+79785497515"
+  },
+  "68": {
+    "login": "vladimir_kozlov",
+    "password": "KozlovV_06",
+    "email": "v.kozlov.06@bk.ru",
+    "name": "Владимир",
+    "lastname": "Козлов",
+    "phone": "+79786608629"
+  },
+  "69": {
+    "login": "crimson_tide",
+    "password": "TideCrimson_14",
+    "email": "crimson.tide.14@gmail.com",
+    "name": "Роман",
+    "lastname": "Пантелеев",
+    "phone": "+79787719743"
+  },
+  "70": {
+    "login": "e_moiseeva_1998",
+    "password": "MoiseevaE_98",
+    "email": "e.moiseeva.98@yandex.ru",
+    "name": "Екатерина",
+    "lastname": "Моисеева",
+    "phone": "+79788820857"
+  },
+  "71": {
+    "login": "andrey_petrov",
+    "password": "PetrovAnd_04",
+    "email": "a.petrov.04@outlook.com",
+    "name": "Андрей",
+    "lastname": "Петров",
+    "phone": "+79789931971"
+  },
+  "72": {
+    "login": "frost_giant",
+    "password": "FrostGiant_88",
+    "email": "frost.giant.88@inbox.ru",
+    "name": "Денис",
+    "lastname": "Наумов",
+    "phone": "+79781043085"
+  },
+  "73": {
+    "login": "m_sorokina_1993",
+    "password": "SorokinaM_93",
+    "email": "m.sorokina.93@list.ru",
+    "name": "Марина",
+    "lastname": "Сорокина",
+    "phone": "+79782154199"
+  },
+  "74": {
+    "login": "kirill_zhukov",
+    "password": "ZhukovK_01",
+    "email": "k.zhukov.01@mail.ru",
+    "name": "Кирилл",
+    "lastname": "Жуков",
+    "phone": "+79783265313"
+  },
+  "75": {
+    "login": "phantom_99",
+    "password": "Phantom_99",
+    "email": "phantom.99@bk.ru",
+    "name": "Алексей",
+    "lastname": "Фомин",
+    "phone": "+79784376427"
+  },
+  "76": {
+    "login": "a_vorontsova_1996",
+    "password": "VorontsovaA_96",
+    "email": "a.vorontsova.96@gmail.com",
+    "name": "Алина",
+    "lastname": "Воронцова",
+    "phone": "+79785487541"
+  },
+  "77": {
+    "login": "pavel_belov",
+    "password": "BelovP_07",
+    "email": "p.belov.07@yandex.ru",
+    "name": "Павел",
+    "lastname": "Белов",
+    "phone": "+79786598655"
+  },
+  "78": {
+    "login": "lightning_88",
+    "password": "Lightning_88",
+    "email": "lightning.88@outlook.com",
+    "name": "Игорь",
+    "lastname": "Калинин",
+    "phone": "+79787709769"
+  },
+  "79": {
+    "login": "n_medvedeva_1989",
+    "password": "MedvedevaN_89",
+    "email": "n.medvedeva.89@inbox.ru",
+    "name": "Наталья",
+    "lastname": "Медведева",
+    "phone": "+79788810883"
+  },
+  "80": {
+    "login": "dmitry_ershov",
+    "password": "ErshovD_03",
+    "email": "d.ershov.03@list.ru",
+    "name": "Дмитрий",
+    "lastname": "Ершов",
+    "phone": "+79789921997"
+  },
+  "81": {
+    "login": "storm_breaker",
+    "password": "StormBreaker_11",
+    "email": "storm.breaker.11@mail.ru",
+    "name": "Максим",
+    "lastname": "Лапин",
+    "phone": "+79781032111"
+  },
+  "82": {
+    "login": "v_polyakova_1997",
+    "password": "PolyakovaV_97",
+    "email": "v.polyakova.97@bk.ru",
+    "name": "Валерия",
+    "lastname": "Полякова",
+    "phone": "+79782143225"
+  },
+  "83": {
+    "login": "artem_grigoriev",
+    "password": "GrigorievA_05",
+    "email": "a.grigoriev.05@gmail.com",
+    "name": "Артём",
+    "lastname": "Григорьев",
+    "phone": "+79783254339"
+  },
+  "84": {
+    "login": "shadow_777",
+    "password": "Shadow_777",
+    "email": "shadow.777@yandex.ru",
+    "name": "Илья",
+    "lastname": "Кириллов",
+    "phone": "+79784365453"
+  },
+  "85": {
+    "login": "e_kuzmina_1994",
+    "password": "KuzminaE_94",
+    "email": "e.kuzmina.94@outlook.com",
+    "name": "Елена",
+    "lastname": "Кузьмина",
+    "phone": "+79785476567"
+  },
+  "86": {
+    "login": "sergey_voronin",
+    "password": "VoroninS_08",
+    "email": "s.voronin.08@inbox.ru",
+    "name": "Сергей",
+    "lastname": "Воронин",
+    "phone": "+79786587681"
+  },
+  "87": {
+    "login": "red_rose_99",
+    "password": "RoseRed_99",
+    "email": "red.rose.99@list.ru",
+    "name": "Анастасия",
+    "lastname": "Алексеева",
+    "phone": "+79787698795"
+  },
+  "88": {
+    "login": "a_mironova_1992",
+    "password": "MironovaA_92",
+    "email": "a.mironova.92@mail.ru",
+    "name": "Александра",
+    "lastname": "Миронова",
+    "phone": "+79788709809"
+  },
+  "89": {
+    "login": "vladimir_bolshakov",
+    "password": "BolshakovV_04",
+    "email": "v.bolshakov.04@bk.ru",
+    "name": "Владимир",
+    "lastname": "Большаков",
+    "phone": "+79789810923"
+  },
+  "90": {
+    "login": "night_rain_77",
+    "password": "RainNight_77",
+    "email": "night.rain.77@gmail.com",
+    "name": "Роман",
+    "lastname": "Гончаров",
+    "phone": "+79781022037"
+  },
+  "91": {
+    "login": "k_savina_1995",
+    "password": "SavinaK_95",
+    "email": "k.savina.95@yandex.ru",
+    "name": "Кристина",
+    "lastname": "Савина",
+    "phone": "+79782133151"
+  },
+  "92": {
+    "login": "andrey_titov",
+    "password": "TitovAnd_01",
+    "email": "a.titov.01@outlook.com",
+    "name": "Андрей",
+    "lastname": "Титов",
+    "phone": "+79783244265"
+  },
+  "93": {
+    "login": "golden_phoenix",
+    "password": "PhoenixGold_21",
+    "email": "golden.phoenix.21@inbox.ru",
+    "name": "Дмитрий",
+    "lastname": "Коротков",
+    "phone": "+79784355379"
+  },
+  "94": {
+    "login": "m_panova_1998",
+    "password": "PanovaM_98",
+    "email": "m.panova.98@list.ru",
+    "name": "Мария",
+    "lastname": "Панова",
+    "phone": "+79785466493"
+  },
+  "95": {
+    "login": "kirill_moiseev",
+    "password": "MoiseevK_06",
+    "email": "k.moiseev.06@mail.ru",
+    "name": "Кирилл",
+    "lastname": "Моисеев",
+    "phone": "+79786577507"
+  },
+  "96": {
+    "login": "silver_bullet",
+    "password": "BulletSilver_88",
+    "email": "silver.bullet.88@bk.ru",
+    "name": "Евгений",
+    "lastname": "Устинов",
+    "phone": "+79787688621"
+  },
+  "97": {
+    "login": "o_koroleva_1993",
+    "password": "KorolevaO_93",
+    "email": "o.koroleva.93@gmail.com",
+    "name": "Ольга",
+    "lastname": "Королёва",
+    "phone": "+79788799735"
+  },
+  "98": {
+    "login": "pavel_gusev",
+    "password": "GusevPavel_02",
+    "email": "p.gusev.02@yandex.ru",
+    "name": "Павел",
+    "lastname": "Гусев",
+    "phone": "+79789810849"
+  },
+  "99": {
+    "login": "dark_star_99",
+    "password": "StarDark_99",
+    "email": "dark.star.99@outlook.com",
+    "name": "Максим",
+    "lastname": "Кузнецов",
+    "phone": "+79781021963"
+  },
+  "day": 5,
+  "month": 1,
+  "year": 2001,
+  "delayMinutes": 11,
+  "delaySeconds": 7
+}
